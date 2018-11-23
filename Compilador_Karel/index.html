@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+    <title> Karel en C </title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="estilo.css" />
+    <script type="text/javascript" src="compilador.js"></script>
+    </head>    
+    <body>
+        <header>
+        <h1> Analizadores </h1>
+        </header>
+        <section>
+            <article float:"left">
+                <P>
+<TEXTAREA rows="32" cols="65" name="codigo" id="codigo">
+define mueveNveces(n){
+    si(NOT esCero(n)){
+        iterar(sucesor(n)){
+            mover();
+        }
+    }
+    sino{
+        girarALaIzquierda();
+    }
+}
+principal(){
+    mueveNveces(5);
+    si((viendoAlOeste OR viendoAlNorte)AND elFrenteEsClaro){
+        mover();
+    }
+    apagar();
+}</TEXTAREA><BR> 
+<!--
+/*
+se definen funciones como en C/C++
+*/define gira(n){
+iterar(n){
+girarALaIzquierda();
+}
+}
+//Las funciones no retornan valores
+define mueveAtope(){
+mientras(elFrenteEsClaro){
+mover();
+}
+}
+//Existe el retorno sin parámetros para salir de una f
+define noHaceNada(){
+retornar();
+}
+//El único tipo de datos en Karel son los enteros
+principal(){
+si((viendoAlOeste AND viendoAlOeste)AND(viendoAlNorte)OR(viendoAlOeste AND viendoAlOeste)){
+//Se especifican en el código, ya que no hay variables
+mueveNveces(2);
+}
+apagar();
+}
+-->
+                <INPUT type="submit" onclick="compilarCodigo()" value="CompilarCodigo">   
+                <INPUT type="submit" onclick="compilarLenguaje()" value="CompilarLenguaje">
+                </P>
+            </article>
+            <hr>
+        </section>
+    </body>
+</html>
