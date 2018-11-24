@@ -29,7 +29,7 @@ var motorTokens=[]
  * Función para compilar el código otorgado por el usuario, obtiene el código directamente el HTML
 */
 function compilarCodigo() {
-    var [tokens, e] = analizadorLexico(document.getElementById("codigo").value.split("\n"))
+    let [tokens, e] = analizadorLexico(document.getElementById("codigo").value.split("\n"))
     if(e==""){
         var resultado = ASLR(TablaAnalisisSintactico_, tokens, getArrayReglasAumentadas(), ColeccionCanonica_) 
         console.log( resultado ) 
@@ -51,11 +51,11 @@ function compilarLenguaje(){
  * @param {Array(String)} arrayLineas 
  */
 function analizadorLexico(arrayLineas) {
-    var flagBC = false
-    var mensaje = ""
-    var resultforline = new Array();
-    for (i = 0; i < arrayLineas.length; i++) {
-        var xx = arrayLineas[i]
+    let flagBC = false
+    let mensaje = ""
+    let resultforline = new Array();
+    for (let i = 0; i < arrayLineas.length; i++) {
+        let xx = arrayLineas[i]
         if( flagBC==false && xx.indexOf("/*") !=-1 ){
             flagBC = true
             if(xx.indexOf("*/") !=-1){ 
@@ -74,7 +74,7 @@ function analizadorLexico(arrayLineas) {
         if(xx.indexOf("//")!=-1){
             xx = xx.slice(0, xx.indexOf("//"))
         }
-        var rr = []
+        let rr = []
         rr[i] = xx
         if( xx!=[] && flagBC==false ){
             [resultforline[i],mensaje] = tokenizar(rr[i]);
@@ -90,15 +90,15 @@ function analizadorLexico(arrayLineas) {
  * Analizador sintáctico, retorna la TAS(Tabla de analisis sintactico) y los estados de la colección canónica
 */
 function analizadorSintactico() {
-    var pila = new Array()
-    var reglas_produccion = getArrayReglasAumentadas()
-    var _Primeros_ = Primero(reglas_produccion)
-    var _Siguientes_ = Siguiente(reglas_produccion, _Primeros_)
+    let pila = new Array()
+    let reglas_produccion = getArrayReglasAumentadas()
+    let _Primeros_ = Primero(reglas_produccion)
+    let _Siguientes_ = Siguiente(reglas_produccion, _Primeros_)
     if (terminales.indexOf("$") == -1) { 
         terminales.push("$") 
     }
-    var _EdosCC_ = ColeccionCanonica(reglas_produccion)
-    var _TablaA_ = tablaAnalisis(_EdosCC_, _Siguientes_, reglas_produccion)
+    let _EdosCC_ = ColeccionCanonica(reglas_produccion)
+    let _TablaA_ = tablaAnalisis(_EdosCC_, _Siguientes_, reglas_produccion)
     return [_TablaA_, _EdosCC_]
 }
 /**
@@ -130,11 +130,11 @@ function isFuncionBooleana(value) {
 function tokenizar(str) {
     str.replace(/\s+/g, "")
     str = str.split("");
-    var result = [];
-    var letterBuffer = [];
-    var numberBuffer = [];
-    var buffAux = "";
-    var mens = ""
+    let result = [];
+    let letterBuffer = [];
+    let numberBuffer = [];
+    let buffAux = "";
+    let mens = ""
     str.forEach(function (char, idx) {
         if(char!=="\t")
             if (isDigit(char)) {
@@ -232,7 +232,7 @@ function tokenizar(str) {
                         return [result, mens]
                     }
                     else {
-                        result.push(new Token("Literal", buffAux));
+                        result.push(new Token("----", buffAux));
                     }
                 }
                 if (char !== ' ') {
@@ -246,7 +246,7 @@ function tokenizar(str) {
     compacta(result)
     return [result,mens]
     function compacta(result) {
-        for (var i = 0; i > result.length; i++) {
+        for (let i = 0; i > result.length; i++) {
             if (result[i] === undefined || result[i] === null) {
                 result.splice(i, 1);
             }
@@ -269,11 +269,11 @@ function tokenizar(str) {
  * 
  */
 function ASLR(t, tokens, reglas_produccion, Edos_CC){
-    var tok_aux = []
+    let tok_aux = []
     i=-1
     tokens.forEach(
         function(lt, ind_){
-            for(var x=0; x<lt.length; x++){
+            for(let x=0; x<lt.length; x++){
                 switch(lt[x].type){
                     case "Identificador":{
                         tok_aux.push( {value: "Identificador", type:lt[x].type, ind_:ind_, name:lt[x].value} )
@@ -309,26 +309,24 @@ function ASLR(t, tokens, reglas_produccion, Edos_CC){
         }
     )
     tok_aux.push( {value: "$", type:"Simbolo Terminal", ind_:tokens.length} )
-    var Accion = t[0]
-    var Ir_a = t[1]
-    var pila = []
-    var a, s
-    var tok_actual = 0
-    var seguir = false
-    var mensaje = ""
-    var conjuntoInstrucciones = []
+    let Accion = t[0]
+    let Ir_a = t[1]
+    let pila = []
+    let a, s
+    let tok_actual = 0
+    let seguir = false
+    let mensaje = ""
     pila.push(0)
     do{
         s = pila[pila.length-1]
         a = tok_aux[ tok_actual ].value
         console.log( "\n\nToken: "+ tok_aux[ tok_actual ].value +", n: "+tok_actual+"\t\tAccion[ a:"+a+", S:"+ s+" ]:"+ Accion[a][s] )
-        var exp = typeof( Accion[a][s] )
         switch( typeof(Accion[a][s]) ){
             case 'string':{
                 switch( Accion[a][s][0] ){
                     case "d":{
                         console.log( "Desplazar  " + Accion[a][s] )
-                        var auxx = Accion[a][s].substr(1,Accion[a][s].length)
+                        let auxx = Accion[a][s].substr(1,Accion[a][s].length)
                         pila.push(a)
                         pila.push(auxx)
                         tok_actual++
@@ -337,11 +335,11 @@ function ASLR(t, tokens, reglas_produccion, Edos_CC){
                     }
                     case "r":{ //
                         console.log( "Reducir  "+ Accion[a][s]) 
-                        var auxx = Accion[a][s].substr(1,Accion[a][s].length)
-                        var pos_x_y_RP = auxx.split(",")
-                        var RP = reglas_produccion[ pos_x_y_RP[0] ] 
+                        let auxx = Accion[a][s].substr(1,Accion[a][s].length)
+                        let pos_x_y_RP = auxx.split(",")
+                        let RP = reglas_produccion[ pos_x_y_RP[0] ] 
                         RP = [ RP[0], [RP[1][pos_x_y_RP[1]]] ]
-                        var jota
+                        let jota
                         if(RP[1][0]!=="E"){
                             pila = pila.splice(0, pila.length-((RP[1][0].split(" ").length)*2))
                             jota = pila[pila.length-1]
@@ -388,7 +386,7 @@ function Semantico(){
     err=punteroSemantico(motorTokens.length-1);
     if(err!="")
         return err;
-    for(i=0;i<motorTokens.length-1;i++){
+    for(let i=0;i<motorTokens.length-1;i++){
         for(j=i+1;j<motorTokens.length;j++)
             if(motorTokens[i][0].value==motorTokens[j][0].value)
                 return "\nError: Doble definición de funcion " + motorTokens[i][0].value  +
@@ -396,7 +394,7 @@ function Semantico(){
         
     }
     funVisit.sort(sortNumber);
-    for(i=0;i<motorTokens.length;i++){
+    for(let i=0;i<motorTokens.length;i++){
         if(i!=funVisit[i])
             return "\Advertencia: Función innecesaria" + motorTokens[i][0].value +
                 " Línea: " + (motorTokens[i][0].ind_+1) ;
@@ -406,7 +404,6 @@ function Semantico(){
 function sortNumber(a,b) {
     return a - b;
 }
-
 function punteroSemantico(indx,params=[]){
     funVisit.push(indx);
     let indIns=indx;
@@ -426,7 +423,7 @@ function punteroSemantico(indx,params=[]){
         }
     }
     let error=true;
-    for(ins=1;ins<motorTokens[indIns].length;ins++){
+    for(let ins=1;ins<motorTokens[indIns].length;ins++){
         if(isNaN(motorTokens[indIns][ins].value)==true)
         if(PALABRAS_RESERVADAS.indexOf(motorTokens[indIns][ins].value)==-1 && 
             FUNCIONES_BOOLEANAS.indexOf(motorTokens[indIns][ins].value) ==-1 && 
@@ -467,34 +464,32 @@ function punteroSemantico(indx,params=[]){
  */
 function tablaAnalisis(Edos_CC, S, reglas_produccion) {
     terminales.splice(terminales.indexOf("E"), 1)
-    var Accion = []
-    for (var a = 0; a < terminales.length; a++) {
+    let Accion = []
+    for(let a = 0; a < terminales.length; a++)
         Accion[terminales[a]] = new Array(Edos_CC.length)
-    }
-    var Ir_a = []
-    for (var a = 0; a < no_terminales.length; a++) {
+    let Ir_a = []
+    for(let a = 0; a < no_terminales.length; a++)
         Ir_a[no_terminales[a]] = new Array(Edos_CC.length)
-    }
-    for (var x = 0; x < Edos_CC.length; x++) {
-        var aux_x = Edos_CC[x]
+    for(let x = 0; x < Edos_CC.length; x++) {
+        let aux_x = Edos_CC[x]
         aux_x.forEach(
             function (X) {
-                var id_NT = X[0]
-                var arr = X[1]
-                for (var y = 0; y < arr.length; y++) {
+                let id_NT = X[0]
+                let arr = X[1]
+                for (let y = 0; y < arr.length; y++) {
                     if (compareObjects(arr[y], "·") == false) {
-                        var aux_arr = arr[y].split(" ")
-                        var pos = aux_arr.indexOf("·")
+                        let aux_arr = arr[y].split(" ")
+                        let pos = aux_arr.indexOf("·")
                         if (pos < aux_arr.length - 1) {
-                            var simboloB = aux_arr[pos + 1]
-                            var term = terminales.indexOf(simboloB) 
+                            let simboloB = aux_arr[pos + 1]
+                            let term = terminales.indexOf(simboloB) 
                             if ( term!==-1 ) { 
                                 if (simboloB == "$") {  
                                     Accion[simboloB][x] = "Aceptar"
                                 }
                                 else{
-                                    var temp = ir_a(arr[y], id_NT, CC)
-                                    var n = getPosicionEdo(Edos_CC, temp)
+                                    let temp = ir_a(arr[y], id_NT, CC)
+                                    let n = getPosicionEdo(Edos_CC, temp)
                                     if (n !== -1) {
                                         Accion[simboloB][x] = "d" + n
                                     }
@@ -502,8 +497,8 @@ function tablaAnalisis(Edos_CC, S, reglas_produccion) {
                             }
                             else {
                                 if(no_terminales.indexOf(simboloB)!==-1){    
-                                    var temp = ir_a(arr[y], id_NT, CC)
-                                    var n = getPosicionEdo(Edos_CC, temp)
+                                    let temp = ir_a(arr[y], id_NT, CC)
+                                    let n = getPosicionEdo(Edos_CC, temp)
                                     if(n!==-1){
                                         Ir_a[simboloB][x] = "" + n
                                     }
@@ -512,12 +507,12 @@ function tablaAnalisis(Edos_CC, S, reglas_produccion) {
                         }
                         else {
                             if (pos == aux_arr.length-1) {
-                                var RP_ = arr[y].split(" ")
-                                var RP_PP = RP_.indexOf("·")
+                                let RP_ = arr[y].split(" ")
+                                let RP_PP = RP_.indexOf("·")
                                 RP_ = RP_.splice(0, RP_PP).join(" ")
-                                var k = no_terminales.indexOf(id_NT)
-                                var aux_RP_N = reglas_produccion[k][1].indexOf(RP_)
-                                for (var a = 0; a < S[id_NT].length; a++) {
+                                let k = no_terminales.indexOf(id_NT)
+                                let aux_RP_N = reglas_produccion[k][1].indexOf(RP_)
+                                for (let a = 0; a < S[id_NT].length; a++) {
                                     if( typeof(Accion[S[id_NT][a]][x])=='undefined' ){
                                         Accion[S[id_NT][a]][x] = "r"+k+","+aux_RP_N
                                     }
@@ -526,16 +521,15 @@ function tablaAnalisis(Edos_CC, S, reglas_produccion) {
                         }
                     }
                     else{
-                        var RP_ = arr[y].split(" ")
-                        var RP_PP = RP_.indexOf("·")
+                        let RP_ = arr[y].split(" ")
+                        let RP_PP = RP_.indexOf("·")
                         RP_ = RP_.splice(0, RP_PP).join(" ")
                         if(RP_ == ""){
                             RP_ = "E"
                         }
-                        var k = no_terminales.indexOf(id_NT)
-                        var aux_RP_N = reglas_produccion[k][1].indexOf(RP_)
-                        var k = no_terminales.indexOf(id_NT)
-                        for (var a = 0; a < S[id_NT].length; a++) {
+                        let k = no_terminales.indexOf(id_NT)
+                        let aux_RP_N = reglas_produccion[k][1].indexOf(RP_)
+                        for (let a = 0; a < S[id_NT].length; a++) {
                             if( typeof(Accion[S[id_NT][a]][x])=='undefined' ){
                                 Accion[S[id_NT][a]][x] = "r"+k+","+aux_RP_N 
                             }
@@ -548,8 +542,8 @@ function tablaAnalisis(Edos_CC, S, reglas_produccion) {
     return [Accion, Ir_a]
 }
 function getPosicionEdo(A, p) {
-    for (var x = 0; x < A.length; x++) {
-        if (compareObjects(A[x], p)) {
+    for (let x = 0; x < A.length; x++) {
+        if (compareObjects(A[x], p) ) {
             return x
         }
     }
@@ -575,21 +569,20 @@ function ColeccionCanonica(reglas_produccion_aumentada) {
             }
         }
     ) 
-    var CERR_f_ = new Array()   
+    let CERR_f_ = new Array()   
     CERR_f_.push(cerradura(["S'", CC["S'"]], CC))
-    var edoActual = 0
-    var cambio_d
+    let cambio_d
     do {
         cambio_d = false
-        for (var a = 0; a < CERR_f_.length; a++) {
-            for (var b = 0; b < CERR_f_[a].length; b++) { 
+        for (let a = 0; a < CERR_f_.length; a++) {
+            for (let b = 0; b < CERR_f_[a].length; b++) { 
                 if (typeof (CERR_f_[a][b]) !== undefined) {  
-                    for (var c = 0; c < CERR_f_[a][b][1].length; c++) {
-                        var aux_p = CERR_f_[a][b][1][c].split(" ").indexOf("·")
-                        var edo = []
+                    for (let c = 0; c < CERR_f_[a][b][1].length; c++) {
+                        let aux_p = CERR_f_[a][b][1][c].split(" ").indexOf("·")
+                        let edo = []
                         if (aux_p < CERR_f_[a][b][1][c].split(" ").length - 1) {
                             edo = ir_a(CERR_f_[a][b][1][c], CERR_f_[a][b][0], CC)
-                            var esta = compruebaEstado(CERR_f_, edo)
+                            let esta = compruebaEstado(CERR_f_, edo)
                             if (!esta) {
                                 CERR_f_.push(edo)
                                 cambio_d = true
@@ -598,7 +591,6 @@ function ColeccionCanonica(reglas_produccion_aumentada) {
                     }
                 }
             }
-            edoActual++
         }
     } while (cambio_d); 
     return CERR_f_
@@ -607,19 +599,19 @@ function compareObjects(obj1, obj2) {
     return JSON.stringify(obj1) === JSON.stringify(obj2);
 }
 function compruebaEstado(A, p){
-    for (var x = 0; x < A.length; x++) {
+    for (let x = 0; x < A.length; x++) {
         if (compareObjects(A[x], p)) { return true }
     }
     return false
 }
 function ir_a(I, X, CC) {
-    var aux = I.toString().split(" ")
+    let aux = I.toString().split(" ")
     posicion = aux.indexOf("·") 
     if (posicion < aux.length - 1) {
-        var aux2 = aux[posicion]
+        let aux2 = aux[posicion]
         aux[posicion] = aux[posicion + 1]
         aux[posicion + 1] = aux2
-        var naux = new Array()
+        let naux = new Array()
         naux[0] = X
         naux[1] = [aux.join(" ")]
         if ((posicion + 1) == aux.length) {
@@ -632,24 +624,24 @@ function ir_a(I, X, CC) {
     return []
 }
 function cerradura(I, CC) {
-    var J = new Array()
+    let J = new Array()
     J.push(I)
-    var cambio = true
+    let cambio = true
     do {
         cambio = false
-        for (var a = 0; a < J.length; a++) {
-            for (var b = 0; b < J[a][1].length; b++) {
-                var aux2 = J[a][1][b]
+        for (let a = 0; a < J.length; a++) {
+            for (let b = 0; b < J[a][1].length; b++) {
+                let aux2 = J[a][1][b]
                 aux2 = aux2.toString()
                 aux2 = aux2.split(" ")
                 posicion = aux2.indexOf("·")
-                var B = aux2[posicion + 1]
+                let B = aux2[posicion + 1]
                 if (no_terminales.indexOf(B) !== -1) {
-                    var A_aux = new Array()
+                    let A_aux = new Array()
                     A_aux[0] = B
                     A_aux[1] = CC[B]
-                    var esta = false
-                    for (var nn = 0; nn < J.length; nn++) {
+                    let esta = false
+                    for (let nn = 0; nn < J.length; nn++) {
                         if (J[nn][0] == B) {
                             esta = true
                         }
@@ -666,31 +658,31 @@ function cerradura(I, CC) {
 }
 //
 function Siguiente(reglas_produccion, primeros_) {
-    var siguientes_ = []
-    for (var i = 0; i < no_terminales.length; i++) {
+    let siguientes_ = []
+    for (let i = 0; i < no_terminales.length; i++) {
         siguientes_[no_terminales[i]] = new Array()
     }
     siguientes_[no_terminales[0]].push("$")   
-    var cambios_follows = true
+    let cambios_follows = true
     while (cambios_follows) {                 
         cambios_follows = false
-        for (var i = 0; i < no_terminales.length - 1; i++) { 
-            var auxNT = no_terminales[i] 
-            for (var j = 0; j < reglas_produccion.length; j++){  
-                var auxProd = reglas_produccion[j][1]
-                for (var k = 0; k < auxProd.length; k++) {
-                    var produccionItems = auxProd[k].split(" ")
-                    var indiceNT = produccionItems.indexOf(auxNT) 
+        for (let i = 0; i < no_terminales.length - 1; i++) { 
+            let auxNT = no_terminales[i] 
+            for (let j = 0; j < reglas_produccion.length; j++){  
+                let auxProd = reglas_produccion[j][1]
+                for (let k = 0; k < auxProd.length; k++) {
+                    let produccionItems = auxProd[k].split(" ")
+                    let indiceNT = produccionItems.indexOf(auxNT) 
                     if (indiceNT != -1 && auxNT == produccionItems[produccionItems.length - 1]){ 
-                        for (var sig_ = 0; sig_ < siguientes_[reglas_produccion[j][0]].length; sig_++) {
-                            var aux_s_ = siguientes_[reglas_produccion[j][0]][sig_]
+                        for (let sig_ = 0; sig_ < siguientes_[reglas_produccion[j][0]].length; sig_++) {
+                            let aux_s_ = siguientes_[reglas_produccion[j][0]][sig_]
                             if (typeof (aux_s_) !== undefined && siguientes_[auxNT].indexOf(aux_s_) == -1) {
                                 siguientes_[auxNT].push(aux_s_)
                                 cambios_follows = true
                             }
                         }
                     } 
-                    var posicion = no_terminales.indexOf(produccionItems[indiceNT + 1])
+                    let posicion = no_terminales.indexOf(produccionItems[indiceNT + 1])
                     if (indiceNT != -1 && indiceNT < produccionItems.length) {
                         if (posicion == -1) { 
                             if (typeof (produccionItems[indiceNT + 1]) !== undefined && siguientes_[auxNT].indexOf(produccionItems[indiceNT + 1]) == -1) {
@@ -700,7 +692,7 @@ function Siguiente(reglas_produccion, primeros_) {
                         }
                         else { 
                             if (primeros_[no_terminales[posicion]].indexOf("E") == -1) {
-                                for (var sig_ = 0; sig_ < primeros_[no_terminales[posicion]].length; sig_++) {
+                                for (let sig_ = 0; sig_ < primeros_[no_terminales[posicion]].length; sig_++) {
                                     if (typeof (primeros_[no_terminales[posicion]][sig_]) !== undefined && siguientes_[auxNT].indexOf(primeros_[no_terminales[posicion]][sig_]) == -1) {
                                         siguientes_[auxNT].push(primeros_[no_terminales[posicion]][sig_])
                                         cambios_follows = true
@@ -708,14 +700,14 @@ function Siguiente(reglas_produccion, primeros_) {
                                 }
                             }
                             else {
-                                for (var sig_ = 0; sig_ < primeros_[no_terminales[posicion]].length; sig_++) { 
+                                for (let sig_ = 0; sig_ < primeros_[no_terminales[posicion]].length; sig_++) { 
                                     if (siguientes_[auxNT].indexOf(primeros_[no_terminales[posicion]][sig_]) == -1 && primeros_[no_terminales[posicion]][sig_] != "E" && typeof (primeros_[no_terminales[posicion]][sig_]) !== undefined) {
                                         siguientes_[auxNT].push(primeros_[no_terminales[posicion]][sig_])
                                         cambios_follows = true
                                     }
                                 } 
-                                for (var sig_ = 0; sig_ < siguientes_[reglas_produccion[j][0]].length; sig_++) {
-                                    var aux_s_ = siguientes_[reglas_produccion[j][0]][sig_]
+                                for (let sig_ = 0; sig_ < siguientes_[reglas_produccion[j][0]].length; sig_++) {
+                                    let aux_s_ = siguientes_[reglas_produccion[j][0]][sig_]
                                     if (typeof (aux_s_) !== undefined && siguientes_[auxNT].indexOf(aux_s_) == -1 && aux_s_ != "E") {
                                         siguientes_[auxNT].push(aux_s_)
                                         cambios_follows = true
@@ -728,8 +720,8 @@ function Siguiente(reglas_produccion, primeros_) {
             }
         }
     }
-    for (var np = 0; np < no_terminales.length; np++) {
-        var pos_und = siguientes_[no_terminales[np]].indexOf(undefined)
+    for (let np = 0; np < no_terminales.length; np++) {
+        let pos_und = siguientes_[no_terminales[np]].indexOf(undefined)
         if (pos_und !== -1) {
             siguientes_[no_terminales[np]].splice(pos_und, 1)
         }
@@ -737,13 +729,13 @@ function Siguiente(reglas_produccion, primeros_) {
     return siguientes_
 }
 function Primero(reglas_produccion) {
-    var primeros_ = []
-    for (var i = 0; i < no_terminales.length - 1; i++) {  
-        var auxNT = no_terminales[i]    //
+    let primeros_ = []
+    for (let i = 0; i < no_terminales.length - 1; i++) {  
+        let auxNT = no_terminales[i]    //
         primeros_[auxNT] = new Array()
-        for (var k = 0; k < reglas_produccion[i][1].length; k++) {  
-            var produccionItems = reglas_produccion[i][1][k].split(" ")
-            var _terminal_ = false
+        for (let k = 0; k < reglas_produccion[i][1].length; k++) {  
+            let produccionItems = reglas_produccion[i][1][k].split(" ")
+            let _terminal_ = false
             if (terminales.indexOf(produccionItems[0]) != -1 && typeof (produccionItems[0]) !== undefined && primeros_[auxNT].indexOf(produccionItems[0]) == -1) {
                 primeros_[auxNT].push(produccionItems[0])
                 _terminal_ = true
@@ -751,16 +743,16 @@ function Primero(reglas_produccion) {
             if (produccionItems.length == 1 && (produccionItems[0] == "E" || produccionItems[0] == "") && primeros_[auxNT].indexOf("E") == -1) {
                 primeros_[auxNT].push(produccionItems["E"])
             }
-            var ind_ = no_terminales.indexOf(produccionItems[0])
-            var pilaAux = []
-            var pilaVisitados = []
+            let ind_ = no_terminales.indexOf(produccionItems[0])
+            let pilaAux = []
+            let pilaVisitados = []
             pilaAux.push(auxNT)
             pilaVisitados.push(auxNT)
             if (!_terminal_ && ind_ != -1) {
                 pilaAux.pop() 
-                var prod_actual_ = reglas_produccion[ind_]  
-                for (var aux_pi_ = 0; aux_pi_ < prod_actual_[1].length; aux_pi_++) {
-                    var aux_item = prod_actual_[1][aux_pi_].split(" ")
+                let prod_actual_ = reglas_produccion[ind_]  
+                for (let aux_pi_ = 0; aux_pi_ < prod_actual_[1].length; aux_pi_++) {
+                    let aux_item = prod_actual_[1][aux_pi_].split(" ")
                     aux_item = aux_item[0] 
                     if (pilaVisitados.indexOf(aux_item) == -1) {
                         pilaAux.push(aux_item)
@@ -774,9 +766,9 @@ function Primero(reglas_produccion) {
                         else { 
                             ind_ = no_terminales.indexOf(aux_item)
                             if (ind_ != -1) {
-                                var aux1 = reglas_produccion[ind_]
-                                for (var _x_ = 0; _x_ < aux1[1].length; _x_++) {
-                                    var aux2 = aux1[1][_x_].split(" ")
+                                let aux1 = reglas_produccion[ind_]
+                                for (let _x_ = 0; _x_ < aux1[1].length; _x_++) {
+                                    let aux2 = aux1[1][_x_].split(" ")
                                     if (pilaVisitados.indexOf(aux2[0].toString()) == -1) {
                                         pilaAux.push(aux2[0])
                                         pilaVisitados.push(aux2[0])
@@ -797,20 +789,20 @@ function Primero(reglas_produccion) {
     return primeros_
 }
 function getArrayReglasAumentadas(){
-    var reglas_produccion = getArrayReglas()
-    var reglas_produccion_aumentada = []
+    let reglas_produccion = getArrayReglas()
+    let reglas_produccion_aumentada = []
     reglas_produccion_aumentada[0] = new Array()
     reglas_produccion_aumentada[0][0] = "S'"
     reglas_produccion_aumentada[0][1] = new Array(no_terminales[1] + " $")
-    for (var a = 0; a < reglas_produccion.length; a++) {
+    for (let a = 0; a < reglas_produccion.length; a++) {
         reglas_produccion_aumentada[a + 1] = reglas_produccion[a]
     }
     return reglas_produccion_aumentada
 }
 function getArrayReglas() {
-    var J = getReglas()
-    var reglasMap = []
-    for (var a = 0; a < J.length; a++) {
+    let J = getReglas()
+    let reglasMap = []
+    for (let a = 0; a < J.length; a++) {
         reglasMap[a] = new Array()
         reglasMap[a][0] = J[a][0]
         reglasMap[a][1] = new Array()
@@ -819,7 +811,7 @@ function getArrayReglas() {
     return reglasMap
 }
 function getReglas() {
-    var X = [
+    let X = [
         ["Declaracion_de_programa", "[Declaracion_de_metodo] principal ( ) Bloque"],
         ["[Declaracion_de_metodo]", "E|Declaracion_de_metodo"],
         ["Declaracion_de_metodo", "Tipo Firma_de_metodo Bloque"],
