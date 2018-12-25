@@ -1,4 +1,4 @@
 "
--Aplicaci¢n de los algoritmos: Recocido simulado, b£squeda Tab£ y b£squeda arm¢nica; para la soluci¢n del problema VRP(Problema de enrutamiento de veh¡culos) RS_BT_BA.cpp
+-Aplicaciion de los algoritmos: Recocido simulado, busqueda Tabu , busqueda armonica y algoritmo genético; todos son para la solucion del problema VRP(Problema de enrutamiento de vehiculos) RS_BT_BA.cpp
 -
 " 
