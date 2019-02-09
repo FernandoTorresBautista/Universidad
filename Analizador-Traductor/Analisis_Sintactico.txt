@@ -1,0 +1,11 @@
+Pila					Tira_Tokens					Salida
+0 					int id.'a', id.'b'; $ 					d3
+3 int 0 					id.'a', id.'b'; $ 					r4 T -> int { T.trad:= "integer" } 
+2 T.""integer"" 0 					id.'a', id.'b'; $ 					d5
+5 id.'a' 2 T.""integer"" 0 					, id.'b'; $ 					d7
+7 , 5 id.'a' 2 T.""integer"" 0 					id.'b'; $ 					d9
+9 id.'b' 7 , 5 id.'a' 2 T.""integer"" 0 					; $ 					r3 L -> ^ { L.trad:=  } 
+10 L."" 9 id.'b' 7 , 5 id.'a' 2 T.""integer"" 0 					; $ 					r2 L -> , id L { L.trad:= "," || id.valex || L.trad } 
+6 L.", b" 5 id.'a' 2 T.""integer"" 0 					; $ 					d8
+8 ; 6 L.", b" 5 id.'a' 2 T.""integer"" 0 					$ 					r1 S -> T id L ; { S.trad:= "var" || id.valex || L.trad || ":" || T.trad || ";" } 
+1 S."var a ,   b: i n t e g e r;" 0 					$ 					Aceptacion

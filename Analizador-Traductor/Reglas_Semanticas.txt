@@ -1,0 +1,5 @@
+{ S.trad:= "var" || id.valex || L.trad || ":" || T.trad || ";" }
+{ L.trad:= "," || id.valex || L.trad }
+{ L.trad:=  }
+{ T.trad:= "integer" }
+{ T.trad:= "real" }

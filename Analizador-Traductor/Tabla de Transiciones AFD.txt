@@ -1,0 +1,5 @@
+E.	l	d	D	
+A	B	C	D	
+B	B	C	-	
+C	B	C	-	
+D	-	-	-	

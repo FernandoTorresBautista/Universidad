@@ -1,0 +1,17 @@
+( ParI
+) ParD
+[ CorcheteI
+] CorcheteD
+{ LlaveI
+} LlaveD
+: DosPuntos
+; PyC
+, Coma
+* OpMulti
+/ OpDiv
++ OpSuma
+- OpResta
+= OpAsig
+% OpModulo
+> MayorQue
+< MenorQue

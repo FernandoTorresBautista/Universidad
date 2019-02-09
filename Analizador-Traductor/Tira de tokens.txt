@@ -1,0 +1,6 @@
+# Linea		Token		Lexemas		
+1		Pa.Res.		int		
+1		Id		a		
+1		Coma		,		
+1		Id		b		
+1		PyC		;		

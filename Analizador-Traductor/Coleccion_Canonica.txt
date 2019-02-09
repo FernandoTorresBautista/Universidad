@@ -1,0 +1,12 @@
+I0=({ [ S' -> · S $  ]  [ S -> · T id L ;  ]  [ T -> · int  ]  [ T -> · float  ] )}
+I1=({ [ S' -> S · $  ] )}
+I2=({ [ S -> T · id L ;  ] )}
+I3=({ [ T -> int ·  ] )}
+I4=({ [ T -> float ·  ] )}
+Ir_a(I1,$)=Aceptacion
+I5=({ [ S -> T id · L ;  ]  [ L -> · , id L  ]  [ L -> ·  ] )}
+I6=({ [ S -> T id L · ;  ] )}
+I7=({ [ L -> , · id L  ] )}
+I8=({ [ S -> T id L ; ·  ] )}
+I9=({ [ L -> , id · L  ]  [ L -> · , id L  ]  [ L -> ·  ] )}
+I10=({ [ L -> , id L ·  ] )}

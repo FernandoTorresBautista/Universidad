@@ -1,0 +1,5 @@
+S -> T id L ;
+L -> , id L
+L -> ^
+T -> int
+T -> float
