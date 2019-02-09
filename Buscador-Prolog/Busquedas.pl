@@ -1,0 +1,283 @@
+:-[library(rdf)].
+:-use_module(library(semweb/rdf_db)).
+:-cd('/home/fernando/Documentos/Prolog/FinalP/Mercadotecnia').
+
+%BusquedaAvanzada
+busquedaAvanzada([X|R],T,A,Ficha):-
+	X==tema,
+	buscaTema(R,Ficha,Res),
+	Res==1,
+	buscar(Ficha,T,A,_B,_N,_M).
+busquedaAvanzada([X|R],T,A,Ficha):-
+	X==anio,
+	write(R),
+	atomic_list_concat(R,'',Ps),
+	buscar(Ficha,T,A,_B,Ps,_N).
+	
+comparaFrase1([X],[X]).
+comparaFrase1([LU|RU],[LU|RB]):-
+	comparaFrase1(RU,RB).
+
+comparaFrases1([LU|RU],[LB|_RB],Res):-
+	atomic_list_concat(FN,' ',LB),
+	comparaFrase1([LU|RU],FN),	
+	Res=LB.
+
+%(Inter,LisL,Res)
+comparaFrases1(LU,[_LB|RB],Res):-
+	comparaFrases1(LU,RB,Res).
+
+	
+busquedaAvanzada([X|R],T,RR,Ficha):-
+	X==autor,
+	rdf_load('Descripcion_Mercadotecnia.rdf',[format(xml)]),
+	setof(Rs,rdf(_W,'Biblioteca/autor',literal(Rs)),Res),
+	rdf_unload('Descripcion_Mercadotecnia.rdf'),
+	comparaFrases1(R,Res,RR),
+	buscar(Ficha,T,RR,_B,_Y,_N).
+	
+busquedaAvanzada([X|R],T,A,Ps):-
+	X==ficha,
+	atomic_list_concat(R,'',Ps),
+	buscar(Ps,T,A,_B,_M,_N).
+
+busquedaAvanzada(L,T,A,Ficha):-
+	%X==tema,
+	buscaTema(L,Ficha,Res),
+	Res==1,
+	buscar(Ficha,T,A,_B,_N,_M).
+%Busqueda por ficha
+buscar(Ficha, Titulo, Autor, Clasif, Anio, Ejem):-
+	rdf_load('Descripcion_Mercadotecnia.rdf',[format(xml)]),
+	rdf(Archivo, 'Biblioteca/ficha',literal(Ficha)),
+	rdf(Archivo, 'Biblioteca/titulo',literal( Titulo)),
+	rdf(Archivo, 'Biblioteca/autor', literal(Autor)),
+	rdf(Archivo, 'Biblioteca/clasificacion',literal( Clasif)),
+	rdf(Archivo, 'Biblioteca/anio', literal(Anio)),
+	rdf(Archivo, 'Biblioteca/ejemplares',literal( Ejem)),
+	rdf_unload('Descripcion_Mercadotecnia.rdf').
+
+%Buscar por tema
+buscaTema([X|R],Ficha,Res):-
+	buscaEnTodosTemasLibro(Ficha,[X|R],Res).
+
+buscaTemas(T):-
+	rdf(_X1,_Y,literal(Temp)),
+	string_lower(Temp,T).
+
+comparaFrase([],[]).
+comparaFrase([LU|RU],[LB|RB]):-
+	LU==LB,
+	comparaFrase(RU,RB).
+
+comparaFrases(_LU,[],0).
+comparaFrases([LU|RU],[LB|_RB],Res):-
+	atomic_list_concat(FN,' ',LB),
+	comparaFrase([LU|RU],FN),
+	Res is 1.
+comparaFrases(LU,[_LB|RB],Res):-
+	comparaFrases(LU,RB,Res).
+
+repite([X|R],Respuesta):-
+	setof(RR,buscaTemas(RR),Res),
+	comparaFrases([X|R],Res,Respuesta).
+buscaEnTodosTemasLibro('1892',[X|R],Respuesta):-
+	rdf_load('1892.rdf',[format(xml)]),
+	repite([X|R],Respuesta),
+	rdf_unload('1892.rdf').
+buscaEnTodosTemasLibro('1861',[X|R],Respuesta):-
+	rdf_load('1861.rdf',[format(xml)]),
+	repite([X|R],Respuesta),
+	rdf_unload('1861.rdf').
+buscaEnTodosTemasLibro('9949',[X|R],Respuesta):-
+	rdf_load('9949.rdf',[format(xml)]),
+	repite([X|R],Respuesta),
+	rdf_unload('9949.rdf').
+buscaEnTodosTemasLibro('11519',[X|R],Respuesta):-
+	rdf_load('11519.rdf',[format(xml)]),
+	repite([X|R],Respuesta),
+	rdf_unload('11519.rdf').
+buscaEnTodosTemasLibro('1894',[X|R],Respuesta):-
+	rdf_load('1894.rdf',[format(xml)]),
+	repite([X|R],Respuesta),
+	rdf_unload('1894.rdf').
+buscaEnTodosTemasLibro('1859',[X|R],Respuesta):-
+	rdf_load('1859.rdf',[format(xml)]),
+	repite([X|R],Respuesta),
+	rdf_unload('1859.rdf').
+buscaEnTodosTemasLibro('1863',[X|R],Respuesta):-
+	rdf_load('1863.rdf',[format(xml)]),
+	repite([X|R],Respuesta),
+	rdf_unload('1863.rdf').
+buscaEnTodosTemasLibro('1893',[X|R],Respuesta):-
+	rdf_load('1893.rdf',[format(xml)]),
+	repite([X|R],Respuesta),
+	rdf_unload('1893.rdf').
+buscaEnTodosTemasLibro('795',[X|R],Respuesta):-
+	rdf_load('795.rdf',[format(xml)]),
+	repite([X|R],Respuesta),
+	rdf_unload('795.rdf').
+buscaEnTodosTemasLibro('1862',[X|R],Respuesta):-
+	rdf_load('1862.rdf',[format(xml)]),
+	repite([X|R],Respuesta),
+	rdf_unload('1862.rdf').
+buscaEnTodosTemasLibro('1891',[X|R],Respuesta):-
+	rdf_load('1891.rdf',[format(xml)]),
+	repite([X|R],Respuesta),
+	rdf_unload('1891.rdf').
+buscaEnTodosTemasLibro('794',[X|R],Respuesta):-
+	rdf_load('794.rdf',[format(xml)]),
+	repite([X|R],Respuesta),
+	rdf_unload('794.rdf').
+buscaEnTodosTemasLibro('11736',[X|R],Respuesta):-
+	rdf_load('11736.rdf',[format(xml)]),
+	repite([X|R],Respuesta),
+	rdf_unload('11736.rdf').
+buscaEnTodosTemasLibro('775',[X|R],Respuesta):-
+	rdf_load('775.rdf',[format(xml)]),
+	repite([X|R],Respuesta),
+	rdf_unload('775.rdf').
+buscaEnTodosTemasLibro('774',[X|R],Respuesta):-
+	rdf_load('774.rdf',[format(xml)]),
+	repite([X|R],Respuesta),
+	rdf_unload('774.rdf').
+buscaEnTodosTemasLibro('11725',[X|R],Respuesta):-
+	rdf_load('11725.rdf',[format(xml)]),
+	repite([X|R],Respuesta),
+	rdf_unload('11725.rdf').
+buscaEnTodosTemasLibro('11712',[X|R],Respuesta):-
+	rdf_load('11712.rdf',[format(xml)]),
+	repite([X|R],Respuesta),
+	rdf_unload('11712.rdf').
+buscaEnTodosTemasLibro('11715',[X|R],Respuesta):-
+	rdf_load('11715.rdf',[format(xml)]),
+	repite([X|R],Respuesta),
+	rdf_unload('11715.rdf').
+buscaEnTodosTemasLibro('11731',[X|R],Respuesta):-
+	rdf_load('11731.rdf',[format(xml)]),
+	repite([X|R],Respuesta),
+	rdf_unload('11731.rdf').
+buscaEnTodosTemasLibro('1892',[X|R],Respuesta):-
+	rdf_load('1892.rdf',[format(xml)]),
+	repite([X|R],Respuesta),
+	rdf_unload('1892.rdf').
+buscaEnTodosTemasLibro('1904',[X|R],Respuesta):-
+	rdf_load('1904.rdf',[format(xml)]),
+	repite([X|R],Respuesta),
+	rdf_unload('1904.rdf').
+buscaEnTodosTemasLibro('1846',[X|R],Respuesta):-
+	rdf_load('1846.rdf',[format(xml)]),
+	repite([X|R],Respuesta),
+	rdf_unload('1846.rdf').
+buscaEnTodosTemasLibro('1835',[X|R],Respuesta):-
+	rdf_load('1835.rdf',[format(xml)]),
+	repite([X|R],Respuesta),
+	rdf_unload('1835.rdf').
+buscaEnTodosTemasLibro('1897',[X|R],Respuesta):-
+	rdf_load('1897.rdf',[format(xml)]),
+	repite([X|R],Respuesta),
+	rdf_unload('1897.rdf').
+buscaEnTodosTemasLibro('1895',[X|R],Respuesta):-
+	rdf_load('1895.rdf',[format(xml)]),
+	repite([X|R],Respuesta),
+	rdf_unload('1895.rdf').
+buscaEnTodosTemasLibro('1837',[X|R],Respuesta):-
+	rdf_load('1837.rdf',[format(xml)]),
+	repite([X|R],Respuesta),
+	rdf_unload('1837.rdf').
+buscaEnTodosTemasLibro('1865',[X|R],Respuesta):-
+	rdf_load('1865.rdf',[format(xml)]),
+	repite([X|R],Respuesta),
+	rdf_unload('1865.rdf').
+buscaEnTodosTemasLibro('12721',[X|R],Respuesta):-
+	rdf_load('12721.rdf',[format(xml)]),
+	repite([X|R],Respuesta),
+	rdf_unload('12721.rdf').
+buscaEnTodosTemasLibro('1833',[X|R],Respuesta):-
+	rdf_load('1833.rdf',[format(xml)]),
+	repite([X|R],Respuesta),
+	rdf_unload('1833.rdf').
+buscaEnTodosTemasLibro('1861',[X|R],Respuesta):-
+	rdf_load('1861.rdf',[format(xml)]),
+	repite([X|R],Respuesta),
+	rdf_unload('1861.rdf').
+buscaEnTodosTemasLibro('1896',[X|R],Respuesta):-
+	rdf_load('1896.rdf',[format(xml)]),
+	repite([X|R],Respuesta),
+	rdf_unload('1896.rdf').
+buscaEnTodosTemasLibro('1914',[X|R],Respuesta):-
+	rdf_load('1914.rdf',[format(xml)]),
+	repite([X|R],Respuesta),
+	rdf_unload('1914.rdf').
+buscaEnTodosTemasLibro('1876',[X|R],Respuesta):-
+	rdf_load('1876.rdf',[format(xml)]),
+	repite([X|R],Respuesta),
+	rdf_unload('1876.rdf').
+buscaEnTodosTemasLibro('1881',[X|R],Respuesta):-
+	rdf_load('1881.rdf',[format(xml)]),
+	repite([X|R],Respuesta),
+	rdf_unload('1881.rdf').
+buscaEnTodosTemasLibro('1883',[X|R],Respuesta):-
+	rdf_load('1883.rdf',[format(xml)]),
+	repite([X|R],Respuesta),
+	rdf_unload('1883.rdf').
+buscaEnTodosTemasLibro('1885',[X|R],Respuesta):-
+	rdf_load('1885.rdf',[format(xml)]),
+	repite([X|R],Respuesta),
+	rdf_unload('1885.rdf').
+buscaEnTodosTemasLibro('1607',[X|R],Respuesta):-
+	rdf_load('1607.rdf',[format(xml)]),
+	repite([X|R],Respuesta),
+	rdf_unload('1607.rdf').
+buscaEnTodosTemasLibro('1608',[X|R],Respuesta):-
+	rdf_load('1608.rdf',[format(xml)]),
+	repite([X|R],Respuesta),
+	rdf_unload('1608.rdf').
+buscaEnTodosTemasLibro('1609',[X|R],Respuesta):-
+	rdf_load('1609.rdf',[format(xml)]),
+	repite([X|R],Respuesta),
+	rdf_unload('1609.rdf').
+buscaEnTodosTemasLibro('1610',[X|R],Respuesta):-
+	rdf_load('1610.rdf',[format(xml)]),
+	repite([X|R],Respuesta),
+	rdf_unload('1610.rdf').
+buscaEnTodosTemasLibro('1611',[X|R],Respuesta):-
+	rdf_load('1611.rdf',[format(xml)]),
+	repite([X|R],Respuesta),
+	rdf_unload('1611.rdf').
+buscaEnTodosTemasLibro('1860',[X|R],Respuesta):-
+	rdf_load('1860.rdf',[format(xml)]),
+	repite([X|R],Respuesta),
+	rdf_unload('1860.rdf').
+buscaEnTodosTemasLibro('10982',[X|R],Respuesta):-
+	rdf_load('10982.rdf',[format(xml)]),
+	repite([X|R],Respuesta),
+	rdf_unload('10982.rdf').
+buscaEnTodosTemasLibro('9949',[X|R],Respuesta):-
+	rdf_load('9949.rdf',[format(xml)]),
+	repite([X|R],Respuesta),
+	rdf_unload('9949.rdf').
+buscaEnTodosTemasLibro('11519',[X|R],Respuesta):-
+	rdf_load('11519.rdf',[format(xml)]),
+	repite([X|R],Respuesta),
+	rdf_unload('11519.rdf').
+buscaEnTodosTemasLibro('1886',[X|R],Respuesta):-
+	rdf_load('1886.rdf',[format(xml)]),
+	repite([X|R],Respuesta),
+	rdf_unload('1886.rdf').
+buscaEnTodosTemasLibro('1840',[X|R],Respuesta):-
+	rdf_load('1840.rdf',[format(xml)]),
+	repite([X|R],Respuesta),
+	rdf_unload('1840.rdf').
+buscaEnTodosTemasLibro('1847',[X|R],Respuesta):-
+	rdf_load('1847.rdf',[format(xml)]),
+	repite([X|R],Respuesta),
+	rdf_unload('1847.rdf').
+buscaEnTodosTemasLibro('1874',[X|R],Respuesta):-
+	rdf_load('1874.rdf',[format(xml)]),
+	repite([X|R],Respuesta),
+	rdf_unload('1874.rdf').
+buscaEnTodosTemasLibro('1880',[X|R],Respuesta):-
+	rdf_load('1880.rdf',[format(xml)]),
+	repite([X|R],Respuesta),
+	rdf_unload('1880.rdf').

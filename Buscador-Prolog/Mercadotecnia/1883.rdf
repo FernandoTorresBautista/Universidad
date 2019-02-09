@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Mercadotecnia/">
+
+	<rdf:Description rdf:about="MERCADOTECNIA : CONCEPTOS Y PRACTICAS MODERNAS">
+	  <ct:tema>
+		<rdf:Seq>
+		  <rdf:li>Mercadotecnía: su entorno y su administración</rdf:li>
+		  <rdf:li>Entendiendo y seleccionando los mercados meta</rdf:li>
+		  <rdf:li>Producto</rdf:li>
+		  <rdf:li>Distribución</rdf:li>
+		  <rdf:li>Promoción</rdf:li>
+		  <rdf:li>Precio</rdf:li>
+		  <rdf:li>Implantación control y extensión del mercado</rdf:li>
+		</rdf:Seq>
+	  </ct:tema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Mercadotecnía: su entorno y su administración">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>¿Que es la mercadotecnia?</rdf:li>
+		  <rdf:li>El entorno de mercadotecnia</rdf:li>
+		  <rdf:li>La administración de la mercadotecnia y el proceso de planeación</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Entendiendo y seleccionando los mercados meta">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Investigación de mercados</rdf:li>
+		  <rdf:li>Mercado de consumo y de comportamineto de compra</rdf:li>
+		  <rdf:li>Mercados de organicaciones y el comportamiento de compra</rdf:li>
+		  <rdf:li>Segmentación de mercados</rdf:li>
+		  <rdf:li>Selección del mercado meta</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Producto">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Oferta del producto</rdf:li>
+		  <rdf:li>Desarrollo y administración del producto</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Distribución">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Canales de Distribución</rdf:li>
+		  <rdf:li>Menudeo</rdf:li>
+		  <rdf:li>El mayoreo y la distribución física</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Promoción">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>El esfuerzo promocional</rdf:li>
+		  <rdf:li>Publicidad, promoción de ventas y relaciones públicas</rdf:li>
+		  <rdf:li>Venta personal</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Precio">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Procedimientos de fijación del precio</rdf:li>
+		  <rdf:li>Administración del precio</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Implantación control y extensión del mercado">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Implantación y control de las estrategias de mercado</rdf:li>
+		  <rdf:li>Mercadotecnia de servicios y mercadotecnia no lucrativa</rdf:li>
+		  <rdf:li>Mercadotecnia internacional</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+</rdf:RDF> 

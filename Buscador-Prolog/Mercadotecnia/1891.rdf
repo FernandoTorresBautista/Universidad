@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Mercadotecnia/">
+
+	<rdf:Description rdf:about="LA ESTRATEGIA SEGUN TROUT : CAPTURAR MENTES PARA">
+		<ct:tema>
+			<rdf:Seq>
+				<rdf:li>La estrategia y la supervivencia</rdf:li>
+				<rdf:li>La estrategia y las percepciones</rdf:li>
+				<rdf:li>La estrategia y ser diferente</rdf:li>
+				<rdf:li>La estrategia y la especialización</rdf:li>
+				<rdf:li>La estrategia y lo simple</rdf:li>
+			</rdf:Seq>
+		</ct:tema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="La estrategia y la supervivencia">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li>Pescado para cenar</rdf:li>
+				<rdf:li>Salir a cenar</rdf:li>
+				<rdf:li>Una explosión de opciones</rdf:li>
+				<rdf:li>La ley de la división</rdf:li>
+				<rdf:li>La Industria de la Elección</rdf:li>
+				<rdf:li>La elección puede ser cruel </rdf:li>
+				<rdf:li>Y solo se puede ir a peor</rdf:li>
+				<rdf:li>La definición de estrategia</rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+	<rdf:Description rdf:about="La estrategia y las percepciones">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li>Las mentes son limitadas </rdf:li>
+				<rdf:li>Las mentes odian la confusión</rdf:li>
+				<rdf:li>Las mentes son inseguras</rdf:li>
+				<rdf:li>Las mentes no cambian</rdf:li>
+				<rdf:li>Las mentes pueden perder el foco</rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+	<rdf:Description rdf:about="La estrategia y ser diferente">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li>La guerra por la calidad</rdf:li>
+				<rdf:li>La guerra por la satisfacción del cliente</rdf:li>
+				<rdf:li>Ser el primero es una idea diferenciadora</rdf:li>
+				<rdf:li>Apropiarse de un atributo es una idea diferenciadora</rdf:li>
+				<rdf:li>Ser el líder es una forma de diferenciarse </rdf:li>
+				<rdf:li>La tradición es una idea diferenciadora </rdf:li>
+				<rdf:li>La forma en que se hace un producto puede ser una idea diferenciadora </rdf:li>
+				<rdf:li>La popularidad es una forma de diferenciarse </rdf:li>
+				<rdf:li>Los pasos del plan para ser diferentes</rdf:li>
+				<rdf:li>> </rdf:li>
+				<rdf:li>La estrategia y la competencia</rdf:li>
+				<rdf:li><</rdf:li>
+				<rdf:li>I va falacia de la rnejor gente </rdf:li>
+				<rdf:li>La falacia del Inejor producto </rdf:li>
+				<rdf:li>Si es tan bueno, ¿por qué no es usted rico? </rdf:li>
+				<rdf:li>El marketing como la guerra </rdf:li>
+				<rdf:li>Un cambio de filosofía</rdf:li>
+				<rdf:li>Orientarse al competidor </rdf:li>
+				<rdf:li>Tácticas y estrategia</rdf:li>
+				<rdf:li>Táctica versus estrategia</rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+	<rdf:Description rdf:about="La estrategia y la especialización">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li>Una lección aprendida</rdf:li>
+				<rdf:li>Otra lección aprendida </rdf:li>
+				<rdf:li>Lo rnisrno ocurre con la distribución</rdf:li>
+				<rdf:li>El contrapunto al crecimiento</rdf:li>
+				<rdf:li>Ser un experto</rdf:li>
+				<rdf:li>Un sueño editorial</rdf:li>
+				<rdf:li>Ser el genérico </rdf:li>
+				<rdf:li>Otros pequeños especialistas </rdf:li>
+				<rdf:li>Grandes especialistas </rdf:li>
+				<rdf:li>Ahora, las malas noticias </rdf:li>
+				<rdf:li>Cuidado con el hobby del jefe </rdf:li>
+				<rdf:li>Decirlo tal como es </rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+	<rdf:Description rdf:about="La estrategia y lo simple">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li>En busca de lo obvio </rdf:li>
+				<rdf:li>Una observación de la calle </rdf:li>
+				<rdf:li>La investigación puede confundir </rdf:li>
+				<rdf:li>No dejarse cautivar por los datos </rdf:li>
+				<rdf:li>No dejarse cautivar por los grupos </rdf:li>
+				<rdf:li>Cuidado con las pruebas de mercado </rdf:li>
+				<rdf:li>No hay que creer todo lo que dicen </rdf:li>
+				<rdf:li>Conseguir algunas instantáneas de la mente </rdf:li>
+				<rdf:li>Apropiarse de una palabra de la mente </rdf:li>
+				<rdf:li>El lenguaje complicado es confuso </rdf:li>
+				<rdf:li>El negocio tiene su propio lenguaje </rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>

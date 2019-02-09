@@ -1,0 +1,289 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Mercadotecnia/">
+
+	<rdf:Description rdf:about="LA REVOLUCION DEL MARKETING : LA TACTICA DICTA LA ESTRETEGIA">
+	  <ct:tema>
+		<rdf:Seq>
+		  <rdf:li>Introducción</rdf:li>
+		  <rdf:li>Las tácticas imponen las estrategias</rdf:li>
+		  <rdf:li>Dirigirse al frente de batalla</rdf:li>
+		  <rdf:li>Monitoreo de las tendencias</rdf:li>
+		  <rdf:li>Concentre su enfoque</rdf:li>
+		  <rdf:li>Cómo encontrar la táctica adecuada</rdf:li>
+		  <rdf:li>Cómo hallar una táctica para combatir el abuso de las drogas</rdf:li>
+		  <rdf:li>Cómo contruir su estrategia</rdf:li>
+		  <rdf:li>Creación de una estrategia para Avon</rdf:li>
+		  <rdf:li>Realizar cambios</rdf:li>
+		  <rdf:li>Cambiar el campo de batalla</rdf:li>
+		  <rdf:li>Cambiar el campo de batalla en la GM</rdf:li>
+		  <rdf:li>Evaluación de su estrategia</rdf:li>
+		  <rdf:li>Cómo vender su estrategia</rdf:li>
+		  <rdf:li>Obtención de los recursos</rdf:li>
+		  <rdf:li>Pedir ayuda externa</rdf:li>
+		  <rdf:li>Cómo lanzar su programa</rdf:li>
+		  <rdf:li>Cómo mantener las cosas en orden</rdf:li>
+		  <rdf:li>Medición de los resultados</rdf:li>
+		  <rdf:li>Haga el máximo esfuerzo</rdf:li>
+		  <rdf:li>Disminuir las perdidas</rdf:li>
+		  <rdf:li>Jugar bien el juego</rdf:li>
+		</rdf:Seq>
+	  </ct:tema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Introducción">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>
+			  Este es el tercer libro de Tries y Trout. Su primer libro, Posicionamiento: 
+			  la batalla por su muerte, es un libro sobre tácticas publicitarias. El segundo, 
+			  La guerra de la mercadotecnia, es un libro acerca de las estrategias del marketing. 
+			  El tercer libro integra los dos conceptos. Pero no en la forma que usted esperaría.
+		  </rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Las tácticas imponen las estrategias">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>
+			  El marketing tradicional está orientado de arriba hacia abajo. Primer se 
+			  decide lo que se quiere hacer (la estrategia), y luego se averigua cómo 
+			  hacerlo (las tácticas). El marketing debe funcionar exactamente en sentido 
+			  contrario. Encuentro la táctica que funcione y luego conviértala en una estrategia.
+		  </rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Dirigirse al frente de batalla">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>
+			  Para encontrar una táctica que funcione, primero se tiene que alejar de su 
+			  torre de marfil y dirigirse al frente de batalla donde se está peleando 
+			  la guerra del marketing. ¿Dónde está el frente de batalla? En las mentes 
+			  de sus clientes actuales y clientes en perpectiva.
+		  </rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Monitoreo de las tendencias">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>
+			  Para asegurarse de que su táctica está a tono con el futuro, debe conocer 
+			  las tendencias que se están presentando en su categoría. Precaución: las 
+			  tendencias cambian muy lentamente. Sólo la novedad se mueve rápidamente.
+		  </rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Concentre su enfoque">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>
+			  El método clave para desarrollar una táctica eficaz es la concentración del enfoque.
+			  Solo una idea concentrada tiene la posibilidad de entrar en la mente. Este principio 
+			  es ignorado por casi todos los estrategas de arriba hacia abajo, quienes constante-
+			  _mente buscan maneras de distribuir sus fuerzas.
+		  </rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Cómo encontrar la táctica adecuada">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>
+			  Una táctica es "Un ángulo mental competitivo". La mejor táctica a utilizar es 
+			  aquella que ataca el punto débil de su competencia en la mente del cliente en 
+			  perspectiva.
+		  </rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Cómo hallar una táctica para combatir el abuso de las drogas">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>
+			  Uno de los problemas más grandes que enfrentan los Estados Unidos es el problema de 
+			  las drogas ilegales. En este capítulo se sugiere una táctica para reducir la demanda.
+		  </rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Cómo contruir su estrategia">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>
+			  Una estrategía es "Una dirección coherente de marketing". La estrategia es el 
+			  dispositivo que transporta la táctica hacia la mente. Para construis una estrategia 
+			  exitosa se debe encontrar una forma de dirigir todos los recursos de la organización
+			  hacia la explotación de esa táctica.
+		  </rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Creación de una estrategia para Avon">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>
+			  Digamos que usted es el gerente de marketing de Avon. El Capítulo 8 presenta el 
+			  proceso para encontrar una táctica y convertirla en una estrategia eficaz para su empresa.
+		  </rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Realizar cambios">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>
+			  No se puede cambiar la mente del cliente en perspectiva. Debe funcionar su estrategia 
+			  cambiando el producto, el servicio o la organización. Si usted tiene limitaciones, 
+			  tendrá dificultades.
+		  </rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Cambiar el campo de batalla">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>
+			  Cuando esté perdiendo la batallam desplace el campo de batalla. Existen cuatro tipos de 
+			  desplazamiento del campo de batalla: desplazar la audiencia, desplazar el producto, desplazar 
+			  el enfoque y desplazar la distribución.
+		  </rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Cambiar el campo de batalla en la GM">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>
+			  Digamos que usted es Roger Smith en General Motors.¿Cómo desplaza el campo de batalla para 
+			  repeler a los invasores europeos del extremo alto del mercado?
+		  </rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Evaluación de su estrategia">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>
+			  Cómo evaluar previamente la estrategia con los clientes en perspectiva, la fuerza de ventas, 
+			  la prensa.
+		  </rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Cómo vender su estrategia">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>
+			  Como vender su estrategia en la alta gerencia en caso de que usted no sea un alto gerente.
+		  </rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Obtención de los recursos">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>
+			  Cómo obtener los recursos necesarios (es decir, dinero) para financiar su estrategia de marketing.
+		  </rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Pedir ayuda externa">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>
+			  ¿Cuándp debe llamar a alguien de afuera para que le ayude a desarrollar un programa eifcaz de marketing?
+			  ¿Debe esta persona trabajar con la táctica, o con la estrategia?
+		  </rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Cómo lanzar su programa">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>
+			  Hay dos maneras de lanzar un programa de marketing: el del "gran impacto" y el sistema lento. ¿Quién sabe 
+			  utilizar cada tipo de lanzamiento?
+		  </rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Cómo mantener las cosas en orden">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>
+			  A medida que pasa el tiempo, usted enfrentará una presión mayor para cambiar su estrategia. El capítulo
+			  17 está enfocado hacia cómo resistir esta presión.
+		  </rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Medición de los resultados">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>
+			  Usted encontrará que generalmente los programas exitosos comienzan a funcionar desde el día No. 1.
+			  Los programas que no tienen éxito, generalmente no lo tienen desde el comienzo.
+		  </rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Haga el máximo esfuerzo">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>
+			  La escencia de ganar una vistoria de marketing consiste en llevarte al máximo. Si usted quiere 
+			  ser un verdadero ganardor debe comprometerse totalmente. Lo demás es para los perdedores.
+		  </rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Disminuir las perdidas">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>
+			  Nadie puede predecir el futuro. Si su programa no funciona, encuentre otra táctica y conviértala
+			  en una estrategia. No refuerce el fracaso.
+		  </rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Jugar bien el juego">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>
+			  LA escencia del marketing de abajo hacia arriba consiste en poner su mente en el lodo.Si usted 
+			  tiene lo que se necesita, será el prósimo Gtes (Microsoft), Monaghan (Domino's Pizza), o Smith
+			  (Federal Express). Claro está, debe también tener suerte.
+		  </rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+</rdf:RDF> 

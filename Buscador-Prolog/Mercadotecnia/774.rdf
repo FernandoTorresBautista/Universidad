@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Mercadotecnia/">
+
+	<rdf:Description rdf:about="MANUAL PARA ELABORAR UN PLAN DE MERCADOTECNIA">
+		<ct:tema>
+			<rdf:Seq>
+				<rdf:li>PLANEACIÓN EN MERCADOTECNIA </rdf:li>
+				<rdf:li>MISIÓN, VISIÓN, PROPÓSITO Y FILOSOFÍA EMPRESARIALES</rdf:li>
+				<rdf:li>EVALUACIÓN DEL NEGOCIO (SEGMENTACIÓN Y MERCADO META)</rdf:li>
+				<rdf:li>EVALUACIÓN DEL NEGOCIO (ANÁLISIS DE VENTAS Y PARTICIPACIÓN)</rdf:li>
+			</rdf:Seq>
+		</ct:tema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="PLANEACIÓN EN MERCADOTECNIA ">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li>Objetivos del capítulo</rdf:li>
+				<rdf:li>Conceptos</rdf:li>
+				<rdf:li>Planeación </rdf:li>
+				<rdf:li>Planeación estratégica</rdf:li>
+				<rdf:li>Unidad estratégica de negocios</rdf:li>
+				<rdf:li>Plan de mercadotecnia</rdf:li>
+				<rdf:li>Herratnientas para la elaboración del plan de mercadotecnia </rdf:li>
+				<rdf:li>Proceso para realizar un plan de mercadotecnia</rdf:li>
+				<rdf:li>Preguntas de reflexión</rdf:li>
+				<rdf:li>Lectura adicional: Ser rentable no lo es todo... (¿o sí?)</rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+	<rdf:Description rdf:about="MISIÓN, VISIÓN, PROPÓSITO Y FILOSOFÍA EMPRESARIALES">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li>Objetivos del capítulo </rdf:li>
+				<rdf:li>Actividades para el plan de mercadotecnia</rdf:li>
+				<rdf:li>Conceptos</rdf:li>
+				<rdf:li>Clasificación de las organizaciones</rdf:li>
+				<rdf:li>Clasificación por cannpo de acción</rdf:li>
+				<rdf:li>Clasificación por sector productivo</rdf:li>
+				<rdf:li>Clasificación por tamaño</rdf:li>
+				<rdf:li>La organización inteligente</rdf:li>
+				<rdf:li>Misión, visión, propósito y filosofía de las organizaciones </rdf:li>
+				<rdf:li>Ejemplo de rnisión</rdf:li>
+				<rdf:li>Ejemplo de visión</rdf:li>
+				<rdf:li>Ejemplo de filosofía</rdf:li>
+				<rdf:li>Preguntas de reflexión</rdf:li>
+				<rdf:li>Lectura adicional: Evite los bomberazos</rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+	<rdf:Description rdf:about="EVALUACIÓN DEL NEGOCIO (SEGMENTACIÓN Y MERCADO META)">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li>Objetivos del capítulo</rdf:li>
+				<rdf:li>Actividades para el plan de mercadotecnia</rdf:li>
+				<rdf:li>Conceptos</rdf:li>
+				<rdf:li>Evaluación del negocio</rdf:li>
+				<rdf:li>Determinación del mercado meta</rdf:li>
+				<rdf:li>Segmentación de mercados</rdf:li>
+				<rdf:li>Variables de segmentación</rdf:li>
+				<rdf:li>Características de un segmento de mercado</rdf:li>
+				<rdf:li>Preguntas de reflexión</rdf:li>
+				<rdf:li>Lectura adicional: Realidades en la red</rdf:li>
+				<rdf:li>Caso práctico: Café. Aroma de crisis </rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+	<rdf:Description rdf:about="EVALUACIÓN DEL NEGOCIO (ANÁLISIS DE VENTAS Y PARTICIPACIÓN)">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li>Objetivos del capítulo</rdf:li>
+				<rdf:li>Actividades para el plan de mercadotecnia</rdf:li>
+				<rdf:li>Conceptos</rdf:li>
+				<rdf:li>Análisis de ventas</rdf:li>
+				<rdf:li>Estimación de la demanda actual</rdf:li>
+				<rdf:li>Cálculo de la demanda de la empresa</rdf:li>
+				<rdf:li>Cálculo del potencial del mercado</rdf:li>
+				<rdf:li>Preguntas de reflexión</rdf:li>
+				<rdf:li>Lectura adicional: Las segmentaciones no sirven ni para diseñar ni para vender productos</rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+</rdf:RDF> 

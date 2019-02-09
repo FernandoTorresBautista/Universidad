@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Mercadotecnia/">
+
+	<rdf:Description rdf:about=""Introducción: mercadotecnia significa guerra>
+	  <ct:tema>
+		<rdf:Seq>
+			<rdf:li>Actualmente, la naturaleza de la mercadotecnia no es servir al cliente sino burlar,
+					flanquear y poner fuera de combate al competidor. En resumen, es una guerra
+					en donde el enemigo es la competencia y el cliente el territorio que se debe
+					ganar
+			</rdf:li>
+		</rdf:Seq>
+	  </ct:tema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="2 500 años de guerra">
+	  <ct:tema>
+		<rdf:Seq>
+		  <rdf:li>Los especialistas en mercadotecnia tienen mucho que aprender de las mayores
+					batallas mundiales
+		  </rdf:li>
+		</rdf:Seq>
+	  </ct:tema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="El principio de la fuerza">
+	  <ct:tema>
+		<rdf:Seq>
+		  <rdf:li>El primer principio de Clausewitz es el principio de la fuerza: el pez grande se
+					come al pequeño. El ejército grande vence al pequeño. Esto también ocurre en
+					el mercado, la empresa grande vence a la pequeña
+		  </rdf:li>
+		</rdf:Seq>
+	  </ct:tema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="La superioridad de la defensa">
+	  <ct:tema>
+		<rdf:Seq>
+		  <rdf:li>El segundo principio de Clausewitz es la superioridad de la defensa. Ningún
+				comandante buscaría entablar combate con los números en contra. ¿Entonces
+				por qué muchos generales de mercadotecnia se lanzan contra competidores
+				bien atrincherados a la defensiva? Como Cardigan en Balaclava y Lee en Gettysburg, 
+				muchos generales de mercadotecnia lanzan ataques ofensivos con fuerzas
+				insuficientes contra competidores que poseen la colina
+		  </rdf:li>
+		</rdf:Seq>
+	  </ct:tema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="La nueva era de la competencia">
+	  <ct:tema>
+		<rdf:Seq>
+		  <rdf:li>El lenguaje mercadotécnico ha sido tomado del militar (se dice lanzar una
+					campaña mercadotécnica). Hablamos y actuamos como generales; pero no se
+					piensa y planea como tales. Es tiempo de aplicar los principios de la estrategia
+					militar a las operaciones del mercado y así aumentar las probabilidades de
+					éxito
+		  </rdf:li>
+		</rdf:Seq>
+	  </ct:tema>
+	</rdf:Description>
+	
+</rdf:RDF> 

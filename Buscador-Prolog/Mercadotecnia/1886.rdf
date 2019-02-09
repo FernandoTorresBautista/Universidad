@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Mercadotecnia/">
+<rdf:Description rdf:about="Elementos de Mercadotecnia">
+	  <ct:tema>
+		<rdf:Seq>
+			<rdf:li>Distribución, Comercialización y Mercadotecnia</rdf:li>
+			<rdf:li>Concepto de mercadotecnia</rdf:li>
+			<rdf:li>Breve desarrollo histórico de la mercadotecnia</rdf:li>
+			<rdf:li>Tendencias de la mercadotecnia en el futuro</rdf:li>
+			<rdf:li>Alcances de la mercadotecnia</rdf:li>
+			<rdf:li>Ubicación de la mercadotecnia dentro de una organización</rdf:li>
+			<rdf:li>El director de mercadotecnia</rdf:li>
+			<rdf:li>Elementos de la mezcla de mercadotecnia en la toma de decisiones</rdf:li>
+			<rdf:li>El control de la mercadotecnia</rdf:li>
+			<rdf:li>La auditoría de mercadotecnia</rdf:li>
+			<rdf:li>Factores ambientales de la mercadotecnia</rdf:li>
+		</rdf:Seq>
+	  </ct:tema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Mercados, Consumidores y Comportamientos de Compra">
+	  <ct:tema>
+		<rdf:Seq>
+		  <rdf:li>El mercado</rdf:li>
+		  <rdf:li>Clasificación de mercado</rdf:li>
+		  <rdf:li>El consumidor y su comportamiento en el mercado</rdf:li>
+		  <rdf:li>Modelos de comportamiento</rdf:li>
+		  <rdf:li>Aspectos psicosociales del consumidor</rdf:li>
+		  <rdf:li>Comportamiento de compra industrial y de revendedores</rdf:li>
+		</rdf:Seq>
+	  </ct:tema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Modelo de Integración de la Investigación de Mercados">
+	  <ct:tema>
+		<rdf:Seq>
+		  <rdf:li>Información e investigación de mercados</rdf:li>
+		  <rdf:li>El procedimiento de investigación de mercados,</rdf:li>
+		  <rdf:li>Proceso de investigación de mercados</rdf:li>
+		  <rdf:li>Proceso de investigación de mercados integrado</rdf:li>
+		  <rdf:li>Estudios descriptivos</rdf:li>
+		  <rdf:li>Identificación/delimitación del problema, análisis de su marco ambiental y definición del problema a investigar</rdf:li>
+		  <rdf:li>Planteamiento del problema y formulación de hipótesis</rdf:li>
+		  <rdf:li>Investigación exploratoria y/o concluyente</rdf:li>
+		  <rdf:li>Formular diseño de investigación</rdf:li>
+		</rdf:Seq>
+	  </ct:tema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="El Sistema Direccional de Mercadotecnia">
+	  <ct:tema>
+		<rdf:Seq>
+		  <rdf:li>El plan estratégico de mercadotecnia</rdf:li>
+		  <rdf:li>Posicionamiento producto/empresa/ mercado</rdf:li>
+		  <rdf:li>Toma de decisiones e mercadotecnia</rdf:li>
+		  <rdf:li>Cuestionario</rdf:li>
+		</rdf:Seq>
+	  </ct:tema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Planeación Estratégica de Mercadotecnia">
+	  <ct:tema>
+		<rdf:Seq>
+		  <rdf:li>Concepto y proceso de planeación estratégica de mercadotecnia</rdf:li>
+		  <rdf:li>Cuestionario</rdf:li>
+		</rdf:Seq>
+	  </ct:tema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about=" Estrategia Producto – Mercado y Precio">
+	  <ct:tema>
+		<rdf:Seq>
+		  <rdf:li>Concepto de producción</rdf:li>
+		  <rdf:li>Ciclo de vida del producto</rdf:li>
+		  <rdf:li>Clasificación de productos</rdf:li>
+		  <rdf:li>Opciones de lanzamiento o relanzamiento producto – mercado</rdf:li>
+		  <rdf:li>Innovaciones y nuevos productos</rdf:li>
+		  <rdf:li>Mezcla y líneas de productos</rdf:li>
+		  <rdf:li>Códigos y normas</rdf:li>
+		</rdf:Seq>
+	  </ct:tema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Estrategia de Logística y Proceso de Distribución">
+	  <ct:tema>
+		<rdf:Seq>
+		  <rdf:li>Proceso de logística de distribución</rdf:li>
+		  <rdf:li>Distribución física: Concepto, tendencia y evolución</rdf:li>
+		  <rdf:li>Distribución física: Almacenaje, control de inventarios y transporte</rdf:li>
+		  <rdf:li>Los sistemas de distribución</rdf:li>
+		  <rdf:li>Los canales de distribución</rdf:li>
+		</rdf:Seq>
+	  </ct:tema>
+	</rdf:Description>
+	
+</rdf:RDF> 

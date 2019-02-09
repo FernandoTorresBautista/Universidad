@@ -1,0 +1,264 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Mercadotecnia/">
+
+	<rdf:Description rdf:about="MERCADOTECNIA">
+	  <ct:tema>
+		<rdf:Seq>
+		  <rdf:li>Aspectos generales de la mercadotecnia</rdf:li>
+		  <rdf:li>Administración de la mercadotecnia</rdf:li>
+		  <rdf:li>Medio ambiente de la mercadotecnia</rdf:li>
+		  <rdf:li>Mercado y segmentación de mercados</rdf:li>
+		  <rdf:li>Comportamiento del consumidor</rdf:li>
+		  <rdf:li>Investigación de mercados</rdf:li>
+		  <rdf:li>Estrategia de producto</rdf:li>
+		  <rdf:li>Estrategia de precio</rdf:li>
+		  <rdf:li>Estrategia de distribución</rdf:li>
+		  <rdf:li>Estrategia de promoción de ventas</rdf:li>
+		  <rdf:li>Estrategia de publicidad</rdf:li>
+		  <rdf:li>Estrategia de fuerza de ventas</rdf:li>
+		  <rdf:li>Planeación estratégica en mercadotecnia</rdf:li>
+		  <rdf:li>La mercadotecnia para micro, pequeñas y medianas empresas (MIPyMEs)</rdf:li>
+		  <rdf:li>Mercadotecnia internacional</rdf:li>
+		  <rdf:li>Mercadotecnia por internet</rdf:li>
+		  <rdf:li>Mercadotecnia especializada</rdf:li>
+		</rdf:Seq>
+	  </ct:tema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Aspectos generales de la mercadotecnia">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Antecedentes de la mercadotecnia en Latinoamérica</rdf:li>
+		  <rdf:li>Definición de mercadotecnia</rdf:li>
+		  <rdf:li>Evolución de la mercadotecnia</rdf:li>
+		  <rdf:li>Orientaciones de la empresa</rdf:li>
+		  <rdf:li>Misión, objetivos, ética y metas de la mercadotecnia</rdf:li>
+		  <rdf:li>Importancia de la mercadotecnia</rdf:li>
+		  <rdf:li>Funciones de la mercadotecnia</rdf:li>
+		  <rdf:li>Mezcla de mercadotecnia</rdf:li>
+		  <rdf:li>La nueva mercadotecnia</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Administración de la mercadotecnia">
+	  <ct:subtema>
+		<rdf:Seq>
+			<rdf:li>Administración de la mercadotecnia</rdf:li>
+			<rdf:li>Planeación de la mercadotecnia</rdf:li>
+			<rdf:li>Fases de la planeación de mercadotecnia</rdf:li>
+			<rdf:li>Organización de la mercadotecnia</rdf:li>
+			<rdf:li>Dirección de la mercadotecnia</rdf:li>
+			<rdf:li>Control de mercadotecnia</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Medio ambiente de la mercadotecnia">
+	  <ct:subtema>
+		<rdf:Seq>
+			<rdf:li>Mercadotecnia y medio ambiente en México</rdf:li>
+			<rdf:li>Mercadotecnia y el medio ambiente</rdf:li>
+			<rdf:li>Factores macroambientales</rdf:li>
+			<rdf:li>Factores microambientales</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Mercado y segmentación de mercados">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Mercado</rdf:li>
+		  <rdf:li>Segmentación de mercados</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Comportamiento del consumidor">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Comportamiento del consumidor</rdf:li>
+		  <rdf:li>Factores que infl uyen en el estilo de vida de los consumidores</rdf:li>
+		  <rdf:li>Motivación y necesidades del consumidor</rdf:li>
+		  <rdf:li>Proceso de compra</rdf:li>
+		  <rdf:li>Participantes en el sistema de compra</rdf:li>
+		  <rdf:li>Modelos del comportamiento del consumidor</rdf:li>
+		  <rdf:li>Protección al consumidor</rdf:li>
+		  <rdf:li>Comportamiento de compra del consumidor organizacional</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Investigación de mercados">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Conceptos y defi niciones de investigación de mercados</rdf:li>
+		  <rdf:li>Objetivos de la investigación de mercados</rdf:li>
+		  <rdf:li>Importancia de la investigación de mercados</rdf:li>
+		  <rdf:li>Limitantes de la investigación de mercados</rdf:li>
+		  <rdf:li>Necesidades que satisface la investigación de mercados</rdf:li>
+		  <rdf:li>Razones por las que es necesaria la investigación de mercados</rdf:li>
+		  <rdf:li>Sistema de Información de Mercadotecnia</rdf:li>
+		  <rdf:li>Planeación y diseño de la investigación</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Estrategia de producto">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Producto</rdf:li>
+		  <rdf:li>Marca</rdf:li>
+		  <rdf:li>Etiqueta</rdf:li>
+		  <rdf:li>Envase y/o empaque</rdf:li>
+		  <rdf:li>Embalaje</rdf:li>
+		  <rdf:li>Servicio</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Estrategia de precio">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Precio</rdf:li>
+		  <rdf:li>Factores que intervienen en la fi jación de precios</rdf:li>
+		  <rdf:li>Otros factores determinantes del precio</rdf:li>
+		  <rdf:li>Estrategias y políticas para la fijación de precios</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Estrategia de distribución">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Canales de distribución</rdf:li>
+		  <rdf:li>Intermediarios</rdf:li>
+		  <rdf:li>Distribución física del producto</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Estrategia de promoción de ventas">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Promoción de ventas
+			<rdf:li>Tipos de estrategias de promoción de ventas</rdf:li>
+			<rdf:li>Prontuario de leyes y reglamentos relacionados con la promoción y la publicidad</rdf:li>
+		  </rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Estrategia de publicidad">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Naturaleza e importancia de la publicidad</rdf:li>
+		  <rdf:li>Objetivo de la publicidad</rdf:li>
+		  <rdf:li>Aspectos social y económico de la publicidad</rdf:li>
+		  <rdf:li>Tipos de publicidad</rdf:li>
+		  <rdf:li>Aspectos negativos de la publicidad</rdf:li>
+		  <rdf:li>Presupuestos publicitarios</rdf:li>
+		  <rdf:li>Briefing publicitario</rdf:li>
+		  <rdf:li>Agencias de publicidad</rdf:li>
+		  <rdf:li>Desarrollo de una campaña publicitaria</rdf:li>
+		  <rdf:li>Medios publicitarios</rdf:li>
+		  <rdf:li>Producción del anuncio</rdf:li>
+		  <rdf:li>Medición de la efi ciencia publicitaria</rdf:li>
+		  <rdf:li>Medición del rating o audiencia de los medios de comunicación</rdf:li>
+		  <rdf:li>Instituto Verificador de Medios</rdf:li>
+		  <rdf:li>Central de medios (Media Buying Service)</rdf:li>
+		  <rdf:li>Aspectos legales de la publicidad</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Estrategia de fuerza de ventas">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Definición e importancia del vendedor y del trabajo de ventas</rdf:li>
+		  <rdf:li>Tipos de vendedores</rdf:li>
+		  <rdf:li>Obligaciones y perfil del vendedor</rdf:li>
+		  <rdf:li>Administración de ventas</rdf:li>
+		  <rdf:li>Pasos del proceso de ventas</rdf:li>
+		  <rdf:li>Servicio al cliente</rdf:li>
+		  <rdf:li>Ámbito legal</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Planeación estratégica en mercadotecnia">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Concepto de planeación estratégica</rdf:li>
+		  <rdf:li>Etapas de la planeación estratégica</rdf:li>
+		  <rdf:li>Etapas de la planeación estratégica en mercadotecnia</rdf:li>
+		  <rdf:li>Enfoques para estudiar el futuro</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="La mercadotecnia para micro, pequeñas y medianas empresas (MIPyMEs)">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Introducción</rdf:li>
+		  <rdf:li>Definición de micro, pequeñas y medianas empresas (MIPyMEs)</rdf:li>
+		  <rdf:li>Importancia de las micro, pequeñas y medianas empresas</rdf:li>
+		  <rdf:li>Características generales y del mercado de las MIPyMEs</rdf:li>
+		  <rdf:li>Comparación de la mercadotecnia corporativa con la mercadotecnia para las micro, pequeñas y medianas empresas</rdf:li>
+		  <rdf:li>Importancia de la mercadotecnia en las MIPyMEs</rdf:li>
+		  <rdf:li>Contenido de la mercadotecnia para MIPyMEs</rdf:li>
+		  <rdf:li>Estrategias de mercadotecnia</rdf:li>
+		  <rdf:li>Campaña de mercadotecnia en las MIPyMEs</rdf:li>
+		  <rdf:li>Ventajas de las MIPyMEs sobre las grandes empresas</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Mercadotecnia internacional">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Introducción a la mercadotecnia internacional</rdf:li>
+		  <rdf:li>Desarrollo del intercambio comercial internacional</rdf:li>
+		  <rdf:li>Formas de presencia en los mercados internacionales</rdf:li>
+		  <rdf:li>Comercio exterior y mercadotecnia internacional</rdf:li>
+		  <rdf:li>Plan de mercadotecnia internacional</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Mercadotecnia por internet">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Definición</rdf:li>
+		  <rdf:li>Objetivos</rdf:li>
+		  <rdf:li>Antecedentes</rdf:li>
+		  <rdf:li>Diferencia entre mercadotecnia tradicional y por internet</rdf:li>
+		  <rdf:li>Comercio electrónico</rdf:li>
+		  <rdf:li>Estrategias de mercadotecnia para internet</rdf:li>
+		  <rdf:li>Estrategias de producto</rdf:li>
+		  <rdf:li>Estrategias de precio</rdf:li>
+		  <rdf:li>Estrategia de plaza</rdf:li>
+		  <rdf:li>Estrategia de promoción</rdf:li>
+		  <rdf:li>Proceso para la comunicación estratégica en internet</rdf:li>
+		  <rdf:li>Plan de mercadotecnia para internet</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Mercadotecnia especializada">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Introducción a la mercadotecnia especializada</rdf:li>
+		  <rdf:li>Mercadotecnia de la hospitalidad</rdf:li>
+		  <rdf:li>Mercadotecnia por internet</rdf:li>
+		  <rdf:li>Mercadotecnia de entretenimiento</rdf:li>
+		  <rdf:li>Mercadotecnia no lucrativa</rdf:li>
+		  <rdf:li>Mercadotecnia con causa</rdf:li>
+		  <rdf:li>Mercadotecnia generacional</rdf:li>
+		  <rdf:li>Mercadotecnia disruptiva</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+</rdf:RDF> 

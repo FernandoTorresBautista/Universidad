@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Mercadotecnia/">
+
+	<rdf:Description rdf:about="PROGRAMA DE DESARROLLO EMPRESARIAL. PAQUETE DE MERCADOTECNIA. VENDIENDO MÁS Y MEJOR">
+	  <ct:tema>
+		<rdf:Seq>
+		  <rdf:li>Instrucciones</rdf:li>
+		  <rdf:li>Evaluación previa</rdf:li>
+		  <rdf:li>Introducción</rdf:li>
+		  <rdf:li>Objetivo terminal</rdf:li>
+		  <rdf:li>Para vender más y obtener mejores ganancias</rdf:li>
+		  <rdf:li>Primer paso: comprendieron que los clientes cambian con el tiempo</rdf:li>
+		  <rdf:li>Segundo paso: comprendieron que para salir adelante hay que conocer y analizar a los competidores</rdf:li>
+		  <rdf:li>Tercer paso: analizaron qué era lo que tenía la hamburguesería que no tenía el negocio de Pedro</rdf:li>
+		  <rdf:li>Cuarto paso: analizaron qué era lo que tenía la tortería de Pedro que no tenía hamburguesería</rdf:li>
+		  <rdf:li>Quinto paso: Pedro y su compadre procedieron al cambio</rdf:li>
+		</rdf:Seq>
+	  </ct:tema>
+	</rdf:Description>
+	
+</rdf:RDF> 

@@ -1,0 +1,263 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Mercadotecnia/">
+
+	<rdf:Description rdf:about="MARKETING PARA PYMES : UN ENFOQUE PARA LATINOAMERICA">
+	  <ct:tema>
+		<rdf:Seq>
+		  <rdf:li>las micro, pequeñas y medianas empresas</rdf:li>
+		  <rdf:li>Marketing de última generación</rdf:li>
+		  <rdf:li>Mercado, segmentación, mercado meta y posicionamiento</rdf:li>
+		  <rdf:li>Conocimiento del mercado y los clientes</rdf:li>
+		  <rdf:li>Estrategias de producto</rdf:li>
+		  <rdf:li>Desarrollo e introducción de nuevos productos</rdf:li>
+		  <rdf:li>Estrategias de precio</rdf:li>
+		  <rdf:li>Estrategias de distribución</rdf:li>
+		  <rdf:li>Estrategias de comunicación</rdf:li>
+		  <rdf:li>Venta y dirección de vendedores</rdf:li>
+		  <rdf:li>Atención y servicio al cliente</rdf:li>
+		  <rdf:li>Marketing de fidelización</rdf:li>
+		  <rdf:li>Marketing por internet</rdf:li>
+		  <rdf:li>El plan estratégico de marketing</rdf:li>
+		  <rdf:li>A manera de conclusión: ¡marketing creativo!</rdf:li>
+		</rdf:Seq>
+	  </ct:tema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="las micro, pequeñas y medianas empresas">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>¿Qué se entiende por Pymes?</rdf:li>
+		  <rdf:li>Importancia de las pymes</rdf:li>
+		  <rdf:li>Ventajas e inconvenientes de las Pymes</rdf:li>
+		  <rdf:li>¿Por qué fracasan las Pymes?</rdf:li>
+		  <rdf:li>Necesidad de mirar el mercado y el cliente</rdf:li>
+		  <rdf:li>Para reflexionar</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Marketing de última generación">
+	  <ct:subtema>
+		<rdf:Seq>
+			<rdf:li>¿Qué es marketing?</rdf:li>
+			<rdf:li>La función comercial en las Pymes</rdf:li>
+			<rdf:li>¿Hay diferencias en el marketing de las Pymes?</rdf:li>
+			<rdf:li>Situación de los negocios en América Latina</rdf:li>
+			<rdf:li>¿Qué ofrecen las Pymes?</rdf:li>
+			<rdf:li>El mercado como centro orientador</rdf:li>
+			<rdf:li>Marketing estratégico y marketing operativo</rdf:li>
+			<rdf:li>¿Y qué es un producto?</rdf:li>
+			<rdf:li>Para reflexionar</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Mercado, segmentación, mercado meta y posicionamiento">
+	  <ct:subtema>
+		<rdf:Seq>
+			<rdf:li>Qué es un mercado</rdf:li>
+			<rdf:li>Segmentación del mercado</rdf:li>
+			<rdf:li>Mercado meta</rdf:li>
+			<rdf:li>Comportamiento del comprador</rdf:li>
+			<rdf:li>Posicionamiento</rdf:li>
+			<rdf:li>Marketing operativo: las cuatro “P”</rdf:li>
+			<rdf:li>Para reflexionar</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Conocimiento del mercado y los clientes">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Necesidad de información</rdf:li>
+		  <rdf:li>Sistemas de información</rdf:li>
+		  <rdf:li>Sistema de información de marketing</rdf:li>
+		  <rdf:li>Qué información es necesaria</rdf:li>
+		  <rdf:li>Cómo hacer investigación de mercados</rdf:li>
+		  <rdf:li>La investigación de mercados en las Mipymes</rdf:li>
+		  <rdf:li>Investigación de mercados: básica en la creación de Pymes</rdf:li>
+		  <rdf:li>Para reflexionar</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Estrategias de producto">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Componentes de los productos</rdf:li>
+		  <rdf:li>Características y atributos del tangible</rdf:li>
+		  <rdf:li>Características y atributos del intangible</rdf:li>
+		  <rdf:li>Decisiones de marca</rdf:li>
+		  <rdf:li>Ciclo de vida de los productos</rdf:li>
+		  <rdf:li>El ciclo de vida en las Pymes</rdf:li>
+		  <rdf:li>Programas de producto</rdf:li>
+		  <rdf:li>Para reflexionar</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Desarrollo e introducción de nuevos productos">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Necesidad de nuevos productos</rdf:li>
+		  <rdf:li>¿Qué es un nuevo producto?</rdf:li>
+		  <rdf:li>Riesgos en los nuevos productos</rdf:li>
+		  <rdf:li>Factores de éxito</rdf:li>
+		  <rdf:li>El proceso de desarrollo</rdf:li>
+		  <rdf:li>Para reflexionar</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Estrategias de precio">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>¿Qué es el precio?</rdf:li>
+		  <rdf:li>Importancia del precio</rdf:li>
+		  <rdf:li>Factores internos que influyen en la determinación de precios</rdf:li>
+		  <rdf:li>Factores externos que influyen en las decisiones sobre la fijación de precios</rdf:li>
+		  <rdf:li>Métodos de fijación de precios</rdf:li>
+		  <rdf:li>Estrategias de precios</rdf:li>
+		  <rdf:li>Para reflexionar</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Estrategias de distribución">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>¿Qué es la distribución?</rdf:li>
+		  <rdf:li>Funciones de los intermediarios</rdf:li>
+		  <rdf:li>Factores que se deben considerar al seleccionar un canal</rdf:li>
+		  <rdf:li>Criterios para la selección del canal de distribución</rdf:li>
+		  <rdf:li>Estrategias de distribución</rdf:li>
+		  <rdf:li>Canales de distribución para exportar</rdf:li>
+		  <rdf:li>Importancia de la distribución física</rdf:li>
+		  <rdf:li>Venta detallista</rdf:li>
+		  <rdf:li>La tienda tradicional</rdf:li>
+		  <rdf:li>Venta mayorista</rdf:li>
+		  <rdf:li>Los nuevos intermediarios</rdf:li>
+		  <rdf:li>Para reflexionar</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Estrategias de comunicación">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>El proceso de comunicaciones</rdf:li>
+		  <rdf:li>Conocimiento del receptor</rdf:li>
+		  <rdf:li>El mensaje</rdf:li>
+		  <rdf:li>Medios de comunicaciones</rdf:li>
+		  <rdf:li>Elección de los medios</rdf:li>
+		  <rdf:li>Presupuestos de comunicación</rdf:li>
+		  <rdf:li>Venta masiva o publicidad</rdf:li>
+		  <rdf:li>Promoción de ventas</rdf:li>
+		  <rdf:li>Las nuevas formas de comunicación</rdf:li>
+		  <rdf:li>Comunicaciones y marketing interno</rdf:li>
+		  <rdf:li>Para reflexionar</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Venta y dirección de vendedores">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Tareas y funciones del vendedor</rdf:li>
+		  <rdf:li>El proceso de ventas</rdf:li>
+		  <rdf:li>El futuro de la venta personal</rdf:li>
+		  <rdf:li>Responsabilidad del gerente de ventas</rdf:li>
+		  <rdf:li>Dirección efectiva: liderazgo</rdf:li>
+		  <rdf:li>Dirección de ventas como coaching</rdf:li>
+		  <rdf:li>Motivación y estímulos</rdf:li>
+		  <rdf:li>Planeación estratégica de ventas</rdf:li>
+		  <rdf:li>Algunas estrategias de ventas</rdf:li>
+		  <rdf:li>Supervisión, evaluación y control</rdf:li>
+		  <rdf:li>Auditoría de ventas</rdf:li>
+		  <rdf:li>Para reflexionar</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Atención y servicio al cliente">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>La cadena de valor</rdf:li>
+		  <rdf:li>El servicio como valor agregado</rdf:li>
+		  <rdf:li>Marketing reactivo</rdf:li>
+		  <rdf:li>Momentos de verdad</rdf:li>
+		  <rdf:li>Calificaciones de los clientes</rdf:li>
+		  <rdf:li>El triángulo del servicio</rdf:li>
+		  <rdf:li>Servicio al cliente</rdf:li>
+		  <rdf:li>Calidad total en la atención y el servicio</rdf:li>
+		  <rdf:li>Para reflexionar</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Marketing de fidelización">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Del marketing transaccional al marketing relacional</rdf:li>
+		  <rdf:li>Marketing relacional</rdf:li>
+		  <rdf:li>Importancia de la fidelización</rdf:li>
+		  <rdf:li>Gestión de la lealtad y bases de datos</rdf:li>
+		  <rdf:li>Programas de fidelización</rdf:li>
+		  <rdf:li>Razones del marketing relacional</rdf:li>
+		  <rdf:li>Relaciones duraderas con los clientes</rdf:li>
+		  <rdf:li>Clientes satisfechos, leales y rentables</rdf:li>
+		  <rdf:li>Para reflexionar</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Marketing por internet">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Influencias de la Internet en el marketing</rdf:li>
+		  <rdf:li>Marketing online</rdf:li>
+		  <rdf:li>Implicancias</rdf:li>
+		  <rdf:li>Comercio electrónico</rdf:li>
+		  <rdf:li>Tipos de comercio electrónico</rdf:li>
+		  <rdf:li>Las Pymes y el comercio electrónico</rdf:li>
+		  <rdf:li>Para reflexionar</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="El plan estratégico de marketing">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Planeación estratégica</rdf:li>
+		  <rdf:li>Estrategias en las Pymes</rdf:li>
+		  <rdf:li>Planificación del marketing</rdf:li>
+		  <rdf:li>Análisis de la situación</rdf:li>
+		  <rdf:li>El plan de marketing</rdf:li>
+		  <rdf:li>Diseño del plan de marketing</rdf:li>
+		  <rdf:li>Análisis de la industria y la competencia</rdf:li>
+		  <rdf:li>Evaluación y control</rdf:li>
+		  <rdf:li>Para reflexionar</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="A manera de conclusión: ¡marketing creativo!">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Necesidad de la creatividad</rdf:li>
+		  <rdf:li>Hacia un concepto de creatividad</rdf:li>
+		  <rdf:li>¿Cómo mejorar la creatividad?</rdf:li>
+		  <rdf:li>Creatividad e innovación</rdf:li>
+		  <rdf:li>Gerencia Pyme creativa e innovadora</rdf:li>
+		  <rdf:li>Estrategias de marketing creativas</rdf:li>
+		  <rdf:li>Marketing lateral</rdf:li>
+		  <rdf:li>Marketing de guerrillas</rdf:li>
+		  <rdf:li>Low cost marketing</rdf:li>
+		  <rdf:li>Palabras finales</rdf:li>
+		  <rdf:li>Para reflexionar</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+</rdf:RDF> 

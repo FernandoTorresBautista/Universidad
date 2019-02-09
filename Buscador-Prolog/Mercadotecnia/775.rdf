@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Mercadotecnia/">
+
+	<rdf:Description rdf:about="DIRECCION DE MARKETING">
+	  <ct:tema>
+		<rdf:Seq>
+		  <rdf:li>La dirección de marketing</rdf:li>
+		  <rdf:li>Identificación de las oportunidades de mercado</rdf:li>
+		  <rdf:li>Relación con clientes o consumidores</rdf:li>
+		  <rdf:li>Creación de marcas fuertes</rdf:li>
+		  <rdf:li>La definición de las ofertas de mercado</rdf:li>
+		  <rdf:li>La entrega de valor</rdf:li>
+		  <rdf:li>La comunicación del valor</rdf:li>
+		  <rdf:li>La generación de crecimiento rentable a largo plazo</rdf:li>
+		</rdf:Seq>
+	  </ct:tema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="La dirección de marketing">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>El marketing en el siglo XXI</rdf:li>
+		  <rdf:li>Desarrollo de estrategias y planes de marketing</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Identificación de las oportunidades de mercado">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Recopilación de información y análisis del entorno</rdf:li>
+		  <rdf:li>Investigación de mercados y pronóstico de la demanda</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Relación con clientes o consumidores">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Creación de valor para el cliente, satisfacción y lealtad</rdf:li>
+		  <rdf:li>Análisis de los mercados de consumo</rdf:li>
+		  <rdf:li>Análisis de los mercados industriales</rdf:li>
+		  <rdf:li>Identificación de segmentos y selección del segmento meta</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Creación de marcas fuertes">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>El brand equity</rdf:li>
+		  <rdf:li>Estrategias de posicionamiento de marcas</rdf:li>
+		  <rdf:li>Las relaciones con la competencia</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="La definición de las ofertas de mercado">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Desarrollo de la estrategia de producto</rdf:li>
+		  <rdf:li>Diseño y administración de servicios</rdf:li>
+		  <rdf:li>Desarrollo de programas y estrategias de precios</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="La entrega de valor">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Diseño y administración de los canales de marketing y de las cadenas de valor</rdf:li>
+		  <rdf:li>Administración de la venta minorista, de la venta mayorista y de la logística del mercado</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="La comunicación del valor">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Diseño y administración de estrategias para la comunicación integral de marketing</rdf:li>
+		  <rdf:li>Administración de programas de comunicación masiva: publicidad, promociones de ventas, eventos y relaciones públicas</rdf:li>
+		  <rdf:li>Administración de programas de comunicación personal: el marketing directo y la venta personal</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="La generación de crecimiento rentable a largo plazo">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Lanzamiento de nuevas ofertas de mercado</rdf:li>
+		  <rdf:li>El lanzamiento de ofertas en mercados extranjeros</rdf:li>
+		  <rdf:li>La dirección de marketing holístico en la empresa</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+</rdf:RDF> 

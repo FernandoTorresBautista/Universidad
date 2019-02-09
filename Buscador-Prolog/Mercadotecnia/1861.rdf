@@ -1,0 +1,182 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Mercadotecnia/">
+
+	<rdf:Description rdf:about="PLANEACION ESTRATEGICA DE MERCADO : PROBLEMAS Y ENFOQUES ANALÍTICOS">
+	  <ct:tema>
+		<rdf:Seq>
+		  <rdf:li>La naturaleza de la planeación estrategica de mercado</rdf:li>
+		  <rdf:li>Análisis de las oportunidades de mercado y evaluación de la capacidad de la compañia</rdf:li>
+		  <rdf:li>Dinámica de costos: Efectos de las operaciones en gran escala y de la experiencia</rdf:li>
+		  <rdf:li>Análisis de cartera</rdf:li>
+		  <rdf:li>Atractivo del mercado: Evaluación de la posición del negocio</rdf:li>
+		  <rdf:li>El uso de experiencia compartida de negocios el proyecto PIMS</rdf:li>
+		  <rdf:li>Comparación de los métodos formales</rdf:li>
+		  <rdf:li>Definición del negocio y transicion hacia otras decisiones estrategicas</rdf:li>
+		  <rdf:li>Como hacer que funciones la planeación: el aspecto humano de la planeación</rdf:li>
+		  <rdf:li>Preparación de un plan estrategico de mercado</rdf:li>
+		</rdf:Seq>
+	  </ct:tema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="La naturaleza de la planeación estrategica de mercado">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>La planeación ebn la ISC durante la década de 1960</rdf:li>
+		  <rdf:li>La planeación en la ISC en la década de 1970</rdf:li>
+		  <rdf:li>Unidades de negocios y unidades de programas</rdf:li>
+		  <rdf:li>La naturaleza de la planeación estratégica de mercado</rdf:li>
+		  <rdf:li>Métodos formales de planeación</rdf:li>
+		  <rdf:li>Aspectos creativos y administrativos</rdf:li>
+		  <rdf:li>Resumen</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Análisis de las oportunidades de mercado y evaluación de la capacidad de la compañia">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Análisis de los clientes y segmentación</rdf:li>
+		  <rdf:li>Análisis de los competidosres</rdf:li>
+		  <rdf:li>Identificación de los competidores actuales e ingresos nuevos</rdf:li>
+		  <rdf:li>Análisis de las caracteristicas del mercado</rdf:li>
+		  <rdf:li>Demanda</rdf:li>
+		  <rdf:li>Oferta</rdf:li>
+		  <rdf:li>Autoevaluación interna de la compañia</rdf:li>
+		  <rdf:li>Resuemn</rdf:li>
+		  <rdf:li>CASO SOCUTEL CORPORATION</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Dinámica de costos: Efectos de las operaciones en gran escala y de la experiencia">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Efecto de las operaciones a gran escala</rdf:li>
+		  <rdf:li>Eficiencia contra efectividad: limitaciones de las estrategias que se basan en la experiencia o la escala</rdf:li>
+		  <rdf:li>Consideraciones para el uso de las curvas de experiencia</rdf:li>
+		  <rdf:li>El comportamiento de los costos con el tiempo</rdf:li>
+		  <rdf:li>Diferencia de costos entre los conpetidores</rdf:li>
+		  <rdf:li>Proyección de costos futuros</rdf:li>
+		  <rdf:li>Etapas para análizar el efecto de la experiencia</rdf:li>
+		  <rdf:li>Resumen</rdf:li>
+		  <rdf:li>Casos: Electro industries, inc.(A y B)</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Análisis de cartera">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>La matriz de crecimiento-participación</rdf:li>
+		  <rdf:li>la matriz de crecimiento-ganancia</rdf:li>
+		  <rdf:li>Definición de producto y mercado</rdf:li>
+		  <rdf:li>Análisis estrategico de producto</rdf:li>
+		  <rdf:li>Algunas consideraciones para la aplicación</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Atractivo del mercado: Evaluación de la posición del negocio">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Atractivo del mercado y la posicion del negocio</rdf:li>
+		  <rdf:li>Consideraciones prácticas</rdf:li>
+		  <rdf:li>Identificación de los factores reelevantes</rdf:li>
+		  <rdf:li>Asociación de los factores con el atractivo del mercado y la posicion del negocio</rdf:li>
+		  <rdf:li>Construcción de la gráfica de oportunidad actual de inversión</rdf:li>
+		  <rdf:li>Evaluación de la oportunidad futura</rdf:li>
+		  <rdf:li>Etapa 1: Exploración del impacto de una estrategia de no cambiar</rdf:li>
+		  <rdf:li>Etapa 2: La desición de la estrategia</rdf:li>
+		  <rdf:li>Definición de la unidad de análisis</rdf:li>
+		  <rdf:li>Resumen</rdf:li>
+		  <rdf:li>CASOS: TEXT-FIBER INDUSTRIES, DIVISION DE PRODUCTOS PETROLOIDES (A y B)</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="El uso de experiencia compartida de negocios el proyecto PIMS">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Antecedentes</rdf:li>
+		  <rdf:li>Definición de negocios y mercados a través de PIMS</rdf:li>
+		  <rdf:li>La base de datos PIMS</rdf:li>
+		  <rdf:li>Utilización de PIMS</rdf:li>
+		  <rdf:li>Hallazgos seleccionados de PIMS</rdf:li>
+		  <rdf:li>Determinantes del RSI</rdf:li>
+		  <rdf:li>Determinantes del flujo de efectivo</rdf:li>
+		  <rdf:li>Reportes PIMS para un negocio específico</rdf:li>
+		  <rdf:li>Resumen</rdf:li>
+		  <rdf:li>CASOS: TEXT-FIBER INDUSTRIES, DIVISION DE PRODUCTOS PETROLOIDES (C, D y E)</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Comparación de los métodos formales">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Variables que se utilizan en sus relaciones teóricas</rdf:li>
+		  <rdf:li>Análisis de cartera</rdf:li>
+		  <rdf:li>Análisis del atractivo del mercado y la posición del negocio</rdf:li>
+		  <rdf:li>PIMS</rdf:li>
+		  <rdf:li>Papel en el proceso de planificación</rdf:li>
+		  <rdf:li>Análisis de cartera</rdf:li>
+		  <rdf:li>Análisis del mercado y la posición del negocio</rdf:li>
+		  <rdf:li>PIMS</rdf:li>
+		  <rdf:li>Exploración de cambios en la estrategia</rdf:li>
+		  <rdf:li>Análisis de cartera</rdf:li>
+		  <rdf:li>Análisis del atractivo del mercado y la posición del negocio</rdf:li>
+		  <rdf:li>PIMS</rdf:li>
+		  <rdf:li>Las unidades de análisis</rdf:li>
+		  <rdf:li>Análisis del atractivo del mercado y la posición del negocio</rdf:li>
+		  <rdf:li>Resumen</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Definición del negocio y transicion hacia otras decisiones estrategicas">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Conceptualización de la definición de negocio.</rdf:li>
+		  <rdf:li>Definiciones de los límites del mercado y medición de la participación de mercado</rdf:li>
+		  <rdf:li>Competidores definidos de forma similar</rdf:li>
+		  <rdf:li>Competidores definidos de forma diferente</rdf:li>
+		  <rdf:li>Selección de una definición de negocio</rdf:li>
+		  <rdf:li>Alcance segmentación y diferenciación</rdf:li>
+		  <rdf:li>Relación entre la definición y la misión del negocio</rdf:li>
+		  <rdf:li>Relación entre la definición del negocio y la estrategia organizacional</rdf:li>
+		  <rdf:li>Relación de la definición del negocio y las estrategias funcionales</rdf:li>
+		  <rdf:li>Relación entre el alcance y la estrategia funcional</rdf:li>
+		  <rdf:li>Relaciones entre la segmentación diferenciación y estrategias funcionales</rdf:li>
+		  <rdf:li>Resumen</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Como hacer que funciones la planeación: el aspecto humano de la planeación">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Problemas para hacer que la planeación funcione</rdf:li>
+		  <rdf:li>Las causas subyacentes de los problemas</rdf:li>
+		  <rdf:li>Cómo manejar los problemas</rdf:li>
+		  <rdf:li>Resumen</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Preparación de un plan estrategico de mercado">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>El proceso de planeación</rdf:li>
+		  <rdf:li>Preparación de planes del primer ciclo</rdf:li>
+		  <rdf:li>Preparación de planes del segundo ciclo</rdf:li>
+		  <rdf:li>Preparación de planes del tercer ciclo</rdf:li>
+		  <rdf:li>Importancia relativa de los tres ciclos</rdf:li>
+		  <rdf:li>¿Qué sucedio con el plan de mercadotecnia?</rdf:li>
+		  <rdf:li>Utilización de un plan estratégico de mercado</rdf:li>
+		  <rdf:li>Conclusión</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+</rdf:RDF> 

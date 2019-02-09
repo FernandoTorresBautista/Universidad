@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Mercadotecnia/">
+
+	<rdf:Description rdf:about="LAS 22 (I.E. VEINTIDOS) LEYES INMUTABLES DEL MARKETING">
+	  <ct:tema>
+		<rdf:Seq>
+		  <rdf:li>La ley del liderazgo</rdf:li>
+		  <rdf:li>La ley de la categoría</rdf:li>
+		  <rdf:li>La ley de la mente</rdf:li>
+		  <rdf:li>La ley de la percepción</rdf:li>
+		  <rdf:li>La ley de la concentración</rdf:li>
+		  <rdf:li>La ley de la exclusividad</rdf:li>
+		  <rdf:li>La ley de la escalera</rdf:li>
+		  <rdf:li>La ley de la duolidad</rdf:li>
+		  <rdf:li>La ley de lo opuesto</rdf:li>
+		  <rdf:li>La ley de la división</rdf:li>
+		  <rdf:li>La ley de la perspectiva</rdf:li>
+		  <rdf:li>La ley de la extensión de línea</rdf:li>
+		  <rdf:li>La ley del sacrificio</rdf:li>
+		  <rdf:li>La ley de los atributos</rdf:li>
+		  <rdf:li>La ley de la sinceridad</rdf:li>
+		  <rdf:li>La ley de la singularidad</rdf:li>
+		  <rdf:li>La ley de lo impredecible</rdf:li>
+		  <rdf:li>La ley del fracaso</rdf:li>
+		  <rdf:li>La ley de la nota sensacionalista </rdf:li>
+		  <rdf:li>La ley de la asceleración</rdf:li>
+		  <rdf:li>La ley de los recursos</rdf:li>
+		</rdf:Seq>
+	  </ct:tema>
+	</rdf:Description>
+	
+</rdf:RDF> 

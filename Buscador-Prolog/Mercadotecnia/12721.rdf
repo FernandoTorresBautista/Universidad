@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Mercadotecnia/">
+
+	<rdf:Description rdf:about="MERCADOTECNIA INDUSTRIAL">
+	  <ct:tema>
+		<rdf:Seq>
+		  <rdf:li>La sociedad industrial y las empresas mediana y pequeña</rdf:li>
+		  <rdf:li>El sistema de información a la empresa y la investigación de mercados</rdf:li>
+		  <rdf:li>La organización de las áreas mercadotécticas y la mercadotecnia industrial</rdf:li>
+		  <rdf:li>Los nuevos productos industriales y la mercadotecnia industrial</rdf:li>
+		  <rdf:li>La distribución de los productos industriales</rdf:li>
+		  <rdf:li>La salida del producto industrial al mercado</rdf:li>
+		  <rdf:li>Conclusiones y recomendaciones</rdf:li>
+		</rdf:Seq>
+	  </ct:tema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="La sociedad industrial y las empresas mediana y pequeña">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>¿Qué se entiende por mercadotecnia de productos industriales?, 9.</rdf:li>
+		  <rdf:li>Clasificación de las sociedades por niveles económicos, 12.</rdf:li>
+		  <rdf:li>Dimensiones de las empresas dee bienes de producción en México, 16.</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="El sistema de información a la empresa y la investigación de mercados">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Tipos de información que requiere la empresa, 22.</rdf:li>
+		  <rdf:li>Recopilación de información, 30.</rdf:li>
+		  <rdf:li>El análisis, la síntesis y la meidición de la información, 38.</rdf:li>
+		  <rdf:li>El procesamiento de la información, 41.</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="La organización de las áreas mercadotécticas y la mercadotecnia industrial">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Organización de mercadotecnia en el área comercial, 46.</rdf:li>
+		  <rdf:li>Organización de mercadotecnia en el área de abastecimiento, 55.</rdf:li>
+		  <rdf:li>Los recursos humanos necesarios en las ventas industriales, 60.</rdf:li>
+		  <rdf:li>Descripción de puestos, 60.</rdf:li>
+		  <rdf:li>Sistemas de compensación, 64.</rdf:li>
+		  <rdf:li>Capacitación de los recursos humanos para la venta de productos industriales, 72.</rdf:li>
+		  <rdf:li>Selección y contratación de los recursos humanos, 74.</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Los nuevos productos industriales y la mercadotecnia industrial">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Los nuevos productos industriales, 81.</rdf:li>
+		  <rdf:li>Selección de nuevos productos y procesos, 83.</rdf:li>
+		  <rdf:li>Utilización del método Delphi de prediccion en las ciencias administrativas, 85.</rdf:li>
+		  <rdf:li>La desición sobre nuevos productos industriales, 98.</rdf:li>
+		  <rdf:li>Compra de tecnología, 101.</rdf:li>
+		  <rdf:li>Caso práctico, 110.</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="La distribución de los productos industriales">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>El problema de los abastecimientos y las materias primas, 135.</rdf:li>
+		  <rdf:li>Mano de obra, 138.</rdf:li>
+		  <rdf:li>Inventarios y probllemas de almacenamiento, 149.</rdf:li>
+		  <rdf:li>Canales internos de distribución y tráfico, 159.</rdf:li>
+		  <rdf:li>Problemas de embalaje, empaque y embarque, 167.</rdf:li>
+		  <rdf:li>Canales externos de distribución, 175.</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="La salida del producto industrial al mercado">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Comercialización, 181.</rdf:li>
+		  <rdf:li>Importaciones, 182.</rdf:li>
+		  <rdf:li>Exportaciones, 189.</rdf:li>
+		  <rdf:li>Publicidad industrial, 196.</rdf:li>
+		  <rdf:li>Ferias y exhibiciones comerciales, 203.</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Conclusiones y recomendaciones">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Objetivos del centro de servicio, 210.</rdf:li>
+		  <rdf:li>Plan anual de mercadotecnia industrial, 213.</rdf:li>
+		  <rdf:li>Contrato de servicio, 219.</rdf:li>
+		  <rdf:li>Paquetes de servicios, 233.</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+</rdf:RDF> 

@@ -1,0 +1,243 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Mercadotecnia/">
+
+	<rdf:Description rdf:about="REINVENTANDO EL MARKETING DE EMPRESA A EMPRESA">
+	  <ct:tema>
+		<rdf:Seq>
+		  <rdf:li>La naturaleza del marketing</rdf:li>
+		  <rdf:li>El espíritu y los sueños del emprendedor</rdf:li>
+		  <rdf:li>La irracionalidad de la lígica de las decisiones de compra</rdf:li>
+		  <rdf:li>El núcleo de la cuestión: cómo llegar, en realidad, a conocer su mercado</rdf:li>
+		  <rdf:li>Dándole sentido lógico a la información obtenida</rdf:li>
+		  <rdf:li>Establecimiento final del objetivo y desarrollo de las estrategias</rdf:li>
+		  <rdf:li>Los productos: la base de todo</rdf:li>
+		  <rdf:li>El arte de la venta</rdf:li>
+		  <rdf:li>La estructura de la venta</rdf:li>
+		  <rdf:li>Distribuidores</rdf:li>
+		  <rdf:li>Apoyo al producto</rdf:li>
+		  <rdf:li>La documentación de venta</rdf:li>
+		  <rdf:li>Publicidad y publicity</rdf:li>
+		  <rdf:li>Ferias comerciales, convenciones, informes técnicos y seminarios</rdf:li>
+		  <rdf:li>Organización y  motivación</rdf:li>
+		  <rdf:li>¿Como saber si el plan funcionará y si lo hará de forma continuada?</rdf:li>
+		</rdf:Seq>
+	  </ct:tema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="La naturaleza del marketing">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>
+			  Una visión global del marketing  y siete observaciones que le equiparan mejor para el trabajo.
+		  </rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="El espíritu y los sueños del emprendedor">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>
+			  ¿Cómo es que usted, una persona con mentalidad emprendedora, funcione de forma diferente contra los burócratas?
+			  ¿Cómo los sueños se convieten en el combustible de los nuevos proyectos y porqué los objetivos deben fijarse en
+			  función de los sueños?
+		  </rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="La irracionalidad de la lígica de las decisiones de compra">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>
+			  En la vida real las desiciones no se adoptan a partir de un análisis  de hechos 
+			  y beneficios. En este capítulo muestra una visión radicalmente distinta de 
+			  proceso, que se basa en las ideas de Jung sobre el inconsciente y describe la forma 
+			  en que una desición aparentemente racional constituye, de hecho, la racionalización de 
+			  una desición irracional.
+		  </rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="El núcleo de la cuestión: cómo llegar, en realidad, a conocer su mercado">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>
+			  ¿Porqué en términos generales, ñas investigaciones de mercado no se realizan 
+			  de forma correcta? Una guía, paso a paso, para hacerlas bien, comenzando con la 
+			  segmentaciónde los mercados y siguiendo con la determinación de la infrormación que se 
+			  debe tener, de quién obtenerla y cómo obtenerla.
+		  </rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Dándole sentido lógico a la información obtenida">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>
+			  Algunas pruebas a lo que se debe someter sus datos para determinar si son suficientes.
+			  ¿Cómo diseñar una estrategia a partir de dicho análisis? Algunas preguntas dificiles, 
+			  de carácter ético, que tendrá que plantearse.
+		  </rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Establecimiento final del objetivo y desarrollo de las estrategias">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>
+			  Con los datos analizados, evalúe el nuevo sueño que guía su plan, con el fin de establecer 
+			  su nivel de coincidencia con la realidad. Partir del trabajo realizado con el capítulo 5, 
+			  desarrolle la estrategia. Algunas implicaciones estratégicas del marketing en tres situaciones 
+			  diferentes: el marketing a nivel internacional, el marketing cuando el producto es un servicio, 
+			  el marleting a agencias gubernamentales.
+		  </rdf:li>      
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Los productos: la base de todo">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>
+			  Dónde buscar ideas valiosas para el desarrollo de productos. Diferentes ideas sobre el 
+			  proceso creativo. Cuatro critesrios para lograr los productos sobre el éxito.
+		  </rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="El arte de la venta">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>
+			  Si las desiciones de compra son básicamente inconscientes, ¿qué podemos hacer para 
+			  vender? No se trata de lo que muchos programas de formación pueden hacerle hcho 
+			  crecer. Este capítulo se se ocupa de lo en realidad puede hacerse, analizando tres 
+			  niveles de diferentes: 
+			  <rdf:li>
+				  C. Hacerlo todo bien
+			  </rdf:li>
+			  <rdf:li>
+				  B. Hacerlo todo bien, y además: relaciones.
+			  </rdf:li>
+			  <rdf:li>
+				  C. Hacerlo todo bien, relaciones, y además: magía.
+			  </rdf:li>
+		  </rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="La estructura de la venta">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>
+			  ¿Necesitaun equipo de ventas propio, agentes independientes o la red de venta de 
+			  los distribuidores? En este capitulo le indica cómo adoptar una desición al 
+			  respecto y, si opta por agentes independientes, cómo mantener con ellos un matrimonio 
+			  realmente feliz.
+		  </rdf:li>    
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Distribuidores">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>
+			  ¿Qué es un distribuidor?¿Lo necesita?Si los criterios contenidos en este capítulo 
+			  le indica que debe utilizarlos, incluimos también, un mapa para la conducción de 
+			  las relaciones, que le ayudara a evitar frustaciones que pueden ser peor que las 
+			  que les podrían causar los agentes.
+		  </rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Apoyo al produco">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>
+			  un breve capítulo sobre el apoyo al producto, que le ofrece sugerencias que van más 
+			  allá de las tradicionales acciones que se realizan en esta área.
+		  </rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="La documentación de venta">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>
+			  Una sátira sobre la pomposidad de las agencias de comunicación. ¿Qué tipo de documentación 
+			  de ventas se necesita en realidad?¿En qué consiste una buena documentación de venta?¿Cómo 
+			  se elabora de forma correcta y económica?
+		  </rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Publicidad y publicity">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>
+			  Criterios para determinar su función dentro de la estrategia. Publicidad del 
+			  producto en oposición a publicidad de imagen. ¿Cómo lograr publicidad y 
+			  gratis?¿Cómo saber que medios de comunicación necesita?
+		  </rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Ferias comerciales, convenciones, informes técnicos y seminarios">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>
+			  Criterios para determinar su función dentro de la estrategia. ¿En qué consiste 
+			  una exhibición de éxito? Seguimiento y evaluación de los resultados. Función y 
+			  valor de los informes técnicos(y sátira sobre lo mucho que se habla sobre su 
+			  diversidad).
+		  </rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Organización y  motivación">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>
+			  ¿Dónde y cómo encontrar personal calificado?¿Cómo evaluarlo, formarlo y 
+			  organizarlo? Un nuevo enfoque para anlizar las responsabilidades de los directores 
+			  comerciales, del personal de ventas, de los agentes de productos y los gerentes 
+			  de mercado. Un análisis de la motivación, que incluye una descripción del más 
+			  importante motivador, capaz de orientar todos los esfuerzos de la organización 
+			  hacia el logro de los objetivos. Una descripción de los equipos de trabajo para 
+			  el desarrollo de nuevos productos: una estrategia eficaz para lograr que sus 
+			  nuevos productos lleguen con más rapidez y presición a los mercados.
+		  </rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="¿Como saber si el plan funcionará y si lo hará de forma continuada?">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>
+			  Desde el punto de vista cuantitativo, se describe un estado de ganancias y pérdidas 
+			  con el que se puede comprobar si todos los elementos del plan encajan entre sí. 
+			  También se explica cómo se puede utilizar un esquema para la planificación de nuevos 
+			  productos y para el control continuo de los existentes.
+			  Desde el punto de vista cuantitativo, se incluye una lista de preguntas que le 
+			  plantarán verdaderos desafios y a las que deberá dar respuesta, cada tarde, mientras 
+			  regresa a casa.
+		  </rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+</rdf:RDF> 

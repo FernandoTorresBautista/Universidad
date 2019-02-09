@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Mercadotecnia/">
+
+	<rdf:Description rdf:about="LA DISTRIBUCION COMERCIAL">
+		<ct:tema>
+			<rdf:Seq>
+				<rdf:li>La distribución en el mercado</rdf:li>
+				<rdf:li>El márketing comercial</rdf:li>
+				<rdf:li>La elección del canal de distribución</rdf:li>
+				<rdf:li>La cuenta principal</rdf:li>
+				<rdf:li>La venta y servicio a los distribuidores</rdf:li>
+				<rdf:li>La planificación de las ventas</rdf:li>
+				<rdf:li>El despliegue de recursos</rdf:li>
+			</rdf:Seq>
+		</ct:tema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="La distribución en el mercado">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li>La venta directa al usuario</rdf:li>
+				<rdf:li>El trato directo con el público</rdf:li>
+				<rdf:li>La utilización del sistema de distribución existente</rdf:li>
+				<rdf:li>La estrategia de distribución</rdf:li>
+				<rdf:li>Lista de comprobación </rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+	<rdf:Description rdf:about="El márketing comercial">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li>La función del distribuidor</rdf:li>
+				<rdf:li>Estrategias gemelas</rdf:li>
+				<rdf:li>La estrategia del márketing de productos</rdf:li>
+				<rdf:li>La estrategia del márketing comercial</rdf:li>
+				<rdf:li>Documentos estratégicos</rdf:li>
+				<rdf:li>Lista de comprobación</rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+	<rdf:Description rdf:about="La elección del canal de distribución">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li>El criterio de elección</rdf:li>
+				<rdf:li>El empleo de canales paralelos</rdf:li>
+				<rdf:li>La venta a minoristas</rdf:li>
+				<rdf:li>La distribución pasiva </rdf:li>
+				<rdf:li>La venta de apoyo</rdf:li>
+				<rdf:li>Los acuerdos de distribución</rdf:li>
+				<rdf:li>Lista de comprobación</rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+	<rdf:Description rdf:about="La cuenta principal">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li>Cuentas múltiples </rdf:li>
+				<rdf:li>Cuentas y productos  </rdf:li>
+				<rdf:li>La dirección de cuentas</rdf:li>
+				<rdf:li>Lista de comprobación</rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+	<rdf:Description rdf:about="La venta y servicio a los distribuidores">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li>El volumen de esfuerzo </rdf:li>
+				<rdf:li>Las funciones de la </rdf:li>
+				<rdf:li>La distribución física </rdf:li>
+				<rdf:li>Otros servicios </rdf:li>
+				<rdf:li>Los recursos necesarios </rdf:li>
+				<rdf:li>Estándares dc tiempo y cálculo de costes </rdf:li>
+				<rdf:li>Los costes por persona</rdf:li>
+				<rdf:li>Los costes por actividad </rdf:li>
+				<rdf:li>Lista de comprobación</rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+	<rdf:Description rdf:about="La planificación de las ventas">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li>El análisis de los clientes  </rdf:li>
+				<rdf:li>La clasificación de los clientes</rdf:li>
+				<rdf:li>La armonización de acciones y perspectivas </rdf:li>
+				<rdf:li>El cálculo de los costes </rdf:li>
+				<rdf:li>La revisión de la eficacia actual </rdf:li>
+				<rdf:li>Lista de comprobación</rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+	<rdf:Description rdf:about="El despliegue de recursos">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li>El ciclo de la venta </rdf:li>
+				<rdf:li>El tamaño del equipo de ventas  </rdf:li>
+				<rdf:li>La localización de la carga de trabajo </rdf:li>
+				<rdf:li>Los códigos territoriales </rdf:li>
+				<rdf:li>El cálculo de la carga de trabajo </rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>

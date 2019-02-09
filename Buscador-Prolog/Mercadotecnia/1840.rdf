@@ -1,0 +1,200 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Mercadotecnia/">
+
+	<rdf:Description rdf:about="EL NUEVO MAXIMARKETING : LA GUIA CLASICA PARA TRANSFORMAR">
+	  <ct:tema>
+		<rdf:Seq>
+		  <rdf:li>PROBLEMAS Y RETOS DEL MERCADO DE HOY</rdf:li>
+		  <rdf:li>ESENCIA DE LA SOLUCIÓN DE MAXIMARKETING</rdf:li>
+		  <rdf:li>MAXIMIZACIÓN DE LA SELECCIÓN DE LOS OBJETIVOS: CÓMO ENCONTRAR MEJORES PROSPECTOS Y CLIENTES</rdf:li>
+		  <rdf:li>MAXIMIMACIÓN DE LA EXPLORACIÓN DE LOS MEDIOS: EL NUEVO DESCONCIERTO DE LOS RICOS</rdf:li>
+		  <rdf:li>MAXIMIZACIÓN DE LA CONFIABILIDAD: LA BÚSQUEDA DE UNA PUBLICIDAD REALMENTE CONFIABLE</rdf:li>
+		  <rdf:li>MAXIMIZACIÓN DEL IMPACTO PUBLICITARIO: CÓMO LLAMAR LA ATENCIÓN DE TODO EL CEREBRO PARA CREAR UNA MARCA</rdf:li>
+		  <rdf:li>MAXIMIZACIÓN DE LOS RESULTADOS DE LAS PROMOCIONES: CÓMO ENCONTRAR UN MODO MEJOR EN LA EDAD DE LA INFORMACIÓN</rdf:li>
+		  <rdf:li>MAXIMIZACIÓN DE LA PARTICIPACIÓN DE LOS PROSPECTOS: CÓMO CREAR UN PUENTE ENTRE LA PUBLICIDAD Y LA VENTA</rdf:li>
+		  <rdf:li>MAXIMIZACIÓN DEL CULTIVO DE LOS CLIENTES: CÓMO EMPLEAR SU BASE DE DATOS PARA CREAR RELACIONES DURADERAS Y RENTABLES</rdf:li>
+		  <rdf:li>MAXIMARKETING DE HOY Y MAÑANA</rdf:li>
+		</rdf:Seq>
+	  </ct:tema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="PROBLEMAS Y RETOS DEL MERCADO DE HOY">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Panorámica</rdf:li>
+		  <rdf:li>"Desmasificación" del mercado</rdf:li>
+		  <rdf:li>El cambiante hogar estadounidense</rdf:li>
+		  <rdf:li>Ocaso de la lealtad de las marcas</rdf:li>
+		  <rdf:li>Nuevas formas de comprar y de pagar</rdf:li>
+		  <rdf:li>Auge de la mercadotecnia de base de datos</rdf:li>
+		  <rdf:li>Surgimiento de la economía de servicios</rdf:li>
+		  <rdf:li>Florecimiento de la Sociedad de Información</rdf:li>
+		  <rdf:li>Proliferación de nuevos productos</rdf:li>
+		  <rdf:li>Multiplicación de los canales de distribución</rdf:li>
+		  <rdf:li>El problema de alud publicitario</rdf:li>
+		  <rdf:li>El nuevo campo de juego</rdf:li>
+		  <rdf:li>En síntesis</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="ESENCIA DE LA SOLUCIÓN DE MAXIMARKETING">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Panorámica</rdf:li>
+		  <rdf:li>Desperdicios e ineficiencia: Una realidad cotidiana</rdf:li>
+		  <rdf:li>Los tres denominadores comunes del proceso de ventas</rdf:li>
+		  <rdf:li>El proceso de MaxiMarketing</rdf:li>
+		  <rdf:li>Cómo funcionan juntos todos los pasos del MaxiMarketing</rdf:li>
+		  <rdf:li>Proceso de autoauditoría</rdf:li>
+		  <rdf:li>En síntesis</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="MAXIMIZACIÓN DE LA SELECCIÓN DE LOS OBJETIVOS: CÓMO ENCONTRAR MEJORES PROSPECTOS Y CLIENTES">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Panorámica</rdf:li>
+		  <rdf:li>1. La pesca de prospectos</rdf:li>
+		  <rdf:li>2. La minería de una venta rica en prospectos</rdf:li>
+		  <rdf:li>3. TTamizado en busca de prospectos de otrp puro</rdf:li>
+		  <rdf:li>4. Construya su propia base de datos de prospectos</rdf:li>
+		  <rdf:li>5. La espeleología en busca de prospectos</rdf:li>
+		  <rdf:li>En síntesis</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="MAXIMIMACIÓN DE LA EXPLORACIÓN DE LOS MEDIOS: EL NUEVO DESCONCIERTO DE LOS RICOS">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Panorámica</rdf:li>
+		  <rdf:li>Cómo encontrar su camino en ese laberinto</rdf:li>
+		  <rdf:li>Novedades en la publicidad en periódicos</rdf:li>
+		  <rdf:li>Publicidad por televisión en la Economía de la Información</rdf:li>
+		  <rdf:li>La televisión por cable en un mundo de 500 canales</rdf:li>
+		  <rdf:li>Mercadotecnia al objetivo a través de la radio</rdf:li>
+		  <rdf:li>Las revistas contraatacan</rdf:li>
+		  <rdf:li>El nuevo poder del correo directo</rdf:li>
+		  <rdf:li>Infomerciales: Ha llegado la hora del formato de larga duración por televisión</rdf:li>
+		  <rdf:li>Videos de formato largo para entrega a domicilio, a menos de 2 dólares cada uno</rdf:li>
+		  <rdf:li>El CD-ROM	como un catálago en disco</rdf:li>
+		  <rdf:li>El fax como medio publicitario</rdf:li>
+		  <rdf:li>Compras en línea: El centro comercial electrónico de la nueva mercadotecnia</rdf:li>
+		  <rdf:li>En síntesis</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="MAXIMIZACIÓN DE LA CONFIABILIDAD: LA BÚSQUEDA DE UNA PUBLICIDAD REALMENTE CONFIABLE">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Panorámica</rdf:li>
+		  <rdf:li>El emperador desnudo: La investigación pubilcitaria de hoy</rdf:li>
+		  <rdf:li>Limitaciones de la investigación de textos publicitarios con todas sus letras</rdf:li>
+		  <rdf:li>Ahora una dosis de realismo</rdf:li>
+		  <rdf:li>Debe haber una forma mejor</rdf:li>
+		  <rdf:li>El defensor solitario de las pruebas en paralelo</rdf:li>
+		  <rdf:li>"No lo sabremos, pero podemos averiguarlo"</rdf:li>
+		  <rdf:li>¿Qué tantas pruebas son suficientes?</rdf:li>
+		  <rdf:li>¿cuál es la mitad que se desperdicia?</rdf:li>
+		  <rdf:li>¿Cómo realizar pruebas de Caples?</rdf:li>
+		  <rdf:li>¿Qué pasa con el efecto acumulativo?</rdf:li>
+		  <rdf:li>Promesa de la prueba electrónica</rdf:li>
+		  <rdf:li>¿Pueden las comparaciones de Caples ocasionar mejores spots de radio y TV?</rdf:li>
+		  <rdf:li>¿Por qué se han abandonado las pruebas de textos pubilcitarios para respuesta directa?</rdf:li>
+		  <rdf:li>En que forma las corridas de prueba dan lugar a una publicidad más realista</rdf:li>
+		  <rdf:li>En síntesis</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="MAXIMIZACIÓN DEL IMPACTO PUBLICITARIO: CÓMO LLAMAR LA ATENCIÓN DE TODO EL CEREBRO PARA CREAR UNA MARCA">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Las voces publicitarias para el hemisferio derecho y el hemisferio ozquierdo del cerebro</rdf:li>
+		  <rdf:li>Por qué la publicidad para venta directa debe dirigirse al hemisferio izquierdo del cerebro</rdf:li>
+		  <rdf:li>Dónde sigue brillando la creatividad para hemisferio derecho del cerebro</rdf:li>
+		  <rdf:li>Cuatro formas -no sólo dos- de anunciarce</rdf:li>
+		  <rdf:li>Publicidad de Helen Resor para todo el cerebro y más</rdf:li>
+		  <rdf:li>Sólo usted puede decidir que le conviene más (pero el público puede ayudarle)</rdf:li>
+		  <rdf:li>El desperdicio de la publicidad no cerebral</rdf:li>
+		  <rdf:li>Textos no cerebrales: El ocaso de las habilidades de la publicidad impresa</rdf:li>
+		  <rdf:li>Algunos ejemplos deprimentes</rdf:li>
+		  <rdf:li>Una directriz de arte no cerebral puede vencer a un texto para el cerebro</rdf:li>
+		  <rdf:li>La necesidad actual de comunicarse con el hemisferio izquierdo del cerebro</rdf:li>
+		  <rdf:li>Triunfo temprano de Apple con publicidad para todo el hemisferio</rdf:li>
+		  <rdf:li>Incluso entr ela generación de telecomputación hay más lectores de los que usted imagina</rdf:li>
+		  <rdf:li>La nueva generación no es suficiente</rdf:li>
+		  <rdf:li>En síntesis</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="MAXIMIZACIÓN DE LOS RESULTADOS DE LAS PROMOCIONES: CÓMO ENCONTRAR UN MODO MEJOR EN LA EDAD DE LA INFORMACIÓN">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Panorámica</rdf:li>
+		  <rdf:li>Un exceso de promociones puede erosionar las utilidades</rdf:li>
+		  <rdf:li>Entonces,¿por qué lo hacen?</rdf:li>
+		  <rdf:li>El primer paso para encontrar un modo mejor</rdf:li>
+		  <rdf:li>Necesidad de más y mejores pruebas realistas</rdf:li>
+		  <rdf:li>Peligros de la emisión de cupones</rdf:li>
+		  <rdf:li>Quizás sea el momento de examinar de nuevo el muestreo probado y comprobarlo</rdf:li>
+		  <rdf:li>Premios: Ese "algo más" de las herramientas promocionales</rdf:li>
+		  <rdf:li>Los mercadólogos de relaciones adoptan un enfoque diferente</rdf:li>
+		  <rdf:li>El enfoque de MaxiMarketing en las promociones de rifas</rdf:li>
+		  <rdf:li>Cómo crear promociones triunfadoras para negocios pequeños</rdf:li>
+		  <rdf:li>En síntesis</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="MAXIMIZACIÓN DE LA PARTICIPACIÓN DE LOS PROSPECTOS: CÓMO CREAR UN PUENTE ENTRE LA PUBLICIDAD Y LA VENTA">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Panorámica</rdf:li>
+		  <rdf:li>Nadie está encargado de consentir al prospecto</rdf:li>
+		  <rdf:li>El caso del vestido imposible de comprar</rdf:li>
+		  <rdf:li>Cinco elementos estructurales para construir un buen puente</rdf:li>
+		  <rdf:li>Cuatro fallas comunes de la bibliografía de seguimiento</rdf:li>
+		  <rdf:li>Algunos ejemplos de nuestro buzón</rdf:li>
+		  <rdf:li>Participación de los productos: Una solución a su alcance</rdf:li>
+		  <rdf:li>"Come home to Anderson": una canción temática de 1000 millones de dólares</rdf:li>
+		  <rdf:li>El internet: El próximo desarrrollo en cuanto a vinculación</rdf:li>
+		  <rdf:li>¿Qué tan largo debe ser el puente?</rdf:li>
+		  <rdf:li>Una estrategia de "puenteo" puede cambiar la estrategia publicitaria<rdf:li>
+		  <rdf:li>En síntesis</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="MAXIMIZACIÓN DEL CULTIVO DE LOS CLIENTES: CÓMO EMPLEAR SU BASE DE DATOS PARA CREAR RELACIONES DURADERAS Y RENTABLES">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Panorámica</rdf:li>
+		  <rdf:li>La base de datos cambia las reglas del juego de la mercadotecnia</rdf:li>
+		  <rdf:li>Una cadena irlandesa forja su propia suerte</rdf:li>
+		  <rdf:li>Woring assets: El mercadológo comunal campeón de todos los tiempos</rdf:li>
+		  <rdf:li>Brocs usa su propio producto para cultivar a los clientes comerciales</rdf:li>
+		  <rdf:li>Las siete "ventas" del producto de cultivo del cliente</rdf:li>
+		  <rdf:li>Algunos modelos de relaciones probados y comprobados</rdf:li>
+		  <rdf:li>En síntesis</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="MAXIMARKETING DE HOY Y MAÑANA">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Lo siento, no tenemos rayos</rdf:li>
+		  <rdf:li>Una carpa grande para la nueva mercdotecnia</rdf:li>
+		  <rdf:li>Peligro de una nueva departamentalización</rdf:li>
+		  <rdf:li>El amanecer después de la revolución</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+</rdf:RDF> 

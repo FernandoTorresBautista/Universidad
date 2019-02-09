@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Mercadotecnia/">
+
+	<rdf:Description rdf:about="MERCADOTECNIA ESTRATEGICA : COMO LOGRAR UTILIDADES">
+		<ct:tema>
+			<rdf:Seq>
+				<rdf:li>La mercadotecnia estratégica</rdf:li>
+				<rdf:li>Funciones de la comercialización </rdf:li>
+				<rdf:li>Personalidad y comportamiento del consumidor</rdf:li>
+				<rdf:li>Necesidad, percepción, motivación y deseo del consumidor </rdf:li>
+				<rdf:li>Divulgación de innovaciones </rdf:li>
+			</rdf:Seq>
+		</ct:tema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="La mercadotecnia estratégica">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li>Concepto de mercadotecnia estratégica </rdf:li>
+				<rdf:li>Factores del proceso de comercialización </rdf:li>
+				<rdf:li>Sistemas de mercadotecnia en la empresa </rdf:li>
+				<rdf:li>Pasos importantes del mercadeo </rdf:li>
+				<rdf:li>Importancia de la mercadotecnia estratégica </rdf:li>
+				<rdf:li>Objetivos de la comercialización </rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+	<rdf:Description rdf:about="Funciones de la comercialización ">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li>Funciones económicas básicas de la comercialización </rdf:li>
+				<rdf:li>La comercialización, un gran regulador </rdf:li>
+				<rdf:li>Principales actividades mercadológicas </rdf:li>
+				<rdf:li>El gerente de mercadotecnia </rdf:li>
+				<rdf:li>La mercadotecnia ¿gasto innecesario o inversión juiciosa? </rdf:li>
+				<rdf:li>Perspectivas de la mercadotecnia nacional ante la apertura comercial de México </rdf:li>
+				<rdf:li>La gerencia de mercadotecnia </rdf:li>
+				<rdf:li>Descripción del puesto de gerente de mercadotecnia </rdf:li>
+				<rdf:li>Relaciones de la mercadotecnia con las demás áreas funcionales de la empresa </rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+	<rdf:Description rdf:about="Personalidad y comportamiento del consumidor">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li>El consumidor </rdf:li>
+				<rdf:li>Personalidad del consumidor </rdf:li>
+				<rdf:li>Definición del comportamiento del consumidor </rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+	<rdf:Description rdf:about="Necesidad, percepción, motivación y deseo del consumidor ">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li>Necesidad </rdf:li>
+				<rdf:li>Percepción </rdf:li>
+				<rdf:li>La conducta del consumidor </rdf:li>
+				<rdf:li>Papeles y estatus sociales </rdf:li>
+				<rdf:li>Factores personales </rdf:li>
+				<rdf:li>Edad y ciclo de vida </rdf:li>
+				<rdf:li>Factores psicológicos </rdf:li>
+				<rdf:li>Motivación </rdf:li>
+				<rdf:li>Consumidor innovador </rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+	<rdf:Description rdf:about="Divulgación de innovaciones ">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li>Proceso de divulgación </rdf:li>
+				<rdf:li>Deseo </rdf:li>
+				<rdf:li>La determinación de la demanda a través de la segmentación del mercado </rdf:li>
+				<rdf:li>Variables socio-económicas </rdf:li>
+				<rdf:li>Variables geográficas </rdf:li>
+				<rdf:li>Variables de personalidad </rdf:li>
+				<rdf:li>Variables del comportamiento del comprador </rdf:li>
+				<rdf:li>Compra </rdf:li>
+				<rdf:li>Fases en el sistema de compra </rdf:li>
+				<rdf:li>Necesidad sentida </rdf:li>
+				<rdf:li>Actividad previa a la compra </rdf:li>
+				<rdf:li>Decisión de compra </rdf:li>
+				<rdf:li>Comportamiento en el uso </rdf:li>
+				<rdf:li>Sentimientos posteriores a la compra </rdf:li>
+				<rdf:li>Participantes en el sistema de compra </rdf:li>
+				<rdf:li>Influyentes </rdf:li>
+				<rdf:li>Decisores </rdf:li>
+				<rdf:li>Compradores </rdf:li>
+				<rdf:li>Usuarios </rdf:li>
+				<rdf:li>Motivos y hábitos de compra en los consumidores </rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Mercadotecnia/">
+
+	<rdf:Description rdf:about="EL CLIENTE ES LA CLAVE : COMO LOGRAR UNA VENTAJA I">
+	  <ct:tema>
+		<rdf:Seq>
+		  <rdf:li>Prefacio</rdf:li>
+		  <rdf:li>Reconocimientos</rdf:li>
+		  <rdf:li>Un cliente satisfecho: La ventaja insuperable</rdf:li>
+		  <rdf:li>La satisfacción del cliente conduce al éxito de mercado</rdf:li>
+		  <rdf:li>¿Cómo lo hacen las empresas ganadoras? Las caracteristicas del éxito</rdf:li>
+		  <rdf:li>Los cuatro factores básicos en las satisfacción del consumidor</rdf:li>
+		  <rdf:li>Todo comienza con el producto</rdf:li>
+		  <rdf:li>Comprendiendo y tulizando las expectativas del consumidor</rdf:li>
+		  <rdf:li>Los intermediarios</rdf:li>
+		  <rdf:li>La verdadera venta comienza después de la venta</rdf:li>
+		  <rdf:li>Retroalimentación y devolusiones</rdf:li>
+		  <rdf:li>Los valores corporativos: El "software"</rdf:li>
+		  <rdf:li>Índice</rdf:li>
+		</rdf:Seq>
+	  </ct:tema>
+	</rdf:Description>
+	
+</rdf:RDF> 

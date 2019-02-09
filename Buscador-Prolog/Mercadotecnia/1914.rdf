@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Mercadotecnia/">
+
+	<rdf:Description rdf:about="MERCADOTECNIA : CONCEPTOS Y PRACTICAS MODERNAS">
+	  <ct:tema>
+		<rdf:Seq>
+		  <rdf:li>NATURALEZA Y ALCANCE DE LA INVESTIGACIÓN DE MERCADOS</rdf:li>
+		  <rdf:li>RECOLECCIÓN DE DATOS</rdf:li>
+		  <rdf:li>ANÁLISIS DE DATOS</rdf:li>
+		  <rdf:li>TÓPICOS ESPECIALES EN EL ANÁLISIS DE DATOS</rdf:li>
+		  <rdf:li>APLICACIONES</rdf:li>
+		  <rdf:li>Apéndice: Tabla, 749.</rdf:li>
+		  <rdf:li>Glosario, 757.</rdf:li>
+		</rdf:Seq>
+	  </ct:tema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="NATURALEZA Y ALCANCE DE LA INVESTIGACIÓN DE MERCADOS">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Perspectiva de la toma de desiciones en la investigación de mercados</rdf:li>
+		  <rdf:li>Investigación de mercados en la práctica</rdf:li>
+		  <rdf:li>El proceso de la investigación de mercados</rdf:li>
+		  <rdf:li>Diseño e implementación de la investigación</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="RECOLECCIÓN DE DATOS">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Fuentes secundarioas de datos de mercadotecnia</rdf:li>
+		  <rdf:li>Fuentes estandarizadas de datos de mercadotecnia</rdf:li>
+		  <rdf:li>Investigación de mercados en Internet</rdf:li>
+		  <rdf:li>Recolección de información: métodos cualitativos y de observación</rdf:li>
+		  <rdf:li>Información que proporcionan los entrevistados: aspectos en la recolección de datos</rdf:li>
+		  <rdf:li>Información que proporcionan los entrevistados: métodos de encuesta</rdf:li>
+		  <rdf:li>Medición de actitudes</rdf:li>
+		  <rdf:li>Diseño del cuestionario</rdf:li>
+		  <rdf:li>Experimentación</rdf:li>
+		  <rdf:li>Fundamentos del muestreo</rdf:li>
+		  <rdf:li>Tamaño de la muestra y teoría estadística</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="ANÁLISIS DE DATOS">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Fundamentos del análisis de datos</rdf:li>
+		  <rdf:li>Pruebas de hipótesis: conceptos básicos y pruebas de asociación</rdf:li>
+		  <rdf:li>Prueba de hipótesis: medias y proporciones</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="TÓPICOS ESPECIALES EN EL ANÁLISIS DE DATOS">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Análisis de correlación y análisis de regresión</rdf:li>
+		  <rdf:li>Analisis discriminante y canónico</rdf:li>
+		  <rdf:li>Análisis de factores y agrupamiento</rdf:li>
+		  <rdf:li>Fijación de escalas multidimensionales y análisis conjunto</rdf:li>
+		  <rdf:li>Presentación de resultados</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="APLICACIONES">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Aplicaciones tradicionales de la investigación de mercados: producto, precios, distribución y promoción</rdf:li>
+		  <rdf:li>Aplicaciónes contemporáneas de la investigación de mercados</rdf:li>
+		  <rdf:li>Nuevas aplicaciones de la investigación de mercados: mercadotecnia de base de datos y mercadotecnia de relaciones</rdf:li>
+		  <rdf:li></rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+</rdf:RDF> 

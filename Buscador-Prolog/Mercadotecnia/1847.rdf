@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Mercadotecnia/">
+
+	<rdf:Description rdf:about="MERCADOTECNIA">
+	  <ct:tema>
+		<rdf:Seq>
+		  <rdf:li>La mercadotecnia y el proceso de mercadotecnia</rdf:li>
+		  <rdf:li>Análisis de oportunidades mercadotécnicas</rdf:li>
+		  <rdf:li>Cómo seleccionar los mercados meta</rdf:li>
+		  <rdf:li>Cómo elaborar la mezcla de mercadotecnia</rdf:li>
+		  <rdf:li>Administración de las actividades mercadotecnicas</rdf:li>
+		  <rdf:li>La mercadotecnia ampliada</rdf:li>
+		  <rdf:li>Apéndices</rdf:li>
+		</rdf:Seq>
+	  </ct:tema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="La mercadotecnia y el proceso de mercadotecnia">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>La mercadotecnia en un mundo cambiante: satisfactor de necesidades humanas</rdf:li>
+		  <rdf:li>La planeación estratégica y el proceso de mercadotecnia</rdf:li>
+		  <rdf:li>Ambiente de la mercadotecnia</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Análisis de oportunidades mercadotécnicas">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Investigación de mercados y sistemas de información</rdf:li>
+		  <rdf:li>Mercados de consumo: influencias en el comportamiento de los consumidores</rdf:li>
+		  <rdf:li>Mercados de consumo: los procesos de decisión de los compradores</rdf:li>
+		  <rdf:li>Los mercados de las empresas y el comportamiento de las empresas compradoras</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Cómo seleccionar los mercados meta">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Cómo medir y pronosticar la demanda</rdf:li>
+		  <rdf:li>Segmentación de mercados, mercados meta y el posicionamiento para la ventaja competitiva</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Cómo elaborar la mezcla de mercadotecnia">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>El diseño de productos: productos, marcas, empaques y servicios</rdf:li>
+		  <rdf:li>El diseño de productos nuevos: estrategias de desarrollo y ciclo de vida</rdf:li>
+		  <rdf:li>Fijación de precios de los productos: consideraciones y enfoques</rdf:li>
+		  <rdf:li>Fijación de precios de los productos: estrategias</rdf:li>
+		  <rdf:li>Colocación de productos: canales de distribución y distribución física</rdf:li>
+		  <rdf:li>Colocación de productos: comercios detallista y minorista</rdf:li>
+		  <rdf:li>Promoción de productos: las estrategias de comunicación y promoción</rdf:li>
+		  <rdf:li>La promoción de productos: publicidad, promoción de ventas y relaciones públicas</rdf:li>
+		  <rdf:li>La promoción de productos: ventas personales y administración de ventas</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Administración de las actividades mercadotecnicas">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Cómo satisfacer a los clientes con calidad, valor y servicio</rdf:li>
+		  <rdf:li>Cómo lograr una ventaja competitiva: análisis de la competencia y estrategias para una mercadotecnia competitiva</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="La mercadotecnia ampliada">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>El mercado mundial</rdf:li>
+		  <rdf:li>Servicios, organizaciones, personas, lugares e ideas de la mercadotecnia</rdf:li>
+		  <rdf:li>Mercadotecnia y sociedad: responsabilidad social y ética en la mercadotecnia</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Apéndices">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Aritmética de mercadotecnia</rdf:li>
+		  <rdf:li>Carreras de la mercadotecnia</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+</rdf:RDF> 

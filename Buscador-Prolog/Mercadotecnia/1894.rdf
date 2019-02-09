@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Mercadotecnia/">
+
+	<rdf:Description rdf:about="DIRECCION DE MERCADOTECNIA : ANALISIS, PLANEACION,">
+		<ct:tema>
+			<rdf:Seq>
+				<rdf:li>COMPRENSIÓN DE LA ADMINISTRACIÓN DE LA MERCADOTECNIA </rdf:li>
+				<rdf:li>ANÁLISIS DE LAS OPORTUNIDADES DE MERCADO </rdf:li>
+				<rdf:li>INVESTIGACIÓN Y SELECCIÓN DE LOS MERCADOS META </rdf:li>
+			</rdf:Seq>
+		</ct:tema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="COMPRENSIÓN DE LA ADMINISTRACIÓN DE LA MERCADOTECNIA ">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li>CÓMO COMPRENDER EL PAPEL CRÍTICO QUE JUEGA LA MERCADOTECNIA EN LAS ORGANIZACIONES Y LA SOCIEDAD </rdf:li>
+				<rdf:li>CÓMO INSTITUIR LA SATISFACCIÓN DEL CONSUMIDOR MEDIANTE LA CALIDAD, EL SERVICIO Y EL VALOR </rdf:li>
+				<rdf:li>CÓMO ESTABLECER BASES MEDIANTE LA PLANEACIÓN ESTRATÉGICA </rdf:li>
+				<rdf:li>ORIENTADA HACIA EL MERCADO</rdf:li>
+				<rdf:li>ADMINISTRACIÓN DEL PROCESO Y PLANEACIÓN DE LA </rdf:li>
+				<rdf:li>MERCADOTECNIA</rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+	<rdf:Description rdf:about="ANÁLISIS DE LAS OPORTUNIDADES DE MERCADO ">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li>SISTEMAS DE INFORMACIÓN DE LA MERCADOTECNIA E INVESTIGACIÓN DE MERCADOS </rdf:li>
+				<rdf:li>ANÁLISIS DEL AMBIENTE DE LA MERCADOTECNIA </rdf:li>
+				<rdf:li>ANÁLISIS DE LOS MERCADOS DE CONSUMO Y DE LA CONDUCTA DEL COMPRADOR </rdf:li>
+				<rdf:li>ANÁLISIS DE LOS MERCADOS DE NEGOCIOS Y DE LA CONDUCTA DEL COMPRADOR EN EL ÁMBITO EMPRESARIAL </rdf:li>
+				<rdf:li>ANÁLISIS DE LAS INDUSTRIAS Y DE LA COMPETENCIA</rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+	<rdf:Description rdf:about="INVESTIGACIÓN Y SELECCIÓN DE LOS MERCADOS META ">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li>CUANTIFICACIÓN Y PRONÓSTICO DE LA DEMANDA DEL MERCADO </rdf:li>
+				<rdf:li>IDENTIFICACIÓN DE LOS SEGMENTOS DEL MERCADO Y SELECCIÓN DE LOS MERCADOS META</rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>

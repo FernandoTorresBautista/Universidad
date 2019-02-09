@@ -1,0 +1,453 @@
+<?xml version="1.0" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:lb="Biblioteca/">
+	<rdf:Description rdf:about="Biblioteca/Mercadotecnia/1892.rdf">
+		<lb:ficha>1892</lb:ficha>
+		<lb:titulo>COMO PREPARAR UN PLAN DE MARKETING</lb:titulo>
+		<lb:autor>STAPLETON, JOHN</lb:autor>
+		<lb:clasificacion>HF5415.13 S85</lb:clasificacion>
+		<lb:anio>[S.F.]</lb:anio>
+		<lb:ejemplares>1</lb:ejemplares>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Biblioteca/Mercadotecnia/1861.rdf">
+		<lb:ficha>1861</lb:ficha>
+		<lb:titulo>PLANEACION ESTRATEGICA DE MERCADO : PROBLEMAS Y EN</lb:titulo>
+		<lb:autor>ABELL, DEREK F.</lb:autor>
+		<lb:clasificacion>HF5415.13 A24</lb:clasificacion>
+		<lb:anio>1989</lb:anio>
+		<lb:ejemplares>1</lb:ejemplares>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Biblioteca/Mercadotecnia/9949.rdf">
+		<lb:ficha>9949</lb:ficha>
+		<lb:titulo>EL PRINCIPIO DE LA TELA DE ARANA EN EL NUEVO MARKETING</lb:titulo>
+		<lb:autor>LINTON, IAN</lb:autor>
+		<lb:clasificacion>HF5415.13 L55</lb:clasificacion>
+		<lb:anio>1994</lb:anio>
+		<lb:ejemplares>1</lb:ejemplares>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Biblioteca/Mercadotecnia/11519.rdf">
+		<lb:ficha>11519</lb:ficha>
+		<lb:titulo>REINVENTANDO EL MARKETING DE EMPRESA A EMPRESA</lb:titulo>
+		<lb:autor>SHERLOCK, PAUL</lb:autor>
+		<lb:clasificacion>HF5415.13 S52</lb:clasificacion>
+		<lb:anio>1994</lb:anio>
+		<lb:ejemplares>1</lb:ejemplares>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Biblioteca/Mercadotecnia/1894.rdf">
+		<lb:ficha>1894</lb:ficha>
+		<lb:titulo>DIRECCION DE MERCADOTECNIA : ANALISIS, PLANEACION,</lb:titulo>
+		<lb:autor>KOTLER, PHILIP</lb:autor>
+		<lb:clasificacion>HF5415.13 K68</lb:clasificacion>
+		<lb:anio>1996</lb:anio>
+		<lb:ejemplares>5</lb:ejemplares>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Biblioteca/Mercadotecnia/1859.rdf">
+		<lb:ficha>1859</lb:ficha>
+		<lb:titulo>MANUAL PARA ELABORAR UN PLAN DE MERCADOTECNIA : UN</lb:titulo>
+		<lb:autor>FERNANDEZ VALINAS, RICARDO</lb:autor>
+		<lb:clasificacion>HF5415.13 F4</lb:clasificacion>
+		<lb:anio>2001</lb:anio>
+		<lb:ejemplares>1</lb:ejemplares>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Biblioteca/Mercadotecnia/1863.rdf">
+		<lb:ficha>1863</lb:ficha>
+		<lb:titulo>ADMINISTRACION DE LA MERCADOTECNIA</lb:titulo>
+		<lb:autor>CZINKOTA, MICHAEL R.</lb:autor>
+		<lb:clasificacion>HF5415.13 C95</lb:clasificacion>
+		<lb:anio>2001</lb:anio>
+		<lb:ejemplares>1</lb:ejemplares>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Biblioteca/Mercadotecnia/1893.rdf">
+		<lb:ficha>1893</lb:ficha>
+		<lb:titulo>DIRECCION DE MARKETING</lb:titulo>
+		<lb:autor>KOTLER, PHILIP</lb:autor>
+		<lb:clasificacion>HF5415.13 K685</lb:clasificacion>
+		<lb:anio>2001</lb:anio>
+		<lb:ejemplares>3</lb:ejemplares>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Biblioteca/Mercadotecnia/795.rdf">
+		<lb:ficha>795</lb:ficha>
+		<lb:titulo>MERCADOTECNIA ESTRATEGICA : COMO LOGRAR UTILIDADES</lb:titulo>
+		<lb:autor>MERCADO H., SALVADOR</lb:autor>
+		<lb:clasificacion>HF5415.13 M47</lb:clasificacion>
+		<lb:anio>2004</lb:anio>
+		<lb:ejemplares>1</lb:ejemplares>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Biblioteca/Mercadotecnia/1862.rdf">
+		<lb:ficha>1862</lb:ficha>
+		<lb:titulo>PLAN DE MERCADOTECNIA</lb:titulo>
+		<lb:autor>COHEN, WILLIAM A.</lb:autor>
+		<lb:clasificacion>HF5415.13 C64</lb:clasificacion>
+		<lb:anio>2004</lb:anio>
+		<lb:ejemplares>2</lb:ejemplares>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Biblioteca/Mercadotecnia/1891.rdf">
+		<lb:ficha>1891</lb:ficha>
+		<lb:titulo>LA ESTRATEGIA SEGUN TROUT : CAPTURAR MENTES PARA</lb:titulo>
+		<lb:autor>TROUT, JACK</lb:autor>
+		<lb:clasificacion>HF5415.13 T76</lb:clasificacion>
+		<lb:anio>2004</lb:anio>
+		<lb:ejemplares>1</lb:ejemplares>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Biblioteca/Mercadotecnia/794.rdf">
+		<lb:ficha>794</lb:ficha>
+		<lb:titulo>LA DISTRIBUCION COMERCIAL</lb:titulo>
+		<lb:autor>LAWRENCE, ARTHUR</lb:autor>
+		<lb:clasificacion>HF5415.13 L39</lb:clasificacion>
+		<lb:anio>2005</lb:anio>
+		<lb:ejemplares>1</lb:ejemplares>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Biblioteca/Mercadotecnia/11736.rdf">
+		<lb:ficha>11736</lb:ficha>
+		<lb:titulo>MARKETING ESTRATEGICO</lb:titulo>
+		<lb:autor>*none</lb:autor>
+		<lb:clasificacion>HF5415.13 M38</lb:clasificacion>
+		<lb:anio>2005</lb:anio>
+		<lb:ejemplares>2</lb:ejemplares>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Biblioteca/Mercadotecnia/775.rdf">
+		<lb:ficha>775</lb:ficha>
+		<lb:titulo>DIRECCION DE MARKETING</lb:titulo>
+		<lb:autor>KOTLER, PHILIP</lb:autor>
+		<lb:clasificacion>HF5415.13 K685 2006</lb:clasificacion>
+		<lb:anio>2006</lb:anio>
+		<lb:ejemplares>1</lb:ejemplares>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Biblioteca/Mercadotecnia/774.rdf">
+		<lb:ficha>774</lb:ficha>
+		<lb:titulo>MANUAL PARA ELABORAR UN PLAN DE MERCADOTECNIA</lb:titulo>
+		<lb:autor>FERNANDEZ VALINAS, RICARDO</lb:autor>
+		<lb:clasificacion>HF5415.13 F4 2007</lb:clasificacion>
+		<lb:anio>2007</lb:anio>
+		<lb:ejemplares>2</lb:ejemplares>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Biblioteca/Mercadotecnia/11725.rdf">
+		<lb:ficha>11725</lb:ficha>
+		<lb:titulo>MARKETING EXPERIENCIAL : LA REVOLUCION DE LAS MARC</lb:titulo>
+		<lb:autor>LENDERMAN, MAX</lb:autor>
+		<lb:clasificacion>HF5415.13 L46</lb:clasificacion>
+		<lb:anio>2008</lb:anio>
+		<lb:ejemplares>1</lb:ejemplares>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Biblioteca/Mercadotecnia/11712.rdf">
+		<lb:ficha>11712</lb:ficha>
+		<lb:titulo>DIRECCION DE MARKETING</lb:titulo>
+		<lb:autor>KOTLER, PHILIP</lb:autor>
+		<lb:clasificacion>HF5415.13 K685 2012</lb:clasificacion>
+		<lb:anio>2012</lb:anio>
+		<lb:ejemplares>1</lb:ejemplares>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Biblioteca/Mercadotecnia/11715.rdf">
+		<lb:ficha>11715</lb:ficha>
+		<lb:titulo>MARKETING PARA PYMES : UN ENFOQUE PARA LATINOAMERI</lb:titulo>
+		<lb:autor>SCHNARCH KIRBERG, ALEJANDRO</lb:autor>
+		<lb:clasificacion>HF5415.13 S36</lb:clasificacion>
+		<lb:anio>2013</lb:anio>
+		<lb:ejemplares>3</lb:ejemplares>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Biblioteca/Mercadotecnia/11731.rdf">
+		<lb:ficha>11731</lb:ficha>
+		<lb:titulo>MERCADOTECNIA CON SALSA</lb:titulo>
+		<lb:autor>GEIFMAN, ABRAHAM</lb:autor>
+		<lb:clasificacion>HF5415.13 G45</lb:clasificacion>
+		<lb:anio>2013</lb:anio>
+		<lb:ejemplares>1</lb:ejemplares>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Biblioteca/Mercadotecnia/1892.rdf">
+		<lb:ficha>1892</lb:ficha>
+		<lb:titulo>COMO PREPARAR UN PLAN DE MARKETING</lb:titulo>
+		<lb:autor>STAPLETON, JOHN</lb:autor>
+		<lb:clasificacion>HF5415.13 S85</lb:clasificacion>
+		<lb:anio>[S.F.]</lb:anio>
+		<lb:ejemplares>1</lb:ejemplares>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Biblioteca/Mercadotecnia/1904.rdf">
+		<lb:ficha>1904</lb:ficha>
+		<lb:titulo>CASE PROBLEMS IN BUSINESS LOGISTICS</lb:titulo>
+		<lb:autor>JAMES L. HESKET</lb:autor>
+		<lb:clasificacion>HF5415.7 C37</lb:clasificacion>
+		<lb:anio>1973</lb:anio>
+		<lb:ejemplares>2</lb:ejemplares>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Biblioteca/Mercadotecnia/1846.rdf">
+		<lb:ficha>1846</lb:ficha>
+		<lb:titulo>MARKETING : DECISIONES Y CONCEPTOS</lb:titulo>
+		<lb:autor>PRIDE, WILLIAM M.</lb:autor>
+		<lb:clasificacion>HF5415 P7</lb:clasificacion>
+		<lb:anio>1980</lb:anio>
+		<lb:ejemplares>1</lb:ejemplares>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Biblioteca/Mercadotecnia/1835.rdf">
+		<lb:ficha>1835</lb:ficha>
+		<lb:titulo>ESTRATEGiAS BASICAS DE MERCADOTECNiA</lb:titulo>
+		<lb:autor>FRYE, ROBERT W.</lb:autor>
+		<lb:clasificacion>HF5415 F7</lb:clasificacion>
+		<lb:anio>1982</lb:anio>
+		<lb:ejemplares>1</lb:ejemplares>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Biblioteca/Mercadotecnia/1895.rdf">
+		<lb:ficha>1895</lb:ficha>
+		<lb:titulo>INVESTIGACION DE MERCADOS</lb:titulo>
+		<lb:autor>WEIERS, RONALD M.</lb:autor>
+		<lb:clasificacion>HF5415.2 W45</lb:clasificacion>
+		<lb:anio>1986</lb:anio>
+		<lb:ejemplares>3</lb:ejemplares>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Biblioteca/Mercadotecnia/1897.rdf">
+		<lb:ficha>1897</lb:ficha>
+		<lb:titulo>FRUSTRACIONES DE LA RIQUEZA : LA SATISFACCION HUMA</lb:titulo>
+		<lb:autor>SCITOVSKY, TIBOR</lb:autor>
+		<lb:clasificacion>HF5415.3 S34</lb:clasificacion>
+		<lb:anio>1986</lb:anio>
+		<lb:ejemplares>1</lb:ejemplares>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Biblioteca/Mercadotecnia/1837.rdf">
+		<lb:ficha>1837</lb:ficha>
+		<lb:titulo>MERCADOTECNiA : TEORiA Y PROBLEMAS</lb:titulo>
+		<lb:autor>HOLTJE, HERBERT F.</lb:autor>
+		<lb:clasificacion>HF5415 H6</lb:clasificacion>
+		<lb:anio>1988</lb:anio>
+		<lb:ejemplares>3</lb:ejemplares>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Biblioteca/Mercadotecnia/1865.rdf">
+		<lb:ficha>1865</lb:ficha>
+		<lb:titulo>LA GUERRA DE LA MERCADOTECNIA</lb:titulo>
+		<lb:autor>RIES, AL</lb:autor>
+		<lb:clasificacion>HF5415 R544</lb:clasificacion>
+		<lb:anio>1988</lb:anio>
+		<lb:ejemplares>1</lb:ejemplares>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Biblioteca/Mercadotecnia/12721.rdf">
+		<lb:ficha>12721</lb:ficha>
+		<lb:titulo>MERCADOTECNIA INDUSTRIAL</lb:titulo>
+		<lb:autor>REYES ARTIGAS, JUAN SERGIO</lb:autor>
+		<lb:clasificacion>HF5415 R49</lb:clasificacion>
+		<lb:anio>1988</lb:anio>
+		<lb:ejemplares>1</lb:ejemplares>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Biblioteca/Mercadotecnia/1833.rdf">
+		<lb:ficha>1833</lb:ficha>
+		<lb:titulo>MERCADOTECNIA : UNA PERSPECTIVA ESTRATÉGICA</lb:titulo>
+		<lb:autor>HULBERT, JAMES M.</lb:autor>
+		<lb:clasificacion>HF5415 H8</lb:clasificacion>
+		<lb:anio>1989</lb:anio>
+		<lb:ejemplares>4</lb:ejemplares>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Biblioteca/Mercadotecnia/1861.rdf">
+		<lb:ficha>1861</lb:ficha>
+		<lb:titulo>PLANEACION ESTRATEGICA DE MERCADO : PROBLEMAS Y ENFOQUES ANALÍTICOS</lb:titulo>
+		<lb:autor>ABELL, DEREK F.</lb:autor>
+		<lb:clasificacion>HF5415.13 A24</lb:clasificacion>
+		<lb:anio>1989</lb:anio>
+		<lb:ejemplares>1</lb:ejemplares>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Biblioteca/Mercadotecnia/1896.rdf">
+		<lb:ficha>1896</lb:ficha>
+		<lb:titulo>EL CLIENTE ES LA CLAVE : COMO LOGRAR UNA VENTAJA I</lb:titulo>
+		<lb:autor>LELE, MILIND M.</lb:autor>
+		<lb:clasificacion>HF5415.3 L45</lb:clasificacion>
+		<lb:anio>1989</lb:anio>
+		<lb:ejemplares>2</lb:ejemplares>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Biblioteca/Mercadotecnia/1914.rdf">
+		<lb:ficha>1914</lb:ficha>
+		<lb:titulo>INVESTIGACION DE MERCADOS</lb:titulo>
+		<lb:autor>AAKER, DAVID A.</lb:autor>
+		<lb:clasificacion>HF5415.2 A34</lb:clasificacion>
+		<lb:anio>1989</lb:anio>
+		<lb:ejemplares>1</lb:ejemplares>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Biblioteca/Mercadotecnia/1876.rdf">
+		<lb:ficha>1876</lb:ficha>
+		<lb:titulo>INTRODUCCION A LA INVESTIGACION DE MERCADOS</lb:titulo>
+		<lb:autor>FISCHER DE LA VEGA, LAURA</lb:autor>
+		<lb:clasificacion>HF5415.2 F5</lb:clasificacion>
+		<lb:anio>1990</lb:anio>
+		<lb:ejemplares>1</lb:ejemplares>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Biblioteca/Mercadotecnia/1881.rdf">
+		<lb:ficha>1881</lb:ficha>
+		<lb:titulo>LA REVOLUCION DEL MARKETING : LA TACTICA DICTA LA ESTRETEGIA</lb:titulo>
+		<lb:autor>RIES, AL</lb:autor>
+		<lb:clasificacion>HF5415 R53</lb:clasificacion>
+		<lb:anio>1990</lb:anio>
+		<lb:ejemplares>1</lb:ejemplares>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Biblioteca/Mercadotecnia/1883.rdf">
+		<lb:ficha>1883</lb:ficha>
+		<lb:titulo>MERCADOTECNIA : CONCEPTOS Y PRACTICAS MODERNAS</lb:titulo>
+		<lb:autor>SCHOELL, WILLIAM F.</lb:autor>
+		<lb:clasificacion>HF5415 S3</lb:clasificacion>
+		<lb:anio>1991</lb:anio>
+		<lb:ejemplares>3</lb:ejemplares>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Biblioteca/Mercadotecnia/1885.rdf">
+		<lb:ficha>1885</lb:ficha>
+		<lb:titulo>EL MERCADEO EN ACCION : UNA GUiA PASO POR PASO PAR</lb:titulo>
+		<lb:autor>EARLS, GERARD</lb:autor>
+		<lb:clasificacion>HF5415 E2</lb:clasificacion>
+		<lb:anio>1991</lb:anio>
+		<lb:ejemplares>4</lb:ejemplares>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Biblioteca/Mercadotecnia/1607.rdf">
+		<lb:ficha>1607</lb:ficha>
+		<lb:titulo>PROGRAMA DE DESARROLLO EMPRESARIAL. PAQUETE DE MER</lb:titulo>
+		<lb:autor>BENASSINI FELIX, MARCELA</lb:autor>
+		<lb:clasificacion>HF5415 P7 B4538</lb:clasificacion>
+		<lb:anio>1992</lb:anio>
+		<lb:ejemplares>1</lb:ejemplares>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Biblioteca/Mercadotecnia/1608.rdf">
+		<lb:ficha>1608</lb:ficha>
+		<lb:titulo>PROGRAMA DE DESARROLLO EMPRESARIAL. PAQUETE DE MER</lb:titulo>
+		<lb:autor>BENASSINI FELIX, MARCELA</lb:autor>
+		<lb:clasificacion>HF5415 P7 B453</lb:clasificacion>
+		<lb:anio>1992</lb:anio>
+		<lb:ejemplares>1</lb:ejemplares>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Biblioteca/Mercadotecnia/1609.rdf">
+		<lb:ficha>1609</lb:ficha>
+		<lb:titulo>PROGRAMA DE DESARROLLO EMPRESARIAL. PAQUETE DE MER</lb:titulo>
+		<lb:autor>BENASSINI FELIX, MARCELA</lb:autor>
+		<lb:clasificacion>HF5415 P7 B45</lb:clasificacion>
+		<lb:anio>1992</lb:anio>
+		<lb:ejemplares>1</lb:ejemplares>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Biblioteca/Mercadotecnia/1610.rdf">
+		<lb:ficha>1610</lb:ficha>
+		<lb:titulo>PROGRAMA DE DESARROLLO EMPRESARIAL. PAQUETE DE MERCADOTECNIA. MOTIVACIONES DEL CLIENTE AL COMPRAR</lb:titulo>
+		<lb:autor>SALOMON SALAZAR, BENJAMiN</lb:autor>
+		<lb:clasificacion>HF5415 P7 S24</lb:clasificacion>
+		<lb:anio>1992</lb:anio>
+		<lb:ejemplares>1</lb:ejemplares>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Biblioteca/Mercadotecnia/1611.rdf">
+		<lb:ficha>1611</lb:ficha>
+		<lb:titulo>PROGRAMA DE DESARROLLO EMPRESARIAL. PAQUETE DE MERCADOTECNIA. VENDIENDO MÁS Y MEJOR</lb:titulo>
+		<lb:autor>BENASSINI FELIX, MARCELA</lb:autor>
+		<lb:clasificacion>HF5415 P7 B4</lb:clasificacion>
+		<lb:anio>1992</lb:anio>
+		<lb:ejemplares>1</lb:ejemplares>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Biblioteca/Mercadotecnia/1860.rdf">
+		<lb:ficha>1860</lb:ficha>
+		<lb:titulo>33 (I.E. TREINTA Y TRES) SECRETOS EFICACES PARA VENTAS POR TELÉFONO</lb:titulo>
+		<lb:autor>SLUTSKY, JEFF</lb:autor>
+		<lb:clasificacion>HF5415.1265 S58</lb:clasificacion>
+		<lb:anio>1992</lb:anio>
+		<lb:ejemplares>1</lb:ejemplares>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Biblioteca/Mercadotecnia/10982.rdf">
+		<lb:ficha>10982</lb:ficha>
+		<lb:titulo>MERCADOTECNIA</lb:titulo>
+		<lb:autor>FISCHER DE LA VEGA, LAURA</lb:autor>
+		<lb:clasificacion>HF5415 F57</lb:clasificacion>
+		<lb:anio>1993</lb:anio>
+		<lb:ejemplares>1</lb:ejemplares>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Biblioteca/Mercadotecnia/9949.rdf">
+		<lb:ficha>9949</lb:ficha>
+		<lb:titulo>EL PRINCIPIO DE LA TELA DE ARANA EN EL NUEVO MARKE</lb:titulo>
+		<lb:autor>LINTON, IAN</lb:autor>
+		<lb:clasificacion>HF5415.13 L55</lb:clasificacion>
+		<lb:anio>1994</lb:anio>
+		<lb:ejemplares>1</lb:ejemplares>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Biblioteca/Mercadotecnia/11519.rdf">
+		<lb:ficha>11519</lb:ficha>
+		<lb:titulo>REINVENTANDO EL MARKETING DE EMPRESA A EMPRESA</lb:titulo>
+		<lb:autor>SHERLOCK, PAUL</lb:autor>
+		<lb:clasificacion>HF5415.13 S52</lb:clasificacion>
+		<lb:anio>1994</lb:anio>
+		<lb:ejemplares>1</lb:ejemplares>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Biblioteca/Mercadotecnia/1886.rdf">
+		<lb:ficha>1886</lb:ficha>
+		<lb:titulo>ELEMENTOS BASICOS DE MERCADOTECNIA</lb:titulo>
+		<lb:autor>EYSSAUTIER DE LA MORA, MAURICE</lb:autor>
+		<lb:clasificacion>HF5415 E94</lb:clasificacion>
+		<lb:anio>1995</lb:anio>
+		<lb:ejemplares>2</lb:ejemplares>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Biblioteca/Mercadotecnia/1840.rdf">
+		<lb:ficha>1840</lb:ficha>
+		<lb:titulo>EL NUEVO MAXIMARKETING : LA GUIA CLASICA PARA TRANSFORMAR</lb:titulo>
+		<lb:autor>RAPP, STAN</lb:autor>
+		<lb:clasificacion>HF5415 R36</lb:clasificacion>
+		<lb:anio>1996</lb:anio>
+		<lb:ejemplares>2</lb:ejemplares>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Biblioteca/Mercadotecnia/1847.rdf">
+		<lb:ficha>1847</lb:ficha>
+		<lb:titulo>MERCADOTECNIA</lb:titulo>
+		<lb:autor>KOTLER, PHILIP</lb:autor>
+		<lb:clasificacion>HF5415 K68</lb:clasificacion>
+		<lb:anio>1996</lb:anio>
+		<lb:ejemplares>5</lb:ejemplares>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Biblioteca/Mercadotecnia/1874.rdf">
+		<lb:ficha>1874</lb:ficha>
+		<lb:titulo>INTRODUCCION A LA INVESTIGACION DE MERCADOS</lb:titulo>
+		<lb:autor>FISCHER DE LA VEGA, LAURA</lb:autor>
+		<lb:clasificacion>HF5415.2 F5 1996</lb:clasificacion>
+		<lb:anio>1996</lb:anio>
+		<lb:ejemplares>8</lb:ejemplares>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Biblioteca/Mercadotecnia/1880.rdf">
+		<lb:ficha>1880</lb:ficha>
+		<lb:titulo>LAS 22 (I.E. VEINTIDOS) LEYES INMUTABLES DEL MARKETING</lb:titulo>
+		<lb:autor>RIES, AL</lb:autor>
+		<lb:clasificacion>HF5415 R54</lb:clasificacion>
+		<lb:anio>1996</lb:anio>
+		<lb:ejemplares>2</lb:ejemplares>
+	</rdf:Description>
+
+</rdf:RDF> 

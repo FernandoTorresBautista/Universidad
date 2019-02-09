@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Mercadotecnia/">
+
+	<rdf:Description rdf:about="33 (I.E. TREINTA Y TRES) SECRETOS EFICACES PARA VENTAS POR TELÉFONO">
+	  <ct:tema>
+		<rdf:Seq>
+		  <rdf:li>Cómo preparar una estrategia eficaz para las ventas por teléfono</rdf:li>
+		  <rdf:li>Cómo esquivar al portero</rdf:li>
+		  <rdf:li>Cómo hacer el contacto inicial con su prospecto</rdf:li>
+		  <rdf:li>Cómo cencertar una cita por teléfono</rdf:li>
+		  <rdf:li>La segunda llama: su presentación de ventas por teléfono</rdf:li>
+		  <rdf:li>Cómo tratar a los indecisos y manejar las objeciones</rdf:li>
+		  <rdf:li>Cómo cerrar la venta por teléfocno</rdf:li>
+		  <rdf:li>Cómo brindarle servicio a su cliente por vía telefónica</rdf:li>
+		  <rdf:li>Cómo duplicar los resultados de sus ventas por telédono</rdf:li>
+		</rdf:Seq>
+	  </ct:tema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Cómo preparar una estrategia eficaz para las ventas por teléfono">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>La táctica de la llamada única</rdf:li>
+		  <rdf:li>La estrategia de anunciarse primer y cerrar por teléfono</rdf:li>
+		  <rdf:li>La estrategia de una llamada-una cita</rdf:li>
+		  <rdf:li>La estrategia de dos llamadas o más-cierre</rdf:li>
+		  <rdf:li>La estrategia de tres llamadas o más-cierre</rdf:li>
+		  <rdf:li>Más variantes de las tres llamadas</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Cómo esquivar al portero">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Las cinco variables</rdf:li>
+		  <rdf:li>La carrera por el centro</rdf:li>
+		  <rdf:li>La carrera por el fondo</rdf:li>
+		  <rdf:li>La carrera hacia atrás</rdf:li>
+		  <rdf:li>La colada del quaterback</rdf:li>
+		  <rdf:li>El pase largo</rdf:li>
+		  <rdf:li>La patada en falso</rdf:li>
+		  <rdf:li>La patada en verdad</rdf:li>
+		  <rdf:li>El pase por alto</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Cómo hacer el contacto inicial con su prospecto">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Su introducción</rdf:li>
+		  <rdf:li>Las ventajas que usted ofrece</rdf:li>
+		  <rdf:li>Sus novedades</rdf:li>
+		  <rdf:li>La pregunta negativa</rdf:li>
+		  <rdf:li>Las cinco pruebas para calificar a su prospecto</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Cómo cencertar una cita por teléfono">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Los cuatro objetivos de la llamada inicial</rdf:li>
+		  <rdf:li>Cómo concertar la cita</rdf:li>
+		  <rdf:li>Cómo conseguir el compromiso para que revisen sus envíos</rdf:li>
+		  <rdf:li>Cómo crear una publicidad "gancho"</rdf:li>
+		  <rdf:li>La carta de presentación</rdf:li>
+		  <rdf:li>El folleto de la compañia</rdf:li>
+		  <rdf:li>Cartas testimoniales</rdf:li>
+		  <rdf:li>La publicidad</rdf:li>
+		  <rdf:li>Cómo solicitar referencias</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="La segunda llama: su presentación de ventas por teléfono">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Cómo obtener detalles importantes</rdf:li>
+		  <rdf:li>Cómo controlar el eco</rdf:li>
+		  <rdf:li>El paquete de información que sigue a la segunda llamada</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Cómo tratar a los indecisos y manejar las objeciones">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Cómo crear una sensación de urgencia</rdf:li>
+		  <rdf:li>Cuatro pasos para manejar bien las objeciones</rdf:li>
+		  <rdf:li>Cómo evitar que una objeción se desarrolle</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Cómo cerrar la venta por teléfocno">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Cómo solicitar el pedido</rdf:li>
+		  <rdf:li>La importancia de la perseverancia</rdf:li>
+		  <rdf:li>El cierre fácil</rdf:li>
+		  <rdf:li>El esfuerzo decepcionado</rdf:li>
+		  <rdf:li>Cómo aumentar las ventas después del cierre</rdf:li>
+		  <rdf:li>Cómo preparar el papeleo</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Cómo brindarle servicio a su cliente por vía telefónica">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Las ventajas del servicio por vía telefónica</rdf:li>
+		  <rdf:li>Los consejos para el servicio por telefóno</rdf:li>
+		  <rdf:li>Las llamadas a los clientes antiguos</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Cómo duplicar los resultados de sus ventas por telédono">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Las hojas para registrar llamadas</rdf:li>
+		  <rdf:li>El aparato que sigue la pista de las llamadas</rdf:li>
+		  <rdf:li>Tarjetas de pistas</rdf:li>
+		  <rdf:li>Gráficas murales con la posición de las pistas calificadas</rdf:li>
+		  <rdf:li>Marcador veloz</rdf:li>
+		  <rdf:li>Registre sus presentaciones de ventas</rdf:li>
+		  <rdf:li>Mantenga las manos libres</rdf:li>
+		  <rdf:li>El telefóno celular</rdf:li>
+		  <rdf:li>Más en marcha</rdf:li>
+		  <rdf:li>Cómo afecta las ventas su personalidad por telefóno</rdf:li>
+		  <rdf:li>Use una computadora para aumentar su eficiencia</rdf:li>
+		  <rdf:li>Cómo producir el ímpetu que aumentará sus ventas</rdf:li>
+		  <rdf:li>Cómo delegar tareas básicas para aumentar sus ventas</rdf:li>
+		  <rdf:li>Cómo dar un salto cuantitativo designado a una ersona para que haga las llamadas en frío</rdf:li>
+		  <rdf:li>Conclusión</rdf:li>
+		  <rdf:li>Resumen de los 33 secretos eficaces para las ventas por telefóno</rdf:li>
+		  <rdf:li>Guía de recursos del streetfighter's (Luchador de la calle)</rdf:li>
+		  <rdf:li>Libros</rdf:li>
+		  <rdf:li>Álbunes de audiocintas</rdf:li>
+		  <rdf:li>Programas de capacitación de videocintas</rdf:li>
+		  <rdf:li>Otros recursos</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+</rdf:RDF> 

@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Mercadotecnia/">
+
+	<rdf:Description rdf:about="EL MERCADEO EN ACCION : UNA GUiA PASO POR PASO PAR">
+	  <ct:tema>
+		<rdf:Seq>
+		  <rdf:li>Introducción al mercado</rdf:li>
+		  <rdf:li>Consideraciones internas</rdf:li>
+		  <rdf:li>Consideraciones externas</rdf:li>
+		  <rdf:li>Síntesis y conclución</rdf:li>
+		</rdf:Seq>
+	  </ct:tema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Introducción al mercado">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>El reto del mercado</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Consideraciones internas">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Entender las dinámicas del mercado</rdf:li>
+		  <rdf:li>Investigación del mercado</rdf:li>
+		  <rdf:li>El plan del mercado</rdf:li>
+		  <rdf:li>Plan del producto</rdf:li>
+		  <rdf:li>Desición de precios</rdf:li>
+		  <rdf:li>Distribución</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Consideraciones externas">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>La mezcla promocional</rdf:li>
+		  <rdf:li>Ventas personales</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Síntesis y conclución">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Control de la operación de mercado</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+</rdf:RDF> 

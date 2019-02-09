@@ -1,0 +1,413 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Mercadotecnia/">
+
+	<rdf:Description rdf:about="DIRECCION DE MARKETING">
+	  <ct:tema>
+		<rdf:Seq>
+		  <rdf:li>La definición del marketing para el siglo XXI</rdf:li>
+		  <rdf:li>Desarrollo de estrategias y planes de marketing</rdf:li>
+		  <rdf:li>Recopilación de información y pronósticos de la demanda</rdf:li>
+		  <rdf:li>Investigación de mercados</rdf:li>
+		  <rdf:li>Creación de relaciones de lealtad de largo plazo</rdf:li>
+		  <rdf:li>Análisis de los mercados de consumo</rdf:li>
+		  <rdf:li>Análisis de los mercados empresariales</rdf:li>
+		  <rdf:li>Identificación de segmentos de mercado y mercados meta</rdf:li>
+		  <rdf:li>Creación de brand equity</rdf:li>
+		  <rdf:li>Estrategias de posicionamiento de marcas</rdf:li>
+		  <rdf:li>Las relaciones con la competencia</rdf:li>
+		  <rdf:li>Establecimiento de la estrategia de productos</rdf:li>
+		  <rdf:li>Diseño y gestión de servicios</rdf:li>
+		  <rdf:li>Desarrollo de estrategias y programas de precios</rdf:li>
+		  <rdf:li>Diseño y gestión de los canales integrados de marketing</rdf:li>
+		  <rdf:li>Gestión de la distribución minorista, de la venta mayorista y de la logística de mercado</rdf:li>
+		  <rdf:li>Diseño y gestión de comunicaciones integradas de marketing</rdf:li>
+		  <rdf:li>Gestión de las comunicaciones masivas: publicidad, promociones de ventas, eventos, experiencias y relaciones públicas</rdf:li>
+		  <rdf:li>Gestión de las comunicaciones personales: marketing directo e interactivo, recomendación de boca en boca y ventas personales</rdf:li>
+		  <rdf:li>Lanzamiento de nuevas ofertas de mercado</rdf:li>
+		  <rdf:li>Acceso a los mercados globales</rdf:li>
+		  <rdf:li>Gestión de una organización de marketing holístico a largo plazo</rdf:li>
+		  <rdf:li>Apéndice</rdf:li>
+		  <rdf:li>Notas</rdf:li>
+		  <rdf:li>Glosario</rdf:li>
+		  <rdf:li>Créditos de imágenes</rdf:li>
+		  <rdf:li>Índice de nombres</rdf:li>
+		  <rdf:li>Índice de temas</rdf:li>
+		</rdf:Seq>
+	  </ct:tema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="La definición del marketing para el siglo XXI">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>La importancia del marketing</rdf:li>
+		  <rdf:li>El alcance del marketing</rdf:li>
+		  <rdf:li>Conceptos fundamentales de marketing</rdf:li>
+		  <rdf:li>Las nuevas realidades del marketing</rdf:li>
+		  <rdf:li>El marketing en la era de la turbulencia</rdf:li>
+		  <rdf:li>Orientación de la empresa hacia el mercado</rdf:li>
+		  <rdf:li>Marketing, lo bueno y lo malo</rdf:li>
+		  <rdf:li>Actualización de las cuatro Ps</rdf:li>
+		  <rdf:li>Tareas de dirección de marketing</rdf:li>
+		  <rdf:li>Preguntas frecuentes de los especialistas en marketing</rdf:li>
+		  <rdf:li>Resumen</rdf:li>
+		  <rdf:li>Aplicaciones</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Desarrollo de estrategias y planes de marketing">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>El marketing y el valor para el cliente</rdf:li>
+		  <rdf:li>Planificación estratégica corporativa y divisional</rdf:li>
+		  <rdf:li>Creación de marketing innovador</rdf:li>
+		  <rdf:li>Planificación estratégica de las unidades de negocio</rdf:li>
+		  <rdf:li>Lista de verificación para llevar a cabo un análisis de fortalezas y debilidades</rdf:li>
+		  <rdf:li>Planificación de productos: la naturaleza y el contenido de un plan de marketing</rdf:li>
+		  <rdf:li>Criterios para la creación de planes de marketing</rdf:li>
+		  <rdf:li>Resumen</rdf:li>
+		  <rdf:li>Aplicaciones</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Recopilación de información y pronósticos de la demanda">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Los componentes de un sistema de información de marketing moderno</rdf:li>
+		  <rdf:li>El sistema de datos interno</rdf:li>
+		  <rdf:li>Inteligencia de marketing</rdf:li>
+		  <rdf:li>Análisis del macroentorno</rdf:li>
+		  <rdf:li>En busca de oro en la base de la pirámide</rdf:li>
+		  <rdf:li>La revolución del marketing ecológico</rdf:li>
+		  <rdf:li>Pronóstico y cálculo de la demanda</rdf:li>
+		  <rdf:li>Resumen</rdf:li>
+		  <rdf:li>Aplicaciones</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Investigación de mercados">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>El sistema de investigación de mercados</rdf:li>
+		  <rdf:li>El proceso de investigación de mercados</rdf:li>
+		  <rdf:li>Implementación de focus groups para recopilación de información</rdf:li>
+		  <rdf:li>Recomendaciones para elaborar cuestionarios</rdf:li>
+		  <rdf:li>Cómo entrar en la mente de los consumidores</rdf:li>
+		  <rdf:li>El apoyo de las neurociencias</rdf:li>
+		  <rdf:li>Personificación: cuando la investigación de mercados cobra vida</rdf:li>
+		  <rdf:li>Cómo calcular la productividad del marketing</rdf:li>
+		  <rdf:li>Cuadros de mando de marketing para mejorar la eficacia y la eficiencia</rdf:li>
+		  <rdf:li>Resumen</rdf:li>
+		  <rdf:li>Aplicaciones</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Creación de relaciones de lealtad de largo plazo">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Creación de valor, satisfacción y lealtad del cliente</rdf:li>
+		  <rdf:li>El promotor neto y la satisfacción del cliente</rdf:li>
+		  <rdf:li>Maximización del valor de vida del cliente</rdf:li>
+		  <rdf:li>El marketing y la calidad total</rdf:li>
+		  <rdf:li>Cultivando las relaciones con los clientes</rdf:li>
+		  <rdf:li>Cálculo del valor de vida del cliente</rdf:li>
+		  <rdf:li>Gestión de las relaciones con los clientes</rdf:li>
+		  <rdf:li>Bases de datos de clientes y marketing de base de datos</rdf:li>
+		  <rdf:li>La controversia sobre el behavioral targeting</rdf:li>
+		  <rdf:li>Resumen</rdf:li>
+		  <rdf:li>Aplicaciones</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Análisis de los mercados de consumo">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>¿Qué factores influyen en el comportamiento del consumidor?</rdf:li>
+		  <rdf:li>Cuestionario para el consumidor promedio</rdf:li>
+		  <rdf:li>Procesos psicológicos fundamentales</rdf:li>
+		  <rdf:li>Hecho para pegarse</rdf:li>
+		  <rdf:li>El proceso de decisión de compra: el modelo de cinco fases</rdf:li>
+		  <rdf:li>Teoría de decisión conductual y economía conductual</rdf:li>
+		  <rdf:li>Previsiblemente irracional</rdf:li>
+		  <rdf:li>Resumen</rdf:li>
+		  <rdf:li>Aplicaciones</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Análisis de los mercados empresariales">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>¿Qué es la compra organizacional?</rdf:li>
+		  <rdf:li>Participantes en el proceso de compra B2B</rdf:li>
+		  <rdf:li>Grandes ventas a pequeños negocios</rdf:li>
+		  <rdf:li>El proceso de compra /adquisición</rdf:li>
+		  <rdf:li>Etapas del proceso de compra</rdf:li>
+		  <rdf:li>Desarrollo de propuestas persuasivas de valor para el comprador</rdf:li>
+		  <rdf:li>Establecimiento de confianza, credibilidad y reputación corporativa</rdf:li>
+		  <rdf:li>Mercados institucionales y gubernamentales</rdf:li>
+		  <rdf:li>Resumen</rdf:li>
+		  <rdf:li>Aplicaciones</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Identificación de segmentos de mercado y mercados meta">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Bases para segmentar los mercados de consumo</rdf:li>
+		  <rdf:li>Ascender, descender u oscilar</rdf:li>
+		  <rdf:li>Bases para segmentar los mercados empresariales</rdf:li>
+		  <rdf:li>Definición del segmento meta</rdf:li>
+		  <rdf:li>Persiguiendo la Larga Cola</rdf:li>
+		  <rdf:li>Resumen</rdf:li>
+		  <rdf:li>Aplicaciones</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Creación de brand equity">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>¿Qué es el brand equity o capital de marca?</rdf:li>
+		  <rdf:li>El problema de la burbuja de las marcas</rdf:li>
+		  <rdf:li>Creación de brand equity</rdf:li>
+		  <rdf:li>Cálculo del brand equity</rdf:li>
+		  <rdf:li>La cadena del valor de marca</rdf:li>
+		  <rdf:li>¿Cuánto vale una marca?</rdf:li>
+		  <rdf:li>Dirección del brand equity</rdf:li>
+		  <rdf:li>Concepción de la estrategia de marca</rdf:li>
+		  <rdf:li>Customer equity</rdf:li>
+		  <rdf:li>El branding en el siglo XXI</rdf:li>
+		  <rdf:li>Resumen</rdf:li>
+		  <rdf:li>Aplicaciones</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Estrategias de posicionamiento de marcas">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Desarrollo y establecimiento del posicionamiento de marca</rdf:li>
+		  <rdf:li>Impulso al crecimiento mediante la innovación del valor</rdf:li>
+		  <rdf:li>Creación de una vista panorámica del posicionamientode marca</rdf:li>
+		  <rdf:li>Estrategias de diferenciación</rdf:li>
+		  <rdf:li>Posicionamiento y branding para pequeñas empresas</rdf:li>
+		  <rdf:li>Resumen</rdf:li>
+		  <rdf:li>Aplicaciones</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Las relaciones con la competencia">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Estrategias competitivas para líderes de mercado</rdf:li>
+		  <rdf:li>Cuando el competidor ofrece más por menos</rdf:li>
+		  <rdf:li>Otras estrategias competitivas</rdf:li>
+		  <rdf:li>Las funciones del especialista en marketing de nichos</rdf:li>
+		  <rdf:li>Estrategias de marketing a lo largo del ciclo de vida del producto</rdf:li>
+		  <rdf:li>El manejo de crisis de la marca</rdf:li>
+		  <rdf:li>El marketing en la recesión económica</rdf:li>
+		  <rdf:li>Resumen</rdf:li>
+		  <rdf:li>Aplicaciones</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Establecimiento de la estrategia de productos">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Características y clasificaciones del producto</rdf:li>
+		  <rdf:li>Diferenciación de productos y servicios</rdf:li>
+		  <rdf:li>Diseño</rdf:li>
+		  <rdf:li>Relaciones entre el producto y la marca</rdf:li>
+		  <rdf:li>El marketing de marcas de lujo</rdf:li>
+		  <rdf:li>Cuando menos es más</rdf:li>
+		  <rdf:li>Consideraciones de fijación de precios para paquetes de productos</rdf:li>
+		  <rdf:li>Envasado, etiquetado y garantías</rdf:li>
+		  <rdf:li>Resumen</rdf:li>
+		  <rdf:li>Aplicaciones</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Diseño y gestión de servicios">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>La naturaleza de los servicios</rdf:li>
+		  <rdf:li>Las nuevas realidades de los servicios</rdf:li>
+		  <rdf:li>Excelencia en el marketing de servicios</rdf:li>
+		  <rdf:li>Mejoramiento de los centros de llamadas telefónicas de la empresa</rdf:li>
+		  <rdf:li>Gestión de la calidad de servicio</rdf:li>
+		  <rdf:li>Recomendaciones para mejorar la calidad del servicio</rdf:li>
+		  <rdf:li>Gestión de servicios de apoyo a productos</rdf:li>
+		  <rdf:li>Evaluación de la calidad de los servicios online</rdf:li>
+		  <rdf:li>Resumen</rdf:li>
+		  <rdf:li>Aplicaciones</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Desarrollo de estrategias y programas de precios">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Cómo funciona la fijación de precios</rdf:li>
+		  <rdf:li>Regalándolo todo</rdf:li>
+		  <rdf:li>Fijación del precio</rdf:li>
+		  <rdf:li>Aumentos de precio furtivos</rdf:li>
+		  <rdf:li>Adaptación del precio</rdf:li>
+		  <rdf:li>Inicio y respuesta a los cambios de precios</rdf:li>
+		  <rdf:li>Resumen</rdf:li>
+		  <rdf:li>Aplicaciones</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Diseño y gestión de los canales integrados de marketing">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Los canales de marketing y las redes de valor</rdf:li>
+		  <rdf:li>La función de los canales de marketing</rdf:li>
+		  <rdf:li>Decisiones sobre el diseño del canal</rdf:li>
+		  <rdf:li>Decisiones sobre la gestión del canal</rdf:li>
+		  <rdf:li>Integración y sistemas de canal</rdf:li>
+		  <rdf:li>Los líderes del canal toman el control</rdf:li>
+		  <rdf:li>Conflictos, cooperación y competencia</rdf:li>
+		  <rdf:li>Prácticas de marketing en el comercio electrónico</rdf:li>
+		  <rdf:li>Prácticas de marketing en el comercio móvil</rdf:li>
+		  <rdf:li>Resumen</rdf:li>
+		  <rdf:li>Aplicaciones</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Gestión de la distribución minorista, de la venta mayorista y de la logística de mercado">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Distribución minorista</rdf:li>
+		  <rdf:li>Cómo ayudar a las tiendas a vender</rdf:li>
+		  <rdf:li>Marcas propias</rdf:li>
+		  <rdf:li>La respuesta de los fabricantes a la amenaza de las marcas de distribuidores</rdf:li>
+		  <rdf:li>La venta mayorista</rdf:li>
+		  <rdf:li>Logística de mercado</rdf:li>
+		  <rdf:li>Resumen</rdf:li>
+		  <rdf:li>Aplicaciones</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Diseño y gestión de comunicaciones integradas de marketing">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>El rol de las comunicaciones de marketing</rdf:li>
+		  <rdf:li>No toque el control remoto</rdf:li>
+		  <rdf:li>Desarrollo de comunicaciones eficaces</rdf:li>
+		  <rdf:li>Recomendación de celebridades como estrategia</rdf:li>
+		  <rdf:li>Decisión de la mezcla de comunicaciones de marketing</rdf:li>
+		  <rdf:li>Gestión del proceso de las comunicaciones integradas de marketing</rdf:li>
+		  <rdf:li>¿Qué tan integrado está su programa de IMC?</rdf:li>
+		  <rdf:li>Resumen</rdf:li>
+		  <rdf:li>Aplicaciones</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Gestión de las comunicaciones masivas: publicidad, promociones de ventas, eventos, experiencias y relaciones públicas">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Desarrollo y gestión de un programa de publicidad</rdf:li>
+		  <rdf:li>Criterios de evaluación de anuncios impresos</rdf:li>
+		  <rdf:li>Decisión de los medios y medición de su eficacia</rdf:li>
+		  <rdf:li>Juegos con las marcas</rdf:li>
+		  <rdf:li>Promoción de ventas</rdf:li>
+		  <rdf:li>Eventos y experiencias</rdf:li>
+		  <rdf:li>Medición de los programas de patrocinio de alto rendimiento</rdf:li>
+		  <rdf:li>Relaciones públicas</rdf:li>
+		  <rdf:li>Resumen</rdf:li>
+		  <rdf:li>Aplicaciones</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Gestión de las comunicaciones personales: marketing directo e interactivo, recomendación de boca en boca y ventas personales">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Marketing directo</rdf:li>
+		  <rdf:li>Marketing interactivo</rdf:li>
+		  <rdf:li>Cómo maximizar el valor de marketing del correo electrónico</rdf:li>
+		  <rdf:li>Segmentación de usuarios de tecnología</rdf:li>
+		  <rdf:li>Publicidad de boca en boca</rdf:li>
+		  <rdf:li>Cómo iniciar una ola de rumores</rdf:li>
+		  <rdf:li>Diseño de la fuerza de ventas</rdf:li>
+		  <rdf:li>Gestión de cuentas importantes</rdf:li>
+		  <rdf:li>Gestión de la fuerza de ventas</rdf:li>
+		  <rdf:li>Principios de las ventas personales</rdf:li>
+		  <rdf:li>Resumen</rdf:li>
+		  <rdf:li>Aplicaciones</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Lanzamiento de nuevas ofertas de mercado">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Opciones de nuevos productos</rdf:li>
+		  <rdf:li>Desafíos en el desarrollo de nuevos productos</rdf:li>
+		  <rdf:li>Estrategias organizacionales</rdf:li>
+		  <rdf:li>Gestión del proceso de desarrollo: las ideas</rdf:li>
+		  <rdf:li>Diez maneras de encontrar grandes ideas para nuevos productos</rdf:li>
+		  <rdf:li>El nuevo enfoque en la innovación de PandG: conectar y desarrollar</rdf:li>
+		  <rdf:li>Siete formas de obtener nuevas ideas de los clientes</rdf:li>
+		  <rdf:li>Cómo llevar a cabo una sesión de lluvia de ideas exitosa</rdf:li>
+		  <rdf:li>Gestión del proceso de desarrollo: del concepto a la estrategia</rdf:li>
+		  <rdf:li>Gestión del proceso de desarrollo: del desarrollo a la comercialización</rdf:li>
+		  <rdf:li>El proceso de adopción de los consumidores</rdf:li>
+		  <rdf:li>Resumen</rdf:li>
+		  <rdf:li>Aplicaciones</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Acceso a los mercados globales">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>La competencia global</rdf:li>
+		  <rdf:li>Decidir si se debe tener actividad en el extranjero</rdf:li>
+		  <rdf:li>Decidir a cuáles mercados entrará</rdf:li>
+		  <rdf:li>Enfoque en los principales mercados en desarrollo</rdf:li>
+		  <rdf:li>La decisión de cómo entrar al mercado</rdf:li>
+		  <rdf:li>La decisión sobre el programa de marketing</rdf:li>
+		  <rdf:li>Los Diez mandamientos del branding global</rdf:li>
+		  <rdf:li>Efectos del país de origen</rdf:li>
+		  <rdf:li>Decisiones en torno a la organización del marketing</rdf:li>
+		  <rdf:li>Resumen</rdf:li>
+		  <rdf:li>Aplicaciones</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Gestión de una organización de marketing holístico a largo plazo">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Tendencias en las prácticas de marketing</rdf:li>
+		  <rdf:li>Marketing interno</rdf:li>
+		  <rdf:li>Características de los departamentos de la empresa que verdaderamente están orientados al cliente</rdf:li>
+		  <rdf:li>El director ejecutivo de marketing</rdf:li>
+		  <rdf:li>Marketing socialmente responsable</rdf:li>
+		  <rdf:li>El auge de los productos orgánicos</rdf:li>
+		  <rdf:li>Marcar la diferencia: 10 consejos para llevar a cabo el branding con causa</rdf:li>
+		  <rdf:li>Implementación y control del marketing</rdf:li>
+		  <rdf:li>El futuro del marketing</rdf:li>
+		  <rdf:li>Las principales debilidades del marketing</rdf:li>
+		  <rdf:li>Control del plan anual</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+</rdf:RDF> 

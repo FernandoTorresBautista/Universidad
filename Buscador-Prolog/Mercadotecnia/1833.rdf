@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Mercadotecnia/">
+
+	<rdf:Description rdf:about="MERCADOTECNIA : UNA PERSPECTIVA ESTRATÉGICA">
+	  <ct:tema>
+		<rdf:Seq>
+		  <rdf:li>El concepto de mercadotencia</rdf:li>
+		  <rdf:li>La empresa orientada a la mercadotecnia</rdf:li>
+		  <rdf:li>La labor de mercadotecnia</rdf:li>
+		  <rdf:li>Mercadotecnia y estrategia corporativa</rdf:li>
+		  <rdf:li>Desarrollo de estrategias para las unidades de negocios</rdf:li>
+		  <rdf:li>Formulación de la estrategia producto-mercado</rdf:li>
+		  <rdf:li>Estrategia de publicidad y promoción de ventas</rdf:li>
+		  <rdf:li>Estrategia de las ventas en el campo</rdf:li>
+		  <rdf:li>Desarrollo de la estrategia de distribución</rdf:li>
+		  <rdf:li>Estrategia para la fijación de precios</rdf:li>
+		  <rdf:li>¿Mercadotecnia en eclipse?</rdf:li>
+		</rdf:Seq>
+	  </ct:tema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="El concepto de mercadotencia">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Significados de la mercadotecnia</rdf:li>
+		  <rdf:li>Evolución del concepto de mercadotecnia</rdf:li>
+		  <rdf:li>El concepto de mercadotecnia y la razón de las utilidades</rdf:li>
+		  <rdf:li>La mercadotecnia y el entorno comercial contemporáneo</rdf:li>
+		  <rdf:li>Resumen y conclusiones</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="La empresa orientada a la mercadotecnia">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>La toma de desiciones en una empressa orientada a la mercadotecnia</rdf:li>
+		  <rdf:li>Lncomprensión de la orientación a la mercadotecnia</rdf:li>
+		  <rdf:li>Resumen y conclusiones</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="La labor de mercadotecnia">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Responsabilidades de la administración de la mercadotecnia</rdf:li>
+		  <rdf:li>Principios de la estrategia de mercadotecnia</rdf:li>
+		  <rdf:li>Resumen y conclusiones</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Mercadotecnia y estrategia corporativa">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Estrategia corporativa</rdf:li>
+		  <rdf:li>Cómo cambiar los criterios sobre las desiciones de inversión</rdf:li>
+		  <rdf:li>Enfoques para la fijación del rumbo estratégico con base en la cartera</rdf:li>
+		  <rdf:li>Resumen y concluciones</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Desarrollo de estrategias para las unidades de negocios">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Definición de un negocio</rdf:li>
+		  <rdf:li>Elementos de la estrategia de una unidad de negocios</rdf:li>
+		  <rdf:li>Opciones estratégicas escenciales</rdf:li>
+		  <rdf:li>Resumen y conclusiones</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Formulación de la estrategia producto-mercado">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Función de una estrategia</rdf:li>
+		  <rdf:li>Elementos de la estrategia de producto-mercado</rdf:li>
+		  <rdf:li>Resumen y conclusiones</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Estrategia de publicidad y promoción de ventas">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Concepto de la estrategia de comunicaciones</rdf:li>
+		  <rdf:li>Estrategia de publicidad</rdf:li>
+		  <rdf:li>Estrategia de promoción de ventas</rdf:li>
+		  <rdf:li>Resumen y conclusiones</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Estrategia de las ventas en el campo">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Propósito de la estrategia de ventas</rdf:li>
+		  <rdf:li>Contenido de una estrategia de ventas</rdf:li>
+		  <rdf:li>Estrategia de ventas y mercadotecnia: la adyacencia clave</rdf:li>
+		  <rdf:li>Resumen y conclusiones</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Desarrollo de la estrategia de distribución">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Principio clave para la planeación de la distribución</rdf:li>
+		  <rdf:li>Desarrollo de los objetivos de distribución</rdf:li>
+		  <rdf:li>Elementos de la estrategia de distribución</rdf:li>
+		  <rdf:li>Resumen y conclusiones</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Estrategia para la fijación de precios">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Fijación estrategica de precios: un enfoque sistemático</rdf:li>
+		  <rdf:li>La fijación de precios y la estrategia de producto-mercado</rdf:li>
+		  <rdf:li>Estrategia y tácticas</rdf:li>
+		  <rdf:li>Resumen y conclusiones</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="¿Mercadotecnia en eclipse?">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Efectos de la planeación estratégica</rdf:li>
+		  <rdf:li>Clientes y terceros</rdf:li>
+		  <rdf:li>Clientes y competidores</rdf:li>
+		  <rdf:li>La mercadotecnia apoyada por la computadora</rdf:li>
+		  <rdf:li>Escasez de recursos</rdf:li>
+		  <rdf:li>Resumen y conclusiones</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+</rdf:RDF> 

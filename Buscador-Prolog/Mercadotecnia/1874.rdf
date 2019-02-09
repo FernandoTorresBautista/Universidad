@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Mercadotecnia/">
+
+	<rdf:Description rdf:about="INTRODUCCION A LA INVESTIGACION DE MERCADOS">
+	  <ct:tema>
+		<rdf:Seq>
+		  <rdf:li>Generalidades</rdf:li>
+		  <rdf:li>Metodología de la investigación</rdf:li>
+		  <rdf:li>Métodos cuantitativos de recolección de datos</rdf:li>
+		  <rdf:li>Métodos cualitativos de recolección de datos</rdf:li>
+		  <rdf:li>Métodos mixtos de recolección de datos</rdf:li>
+		  <rdf:li>Técnicas específicas de investigación de mercados</rdf:li>
+		  <rdf:li>Apéndice</rdf:li>
+		  <rdf:li>Bibliografía</rdf:li>
+		  <rdf:li>Índice analitico</rdf:li>
+		</rdf:Seq>
+	  </ct:tema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Generalidades">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Introducción</rdf:li>
+		  <rdf:li>Investigación de mercado</rdf:li>
+		  <rdf:li>El proceso de toma de desiciones</rdf:li>
+		  <rdf:li>La importancia de la investigación de mercados</rdf:li>
+		  <rdf:li>Contribución de la investigación de mercados a la mercadotecnía</rdf:li>
+		  <rdf:li>Necesidad de información en la empresa</rdf:li>
+		  <rdf:li>Tipos de estudios de mercado que tienen mayor aplicación</rdf:li>
+		  <rdf:li>El sistema de información de la mercadotecnía</rdf:li>
+		  <rdf:li>Desición de realizar una investigación de mercados</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Metodología de la investigación">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Introducción</rdf:li>
+		  <rdf:li>Planeación de la investigación</rdf:li>
+		  <rdf:li>Investigación preeliminar</rdf:li>
+		  <rdf:li>Ejemplo de proyecto de investigación de mercados</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Métodos cuantitativos de recolección de datos">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Introducción</rdf:li>
+		  <rdf:li>Determionación de la muestra</rdf:li>
+		  <rdf:li>Métodos de muestreo</rdf:li>
+		  <rdf:li>Procedimientos para la elaboración de cuestionarios</rdf:li>
+		  <rdf:li>Trabajo de campo</rdf:li>
+		  <rdf:li>Organización y control del trabajo de campo</rdf:li>
+		  <rdf:li>Análisis y decodificación</rdf:li>
+		  <rdf:li>Tabulación</rdf:li>
+		  <rdf:li>Informe</rdf:li>
+		  <rdf:li>Presentación personal de los resultados de la investigación</rdf:li>
+		  <rdf:li>Caso 1: Compañia LavoJab</rdf:li>
+		  <rdf:li>Caso 2: Auditoria de tiendas</rdf:li>
+		  <rdf:li>Caso 3: Muebles modulares</rdf:li>
+		  <rdf:li>Caso 4: Condominios ilusión</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Métodos cualitativos de recolección de datos">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Introducción</rdf:li>
+		  <rdf:li>Sesiones de grupo</rdf:li>
+		  <rdf:li>Observación directa</rdf:li>
+		  <rdf:li>Simulación</rdf:li>
+		  <rdf:li>Determinación de la muestra</rdf:li>
+		  <rdf:li>Método de análisis</rdf:li>
+		  <rdf:li>Caso: Harinas, S.A.</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Métodos mixtos de recolección de datos">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Consideraciones</rdf:li>
+		  <rdf:li>Diferencial semántico</rdf:li>
+		  <rdf:li>Problemas de consumo o barómetro del consumidor</rdf:li>
+		  <rdf:li>Caso: Diagnóstico interno de una empresa</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Técnicas específicas de investigación de mercados">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Investigación publicitaria</rdf:li>
+		  <rdf:li>Pruebas organolépticas</rdf:li>
+		  <rdf:li>Técnica Q</rdf:li>
+		  <rdf:li>Mapas perceptuales</rdf:li>
+		  <rdf:li>Caso: Salas picantes indrustriales</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Apéndice">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Diferentes anuarios y estadísticos</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+</rdf:RDF> 

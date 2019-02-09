@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Mercadotecnia/">
+
+	<rdf:Description rdf:about="CASE PROBLEMS IN BUSINESS LOGISTICS">
+	  <ct:tema>
+		<rdf:Seq>
+		  <rdf:li>INTRODUCTION</rdf:li>
+		  <rdf:li>TRNSPORTATION</rdf:li>
+		  <rdf:li>INVENTORY MODELS</rdf:li>
+		  <rdf:li>LOCATION MODELS</rdf:li>
+		  <rdf:li>COMPREHENSIVE SYSTEM DESING</rdf:li>
+		  <rdf:li>MANAGEMENT OF LOGISTICS SYSTEM</rdf:li>
+		  <rdf:li>INTERORGANIZATIONAL PROBLEMS</rdf:li>
+		</rdf:Seq>
+	  </ct:tema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="INTRODUCTION">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Roscoe Corporation</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="TRNSPORTATION">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Maxwell Packing Company</rdf:li>
+		  <rdf:li>Aeolus Airlines</rdf:li>
+		  <rdf:li>Mossouri Pacific Railroad</rdf:li>
+		  <rdf:li>Portland Fish Company</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="INVENTORY MODELS">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Prudence Markets Company</rdf:li>
+		  <rdf:li>Baxter Paper Products, Inc.</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="LOCATION MODELS">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Standart Electric Conpany</rdf:li>
+		  <rdf:li>Bay Area Bakery Company</rdf:li>
+		  <rdf:li>National Sanitation Corporation</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="COMPREHENSIVE SYSTEM DESING">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>The Best Oil Company</rdf:li>
+		  <rdf:li>Distrigas Corporation</rdf:li>
+		  <rdf:li>International Harvester Corporation</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="MANAGEMENT OF LOGISTICS SYSTEM">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>East River Pulp and Paper Corporation (A)</rdf:li>
+		  <rdf:li>Midway Foods Corporation</rdf:li>
+		  <rdf:li>Landcraf Metals Company</rdf:li>
+		  <rdf:li>East River Pulp and Paper Corporation (B)</rdf:li>
+		  <rdf:li>Davidson Manufacturing Company</rdf:li>
+		  <rdf:li>Continental Cheminal Corporation</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="INTERORGANIZATIONAL PROBLEMS">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Apex Trucking Company</rdf:li>
+		  <rdf:li>Constellation Supers, Inc.</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+</rdf:RDF> 

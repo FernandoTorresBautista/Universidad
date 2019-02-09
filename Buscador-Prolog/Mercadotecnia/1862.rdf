@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Mercadotecnia/">
+
+	<rdf:Description rdf:about="PLAN DE MERCADOTECNIA">
+		<ct:tema>
+			<rdf:Seq>
+				<rdf:li>PLANEACIÓN DEL DESARROLLO DE UN PLAN DE MERCADOTECNIA </rdf:li>
+				<rdf:li>EVALÚE EL AMBIENTE</rdf:li>
+				<rdf:li>ESTABLEZCA METAS Y OBJETIVOS </rdf:li>
+			</rdf:Seq>
+		</ct:tema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="PLANEACIÓN DEL DESARROLLO DE UN PLAN DE MERCADOTECNIA ">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li>La estructura del plan de mercadotecnia</rdf:li>
+				<rdf:li>El resumen ejecutivo</rdf:li>
+				<rdf:li>La tabla de contenido</rdf:li>
+				<rdf:li>Introducción</rdf:li>
+				<rdf:li>Análisis situacional</rdf:li>
+				<rdf:li>Mercado objetivo</rdf:li>
+				<rdf:li>Problernas y oportunidades</rdf:li>
+				<rdf:li>Metas y objetivos de la mercadotecnia</rdf:li>
+				<rdf:li>Estrategia de mercadotecnia</rdf:li>
+				<rdf:li>Tácticas de la mercadotecnia</rdf:li>
+				<rdf:li>Implementación y control</rdf:li>
+				<rdf:li>Mantenga organizado su material</rdf:li>
+				<rdf:li>Resumen</rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+	<rdf:Description rdf:about="EVALÚE EL AMBIENTE">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li>La introducción</rdf:li>
+				<rdf:li>El análisis situacional</rdf:li>
+				<rdf:li>Mercado objetivo </rdf:li>
+				<rdf:li>Uso de los medios de comunicación</rdf:li>
+				<rdf:li>Compradores organizacionales</rdf:li>
+				<rdf:li>Competencia</rdf:li>
+				<rdf:li>Recursos de la empresa</rdf:li>
+				<rdf:li>Ambiente tecnológico</rdf:li>
+				<rdf:li>Ambiente económico</rdf:li>
+				<rdf:li>Ambiente político</rdf:li>
+				<rdf:li>Ambiente legal y regulatorio</rdf:li>
+				<rdf:li>Ambiente social y cultural</rdf:li>
+				<rdf:li>Otros aspectos ambientales importantes</rdf:li>
+				<rdf:li>Problemas y oportunidades</rdf:li>
+				<rdf:li>Fuentes de información para llenar el formato de preguntas ambientales</rdf:li>
+				<rdf:li>Investigación primaria</rdf:li>
+				<rdf:li>Resumen</rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+	<rdf:Description rdf:about="ESTABLEZCA METAS Y OBJETIVOS ">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li>Establecimiento de objetivos</rdf:li>
+				<rdf:li>Metas</rdf:li>
+				<rdf:li>El concepto de ventaja competititiva o diferenciable</rdf:li>
+				<rdf:li>Resumen</rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>

@@ -1,0 +1,263 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Mercadotecnia/">
+
+	<rdf:Description rdf:about="COMO PREPARAR UN PLAN DE MARKETING">
+		<ct:tema>
+			<rdf:Seq>
+				<rdf:li>Introducción </rdf:li>
+				<rdf:li>Determinación de los objetivos </rdf:li>
+				<rdf:li>Elaboración de la previsión de ventas </rdf:li>
+				<rdf:li>Evaluación del perfil de los competidores </rdf:li>
+				<rdf:li>Análisis de las cuotas de mercado </rdf:li>
+				<rdf:li>Introducción de productos nuevos </rdf:li>
+				<rdf:li>Gestión de los precios </rdf:li>
+				<rdf:li>Control de la distribución </rdf:li>
+				<rdf:li>Establecimiento del servicio al cliente </rdf:li>
+				<rdf:li>Plan de publicidad </rdf:li>
+				<rdf:li>Evaluación de los medios de comunicación </rdf:li>
+				<rdf:li>Despliegue de las relaciones públicas </rdf:li>
+				<rdf:li>Supervisión del márketing de incentivos</rdf:li>
+				<rdf:li>Utilización del envasado</rdf:li>
+				<rdf:li>Gestión de marcas</rdf:li>
+				<rdf:li>Disposición del presupuesto </rdf:li>
+				<rdf:li>Previsión de contingencias </rdf:li>
+				<rdf:li>Gestión del control </rdf:li>
+				<rdf:li>Organización del personal </rdf:li>
+				<rdf:li>Realización de los planes </rdf:li>
+				<rdf:li>Apéndice. Utilización de métodos estadísticos </rdf:li>
+			</rdf:Seq>
+		</ct:tema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Introducción ">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li></rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Determinación de los objetivos ">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li>Bases de un plan operativo de márketing</rdf:li>
+				<rdf:li>Objetivos económicos</rdf:li>
+				<rdf:li>Anexo a los objetivos económicos</rdf:li>
+				<rdf:li>Plan de recepción de pedidos</rdf:li>
+				<rdf:li>Hipótesis, problemas, oportunidades, estrategias </rdf:li>
+				<rdf:li>Análisis de las mejoras del beneficio</rdf:li>
+				<rdf:li>Cambios planificados y su influencia en los beneficios</rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+	<rdf:Description rdf:about="Elaboración de la previsión de ventas ">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li>Análisis de las ventas y los márgenes brutos por productos y segmentos de mercado</rdf:li>
+				<rdf:li>Previsión anual de las ventas y los márgenes brutos</rdf:li>
+				<rdf:li>Barómetro de las ventas</rdf:li>
+				<rdf:li>Necesidad/desarrollo de productos nuevos</rdf:li>
+				<rdf:li>Elasticidad de la demanda</rdf:li>
+				<rdf:li>Indicadores económicos</rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+	<rdf:Description rdf:about="Evaluación del perfil de los competidores ">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li>Resultados económicos</rdf:li>
+				<rdf:li>Comparación de estándares </rdf:li>
+				<rdf:li>Actividades ponderadas y resultados</rdf:li>
+				<rdf:li>Esquema precio/cuota de mercado</rdf:li>
+				<rdf:li>Distribución geográfica de las ventas</rdf:li>
+				<rdf:li>Penetración de los establecimientos de venta</rdf:li>
+				<rdf:li>Tamaño de los establecimientos de venta</rdf:li>
+				<rdf:li>Cuadro de precios competitivos</rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+	<rdf:Description rdf:about="Análisis de las cuotas de mercado ">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li>Análisis de las cuotas de mercado por grupos de productos</rdf:li>
+				<rdf:li>Características de los compradores</rdf:li>
+				<rdf:li>Ratios incremento de las ventas/efectivos de venta</rdf:li>
+				<rdf:li>Análisis de las cuotas de mercado por sectores de actividad</rdf:li>
+				<rdf:li>La decisión de comprar</rdf:li>
+				<rdf:li>Análisis de las cuotas de mercado por tarnaño de los estable-cimientos de venta, en valor</rdf:li>
+				<rdf:li>Análisis de las cuotas de mercado por tamaño de los estable-cimientos de venta, en cantidad</rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+	<rdf:Description rdf:about="Introducción de productos nuevos ">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li>Maximización del ciclo de vida del producto</rdf:li>
+				<rdf:li>Gráfica de los costes producidos por el abandono de un producto en fase de desarrollo</rdf:li>
+				<rdf:li>Evolución del éxito de los productos nuevos</rdf:li>
+				<rdf:li>Lanzamiento de productos nuevos</rdf:li>
+				<rdf:li>Inversión en productos nuevos</rdf:li>
+				<rdf:li>Composición de la gama de productos</rdf:li>
+				<rdf:li>Decisiones de compra </rdf:li>
+				<rdf:li>Comprender al usuario/consumidor</rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+	<rdf:Description rdf:about="Gestión de los precios ">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li>Elasticidad de la demanda con respecto al precio</rdf:li>
+				<rdf:li>Variaciones de la cantidad vendida y de los ingresos al bajar el precio </rdf:li>
+				<rdf:li>Relaciones entre reducciones de precio, aumento de ventas y costes variables </rdf:li>
+				<rdf:li>Maximización del beneficio</rdf:li>
+				<rdf:li>Fijación de precios en contratos</rdf:li>
+				<rdf:li>Fijación estratégica de precios </rdf:li>
+				<rdf:li>Promociones de precios</rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+	<rdf:Description rdf:about="Control de la distribución ">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li>Costes de la distribución física </rdf:li>
+				<rdf:li>Comparación de los costes de distribución</rdf:li>
+				<rdf:li>Servicios y gastos de distribución </rdf:li>
+				<rdf:li>Tarjeta de registro de existencias</rdf:li>
+				<rdf:li>Sucursal: gastos fijos y variables</rdf:li>
+				<rdf:li>Perfil de país extranjero </rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+	<rdf:Description rdf:about="Establecimiento del servicio al cliente ">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li>Registro de control del crédito </rdf:li>
+				<rdf:li>Cálculo de descuentos comerciales </rdf:li>
+				<rdf:li>Ventajas de la venta por teléfono </rdf:li>
+				<rdf:li>Márketing bajo concesión</rdf:li>
+				<rdf:li>Análisis del valor actual</rdf:li>
+				<rdf:li>Perfil del cliente consumidor </rdf:li>
+				<rdf:li>Perfil del cliente industrial </rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+	<rdf:Description rdf:about="Plan de publicidad ">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li>Análisis de los medios de comunicación</rdf:li>
+				<rdf:li>Objetivos/temas publicitarios </rdf:li>
+				<rdf:li>Elaboración de los textos publicitarios</rdf:li>
+				<rdf:li>Análisis de dotaciones </rdf:li>
+				<rdf:li>Publicidad/respuestas comerciales/semanas/plan de asignación de los recursos</rdf:li>
+				<rdf:li>Despliegue publicitario</rdf:li>
+				<rdf:li>Registro de la producción en curso/control de la publicidad en prensas</rdf:li>
+				<rdf:li>Registros de espacios </rdf:li>
+				<rdf:li>Porcentaje de población que ve un anuncio varias veces/registro de espacios </rdf:li>
+				<rdf:li>Planificación del gasto de publicidad</rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+	<rdf:Description rdf:about="Evaluación de los medios de comunicación ">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li>Elaboración del plan de medios</rdf:li>
+				<rdf:li>Fases del plan de medios </rdf:li>
+				<rdf:li>Estrategia y tácticas publicitarias</rdf:li>
+				<rdf:li>Guía del planificador de </rdf:li>
+				<rdf:li>Evaluación de los medios</rdf:li>
+				<rdf:li>Análisis cuantitativo</rdf:li>
+				<rdf:li>Pautas de audiencia tele',isiva de las amas de casa</rdf:li>
+				<rdf:li>Bases de comparación </rdf:li>
+				<rdf:li>Objetivos de los medios </rdf:li>
+				<rdf:li>Datos de control de la planificación de la campaña</rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+	<rdf:Description rdf:about="Despliegue de las relaciones públicas ">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li>Objetivos de las relaciones públicas </rdf:li>
+				<rdf:li>Control presupuestario de las relaciones públicas</rdf:li>
+				<rdf:li>Motivos e impresiones generadas en una empresa</rdf:li>
+				<rdf:li>Público destinatario de una campaña de relaciones públicas sobre automóviles </rdf:li>
+				<rdf:li>La red de comunicaciones</rdf:li>
+				<rdf:li>Los medios de comunicación en las relaciones públicas el papel esencial de los medios de comunicación </rdf:li>
+				<rdf:li>Normas para la elaboración de informaciones destinadas a los medios</rdf:li>
+				<rdf:li>Selección de las comunicaciones</rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+	<rdf:Description rdf:about="Supervisión del márketing de incentivos">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li>bjetivos de promoción de ventas</rdf:li>
+				<rdf:li>Tipos de promoción de ventas</rdf:li>
+				<rdf:li>Matriz de promoción de ventas </rdf:li>
+				<rdf:li>Lista de verificación para el desarrollo de promociones de márketing de incentivos </rdf:li>
+				<rdf:li>Conflicto de objetivos entre fabricante y minorista </rdf:li>
+				<rdf:li>Selección del tipo de regalo</rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+	<rdf:Description rdf:about="Utilización del envasado">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li>El envasado en el márketing estratégico</rdf:li>
+				<rdf:li>El envasado como instrumento de márketing</rdf:li>
+				<rdf:li>El envasado como canal de comunicación de márketing</rdf:li>
+				<rdf:li>El envasado y las normas</rdf:li>
+				<rdf:li>Lista de verificación del envasado-l</rdf:li>
+				<rdf:li>Lista de verificación del envasado-2</rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+	<rdf:Description rdf:about="Gestión de marcas">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li></rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Disposición del presupuesto ">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li></rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Previsión de contingencias ">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li></rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Gestión del control ">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li></rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Organización del personal ">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li></rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Realización de los planes ">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li></rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Apéndice. Utilización de métodos estadísticos ">

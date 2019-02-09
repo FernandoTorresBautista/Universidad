@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Mercadotecnia/">
+
+	<rdf:Description rdf:about="MERCADOTECNIA CON SALSA">
+		<ct:tema>
+			<rdf:Seq>
+				<rdf:li>¿Por qué en México la Mercadotecnia es diferente?</rdf:li>
+				<rdf:li>Mercadotecnia en la práctica</rdf:li>
+				<rdf:li>< </rdf:li>
+				<rdf:li>Mercadotecnia para una cocina económica  </rdf:li>
+				<rdf:li>Mercadotecnia para un Contador </rdf:li>
+				<rdf:li>Mercadotecnia para un plomero </rdf:li>
+				<rdf:li>Mercadotecnia para un vendedor de tamales </rdf:li>
+				<rdf:li>Mercadotecnia para un Antro o bar </rdf:li>
+				<rdf:li>Mercadotecnia para una tienda de regalos </rdf:li>
+				<rdf:li>Mercadotecnia para un club deportivo o Gimnasio </rdf:li>
+				<rdf:li>Mercadotecnia para un abogado </rdf:li>
+				<rdf:li>></rdf:li>
+			</rdf:Seq>
+		</ct:tema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="¿Por qué en México la Mercadotecnia es diferente?">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li>¿Conviene la conveniencia? </rdf:li>
+				<rdf:li>La calidad ya no vende</rdf:li>
+				<rdf:li>¿Por qué la mitad de los automóviles del DF tienen una calcomanía de Radio fórmula? </rdf:li>
+				<rdf:li>El sexo no vende </rdf:li>
+				<rdf:li>Hay más de 4 estaciones </rdf:li>
+				<rdf:li>Black Friday a la mexicana </rdf:li>
+				<rdf:li>Clientes mentirosos </rdf:li>
+				<rdf:li>¿Por qué segmentamos mal?</rdf:li>
+				<rdf:li>Los 5 errores más comunes sobre los descuentos </rdf:li>
+				<rdf:li>Nuestro efecto de impronta </rdf:li>
+				<rdf:li>Nuevas técnicas de Mercadotecnia Viral </rdf:li>
+				<rdf:li>Todas... absolutamente todas las decisiones de compra son emocionales</rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+	<rdf:Description rdf:about="Mercadotecnia en la práctica">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li></rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="< ">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li></rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Mercadotecnia para una cocina económica  ">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li></rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Mercadotecnia para un Contador ">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li></rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Mercadotecnia para un plomero ">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li></rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Mercadotecnia para un vendedor de tamales ">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li></rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Mercadotecnia para un Antro o bar ">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li></rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Mercadotecnia para una tienda de regalos ">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li></rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Mercadotecnia para un club deportivo o Gimnasio ">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li></rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Mercadotecnia para un abogado ">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li></rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about=">">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li></rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+

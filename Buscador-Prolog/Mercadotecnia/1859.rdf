@@ -1,0 +1,148 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Mercadotecnia/">
+
+	<rdf:Description rdf:about="MANUAL PARA ELABORAR UN PLAN DE MERCADOTECNIA : UN">
+		<ct:tema>
+			<rdf:Seq>
+				<rdf:li>PLANEACIÓN DE MERCADOTECNIA</rdf:li>
+				<rdf:li>MISIÓN, VISIÓN, PROPÓSITO FILOSOFíA EMPRESARIAL</rdf:li>
+				<rdf:li>EVALUACIÓN DEL NEGOCIO. SEGMENTACIÓN Y MERCADO META</rdf:li>
+				<rdf:li>EVALUACIÓN DEL NEGOCIO, ANÁLISIS DE VENTAS Y PARTICIPACIÓN</rdf:li>
+				<rdf:li>EVALUACIÓN DEL NEGOCIO, PRODUCTO Y PROMOCIÓN</rdf:li>
+				<rdf:li>EVALUACIÓN DEL NEGOCIO. DISTRIBUCIÓN Y PRECIO</rdf:li>
+				<rdf:li>ESCENARIO PREVISTO</rdf:li>
+				<rdf:li>OPORTUNIDADES Y AMENAZAS DE MERCADO. ANÁLISIS SWOT</rdf:li>
+			</rdf:Seq>
+		</ct:tema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="PLANEACIÓN DE MERCADOTECNIA">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li>Objetivos del capítulo</rdf:li>
+				<rdf:li>Planeación</rdf:li>
+				<rdf:li>Planeación estratégica </rdf:li>
+				<rdf:li>Unidad estratégica de negocios </rdf:li>
+				<rdf:li>Plan de mercadotecnia </rdf:li>
+				<rdf:li>Herramientas para la elaboración del plan de mercadotecnia </rdf:li>
+				<rdf:li>Proceso para realizar un plan de mercadotecnia . </rdf:li>
+				<rdf:li>Preguntas de reflexión</rdf:li>
+				<rdf:li>Lectura adicional "Alinearse o morir" </rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+	<rdf:Description rdf:about="MISIÓN, VISIÓN, PROPÓSITO FILOSOFíA EMPRESARIAL">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li>Objetivos del capítulo</rdf:li>
+				<rdf:li>Actividades para el plan de mercadotecnia </rdf:li>
+				<rdf:li>Clasificación de las organizaciones</rdf:li>
+				<rdf:li>Clasificación por área de acción</rdf:li>
+				<rdf:li>Clasificación por sector productivo</rdf:li>
+				<rdf:li>Clasificación por tamaño</rdf:li>
+				<rdf:li>La organización inteligente</rdf:li>
+				<rdf:li>Misión, visión, propósito y filosofía de las organizaciones</rdf:li>
+				<rdf:li>Ejemplo de misión</rdf:li>
+				<rdf:li>Ejemplo de visión</rdf:li>
+				<rdf:li>Ejemplo de filosofía</rdf:li>
+				<rdf:li>Preguntas de reflexión</rdf:li>
+				<rdf:li>Lectura adicional "Evite los bomberazos" </rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+	<rdf:Description rdf:about="EVALUACIÓN DEL NEGOCIO. SEGMENTACIÓN Y MERCADO META">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li>Objetivos del capítulo</rdf:li>
+				<rdf:li>Actividades para el plan de mercadotecnia</rdf:li>
+				<rdf:li>Evaluación del negocio</rdf:li>
+				<rdf:li>Determinación del mercado meta</rdf:li>
+				<rdf:li>Segmentación de mercados </rdf:li>
+				<rdf:li>Variables de segmentación</rdf:li>
+				<rdf:li>Características de un segmento de mercado</rdf:li>
+				<rdf:li>Preguntas de reflexión</rdf:li>
+				<rdf:li>Lectura adicional "Realidades en la red"</rdf:li>
+				<rdf:li>Caso práctico 1. "Bajo el sello de las grandes firmas"</rdf:li>
+				<rdf:li>ejercicio de segmentación de mercados</rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+	<rdf:Description rdf:about="EVALUACIÓN DEL NEGOCIO, ANÁLISIS DE VENTAS Y PARTICIPACIÓN">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li>Objetivos del capítulo</rdf:li>
+				<rdf:li>Actividades para el plan de mercadotecnia</rdf:li>
+				<rdf:li>Análisis de ventas</rdf:li>
+				<rdf:li>Estimación de la demanda actual</rdf:li>
+				<rdf:li>Cálculo de la demanda de la empresa</rdf:li>
+				<rdf:li>Cálculo del potencial del mercado</rdf:li>
+				<rdf:li>Preguntas de reflexión</rdf:li>
+				<rdf:li>Lectura adicional "Seduzca a sus clientes"</rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+	<rdf:Description rdf:about="EVALUACIÓN DEL NEGOCIO, PRODUCTO Y PROMOCIÓN">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li>Objetivos del capítulo </rdf:li>
+				<rdf:li>Actividades para el plan de mercadotecnia </rdf:li>
+				<rdf:li>El producto</rdf:li>
+				<rdf:li>Concepto de producto</rdf:li>
+				<rdf:li>Clasificación de los productos de consumo</rdf:li>
+				<rdf:li>Ciclo de vida del producto</rdf:li>
+				<rdf:li>Ciclo de vida e indicadores económicos</rdf:li>
+				<rdf:li>Línea de productos</rdf:li>
+				<rdf:li>La promoción</rdf:li>
+				<rdf:li>La mezcla de promoción</rdf:li>
+				<rdf:li>Terminología básica de medios</rdf:li>
+				<rdf:li>Plan de medios</rdf:li>
+				<rdf:li>¿Cómo se desarrolla una campaña?</rdf:li>
+				<rdf:li>Espiral publicitario</rdf:li>
+				<rdf:li>Preguntas de reflexión</rdf:li>
+				<rdf:li>Lectura adicional "Marketing vital"</rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+	<rdf:Description rdf:about="EVALUACIÓN DEL NEGOCIO. DISTRIBUCIÓN Y PRECIO">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li>Objetivos del capítulo</rdf:li>
+				<rdf:li>Actividades para el plan de mercadotecnia</rdf:li>
+				<rdf:li>Distribución</rdf:li>
+				<rdf:li>Tipos de distribución</rdf:li>
+				<rdf:li>Canales de distribución</rdf:li>
+				<rdf:li>Preventa</rdf:li>
+				<rdf:li>Esquema logístico de la distribución</rdf:li>
+				<rdf:li>Precio</rdf:li>
+				<rdf:li>Proceso de distribución</rdf:li>
+				<rdf:li>Preguntas de reflexión</rdf:li>
+				<rdf:li>Lectura adicional "Los canales de la belleza"</rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+	<rdf:Description rdf:about="ESCENARIO PREVISTO">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li>Objetivos del capítulo</rdf:li>
+				<rdf:li>Actividades para el plan de mercadotecnia</rdf:li>
+				<rdf:li>Análisis del ambiente externo de mercadotecnia</rdf:li>
+				<rdf:li>Supuestos de mercado</rdf:li>
+				<rdf:li>Preguntas de reflexión</rdf:li>
+				<rdf:li>Lectura adicional "El error del milenio"</rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+	<rdf:Description rdf:about="OPORTUNIDADES Y AMENAZAS DE MERCADO. ANÁLISIS SWOT">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li>Objetivos del capítulo</rdf:li>
+				<rdf:li>Actividades para el plan de mercadotecnia</rdf:li>
+				<rdf:li>Oportunidad de mercado</rdf:li>
+				<rdf:li>Amenaza de mercado</rdf:li>
+				<rdf:li>Diferencias entre las oportunidades y las amenazas de mercado</rdf:li>
+				<rdf:li>{Cómo se resuelven problemas?</rdf:li>
+				<rdf:li>Análisis comparativo (SWOT)</rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>

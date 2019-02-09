@@ -1,0 +1,244 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Mercadotecnia/">
+
+	<rdf:Description rdf:about="EL PRINCIPIO DE LA TELA DE ARANA EN EL NUEVO MARKETING">
+	  <ct:tema>
+		<rdf:Seq>
+		  <rdf:li>ESTABLECER LOS NEGOCIOS LOCALES</rdf:li>
+		  <rdf:li>AGENDA PARA EL MARKETING LOCAL</rdf:li>
+		  <rdf:li>ENFOCARSE EN LAS NECESIDADES DE LAS AGENCIAS LOCALES</rdf:li>
+		  <rdf:li>EVALUAR LAS OPORTUNIDADES DEL MERCADO</rdf:li>
+		  <rdf:li>DESARROLLAR UN PLAN LOCAL DE MARKETING LOCAL</rdf:li>
+		  <rdf:li>EVALLUAR LAS NECESIDADES DE APOYO</rdf:li>
+		  <rdf:li>PREPARAR PROGRAMAS DE MARKETING A LA MEDIDA</rdf:li>
+		  <rdf:li>CONSEGUIR ESTÁNDARES CONSISTENTES</rdf:li>
+		  <rdf:li>ENFOCARSE EN LA ATENCIÓN AL CLIENTE</rdf:li>
+		  <rdf:li>MEJORAR EL RENDIMIENTO DE LAS VENTAS</rdf:li>
+		  <rdf:li>DESARROLLAR UNA ESTRATEGOA DE CONTACTO</rdf:li>
+		  <rdf:li>TRABAJAR EN ASOCIACIÓN</rdf:li>
+		  <rdf:li>CONTROLAR LOS PROGRAMAS DE APOYO LOCAL</rdf:li>
+		</rdf:Seq>
+	  </ct:tema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="ESTABLECER LOS NEGOCIOS LOCALES">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>La importancia de las agencias locales, 21.</rdf:li>
+		  <rdf:li>Tratar a los distribuidores locales como negocios independientes, 26.</rdf:li>
+		  <rdf:li>Debilidades del enfoque "negocio independiente", 29.</rdf:li>
+		  <rdf:li>Oportunidades y problemas con las redes de sucursales locales, 32.</rdf:li>
+		  <rdf:li>Oportunidades y problemas en un entorno de franquicia múltiple, 40.</rdf:li>
+		  <rdf:li>Factores de éxito en el marketing local, 44.</rdf:li>
+		  <rdf:li>La contribución de la política nacional de apoyo, 47.</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="AGENDA PARA EL MARKETING LOCAL">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Importancia de los mercados locales, 56.</rdf:li>
+		  <rdf:li>Alcance de sus planes en la red, 57.</rdf:li>
+		  <rdf:li>Estado actual de su red, 58.</rdf:li>
+		  <rdf:li>Razones para la acción, 59.</rdf:li>
+		  <rdf:li>MAnejar la actuación, 61.</rdf:li>
+		  <rdf:li>Necesidades operativas, 62.</rdf:li>
+		  <rdf:li>Actividad de la competencia, 62.</rdf:li>
+		  <rdf:li>Apyo actual, 63.</rdf:li>
+		  <rdf:li>Necesidades adicionales de apoyo, 64.</rdf:li>
+		  <rdf:li>Recursos, 65.</rdf:li>
+		  <rdf:li>Prioridades de apoyo, 66.</rdf:li>
+		  <rdf:li>Calendario, 66.</rdf:li>
+		  <rdf:li>Percepciones planificadas, 67</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="ENFOCARSE EN LAS NECESIDADES DE LAS AGENCIAS LOCALES">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Los productos proporcionan una amplia cobertura de mercado, 74.</rdf:li>
+		  <rdf:li>Productos de venta fácil, 75.</rdf:li>
+		  <rdf:li>Información amplia sobre el producto, 77.</rdf:li>
+		  <rdf:li>Dirección clara de la compañia, 78.</rdf:li>
+		  <rdf:li>Información sobre los desarrollos de la compañia, 80.</rdf:li>
+		  <rdf:li>Contacto regular, 82.</rdf:li>
+		  <rdf:li>Apoyo técnico, 84.</rdf:li>
+		  <rdf:li>Formación y desarrollo, 85.</rdf:li>
+		  <rdf:li>Apoyo efectivo al marketing nacional, 86.</rdf:li>
+		  <rdf:li>Entrada local a los programas de marketing, 88.</rdf:li>
+		  <rdf:li>Programas de establecimiento del tráfico comercial, 89.</rdf:li>
+		  <rdf:li>Programas de lealtad, 91.</rdf:li>
+		  <rdf:li>Administración sencilla de los programas, 91.</rdf:li>
+		  <rdf:li>Presentación al equipo directivo local, 92.</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="EVALUAR LAS OPORTUNIDADES DEL MERCADO">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Investigación nacional, 99.</rdf:li>
+		  <rdf:li>Investigación local, 101.</rdf:li>
+		  <rdf:li>Factores de riesgo, 102.</rdf:li>
+		  <rdf:li>Evaluar el perfil del distribuidor, 103.</rdf:li>
+		  <rdf:li>Grupos de enfoque locales, 103.</rdf:li>
+		  <rdf:li>Diferenciadores clave, 104.</rdf:li>
+		  <rdf:li>Desarrollar un paquete de apoyo, 105.</rdf:li>
+		  <rdf:li>Test de mercado, 105.</rdf:li>
+		  <rdf:li>Evaluar el impacto promocional, 107.</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="DESARROLLAR UN PLAN LOCAL DE MARKETING LOCAL">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Objetivos generales, 112.</rdf:li>
+		  <rdf:li>Análisis SOWT, 113.</rdf:li>
+		  <rdf:li>Analizar los segmentos de mercado clave, 113.</rdf:li>
+		  <rdf:li>Actividades de la competencia, 114.</rdf:li>
+		  <rdf:li>Actividades de segmento de mercado, 115.</rdf:li>
+		  <rdf:li>Estándares enfocados en el cliente, 116.</rdf:li>
+		  <rdf:li>Objetivos de satisfacción del cliente, 117.</rdf:li>
+		  <rdf:li>Desarrollo de la experiencia, 118.Acciones del equipo de ventas, 199.</rdf:li>
+		  <rdf:li>Generar consultas, 120.</rdf:li>
+		  <rdf:li>Incentivos al cliente, 120.</rdf:li>
+		  <rdf:li>Acciones para la lealtad del cliente, 121.</rdf:li>
+		  <rdf:li>Publicidad, 122.</rdf:li>
+		  <rdf:li>Correo directo, 123.</rdf:li>
+		  <rdf:li>Campañas especiales, 124.</rdf:li>
+		  <rdf:li>Promociones conjuntas, 124.</rdf:li>
+		  <rdf:li>Actividades de mayorista, 125.</rdf:li>
+		  <rdf:li>Programas de incentivos de ventas, 125.</rdf:li>
+		  <rdf:li>Usar nuevas tecnologías, 126.</rdf:li>
+		  <rdf:li>posición percibida, 127.</rdf:li>
+		  <rdf:li>Proceso de revisión, 127.</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="EVALLUAR LAS NECESIDADES DE APOYO">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Establecer los objetivos generales, 133.</rdf:li>
+		  <rdf:li>Evaluar fortalezas y debilidades, 134.</rdf:li>
+		  <rdf:li>Ocuparse de la actividad de la competencia, 135.</rdf:li>
+		  <rdf:li>Apoyar las actividades del segmento de mercado, 135.</rdf:li>
+		  <rdf:li>Asegurar el enfoque en el cliente, 136.</rdf:li>
+		  <rdf:li>Mejorar la satisfacción del cliente, 137.</rdf:li>
+		  <rdf:li>Desarrollar la experiencia, 138.</rdf:li>
+		  <rdf:li>Mejorar la actuación del equipo de ventas, 139.</rdf:li>
+		  <rdf:li>Generar consultas, 139.</rdf:li>
+		  <rdf:li>Ofrecer incentivos al cliente, 140.</rdf:li>
+		  <rdf:li>Mejorar la lealtad del cliente, 140.</rdf:li>
+		  <rdf:li>Obtener el mejor uso de la publicidad, 141. </rdf:li>
+		  <rdf:li>Apoyar el marketing directo, 143.</rdf:li>
+		  <rdf:li>Ayudar a las agencias locales a desarrollar campañas especiales, 143.</rdf:li>
+		  <rdf:li>Ejecutar promociones conjuntas, 144.</rdf:li>
+		  <rdf:li>Desarrollar actividades mayoristas, 144.</rdf:li>
+		  <rdf:li>Incentivos de gestión de venta, 145.</rdf:li>
+		  <rdf:li>Introducir nuevas tecnologías, 146</rdf:li>
+		  <rdf:li>Recursos internos, 146.</rdf:li>
+		  <rdf:li>Responder a un plan de marketing local, 146.</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="PREPARAR PROGRAMAS DE MARKETING A LA MEDIDA">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Programas de apoyo nacional, 154.</rdf:li>
+		  <rdf:li>Programas obligatorios, 157.</rdf:li>
+		  <rdf:li>Participación en otros programas, 158.</rdf:li>
+		  <rdf:li>Ajustar programas a la medida, 158.</rdf:li>
+		  <rdf:li>Programas de apoyo modulares, 159.</rdf:li>
+		  <rdf:li>Marketing directo, 162,</rdf:li>
+		  <rdf:li>Gestión de base de datos, 166.</rdf:li>
+		  <rdf:li>Gestión de acontecimientos locales, 168.</rdf:li>
+		  <rdf:li>Servicio de publicidad a la medida, 170.</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="CONSEGUIR ESTÁNDARES CONSISTENTES">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Crear imagen de marca en las agencias locales, 178.</rdf:li>
+		  <rdf:li>Estándares de calidad, 180.</rdf:li>
+		  <rdf:li>Perfil de experiencia, 184.</rdf:li>
+		  <rdf:li>Comunicar la formación, 186.</rdf:li>
+		  <rdf:li>Concentrar los recursos en centros de excelencia, 190.</rdf:li>
+		  <rdf:li>Utilizar la mejor práctia, 190.</rdf:li>
+		  <rdf:li>Conseguir estándares visuales consistentes, 191.</rdf:li>
+		  <rdf:li>Ejecución, 197.</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="ENFOCARSE EN LA ATENCIÓN AL CLIENTE">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Paneles de enfoque en el cliente, 209.</rdf:li>
+		  <rdf:li>Estándares de enfoque en el cliente, 211.</rdf:li>
+		  <rdf:li>Programas de atención al cliente, 213.</rdf:li>
+		  <rdf:li>Formación de la atención al cliente, 214.</rdf:li>
+		  <rdf:li>Índices de satisfacción del cliente, 215</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="MEJORAR EL RENDIMIENTO DE LAS VENTAS">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Lanzar nuevos productos y servicios, 225.</rdf:li>
+		  <rdf:li>Guias del producto y marketing, 229.</rdf:li>
+		  <rdf:li>Programas estructurados de incentivos, 233.</rdf:li>
+		  <rdf:li>Programas de incentivos al cliente, 234.</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="DESARROLLAR UNA ESTRATEGOA DE CONTACTO">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>USar las comunicaciones para motivar, 240.</rdf:li>
+		  <rdf:li>Usar las comunicaciones para mejorar el servicio, 241.</rdf:li>
+		  <rdf:li>La importancia del contacto personal, 242.</rdf:li>
+		  <rdf:li>Conferencias nacionales, 243.</rdf:li>
+		  <rdf:li>Reuniones regionales de negocios, 245.</rdf:li>
+		  <rdf:li>Anuncios de productos, 246.</rdf:li>
+		  <rdf:li>Informes de sucursal, 247</rdf:li>
+		  <rdf:li>Nombrar un distribuidor especializado, 248.</rdf:li>
+		  <rdf:li>Programas de comunicaciones del personal, 249.</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="TRABAJAR EN ASOCIACIÓN">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Proporcionar recursos de alcance nacional, 257.</rdf:li>
+		  <rdf:li>Ampliar el servicio, 261.</rdf:li>
+		  <rdf:li>Joint ventures, 262.</rdf:li>
+		  <rdf:li>Lazos comerciales más fuertesm 263</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="CONTROLAR LOS PROGRAMAS DE APOYO LOCAL">
+	  <ct:subtema>
+		<rdf:Seq>
+		  <rdf:li>Presupuestos de marketing, 267.</rdf:li>
+		  <rdf:li>Apoyo y planificación del marketing central, 269.</rdf:li>
+		  <rdf:li>Proporcionar un servicio de literatura a la sucursal, 271.</rdf:li>
+		  <rdf:li>Administración del programa, 273.</rdf:li>
+		  <rdf:li>Establecer los estándares de marketing, 275.</rdf:li>
+		  <rdf:li>Usar agencias de apoyo, 275.</rdf:li>
+		</rdf:Seq>
+	  </ct:subtema>
+	</rdf:Description>
+	
+</rdf:RDF> 

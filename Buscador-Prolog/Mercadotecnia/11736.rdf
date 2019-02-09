@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Mercadotecnia/">
+
+	<rdf:Description rdf:about="MARKETING ESTRATEGICO">
+		<ct:tema>
+			<rdf:Seq>
+				<rdf:li>Las perspectivas orientadas al mercado, base de las estrategias corporativas exitosas, de negocios y de marketing</rdf:li>
+				<rdf:li>Decisiones de estrategia corporativay sus implicaciones de marketing</rdf:li>
+				<rdf:li>Estrategias de negociosy sus implicaciones de marketing</rdf:li>
+				<rdf:li>Identificación de mercados atractivos</rdf:li>
+			</rdf:Seq>
+		</ct:tema>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="Las perspectivas orientadas al mercado, base de las estrategias corporativas exitosas, de negocios y de marketing">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li>Retos estratégicos tratados en el capítulo</rdf:li>
+				<rdf:li>Tres niveles de estrategia: componentes similares pero cuestiones diferentes</rdf:li>
+				<rdf:li>¿Qué es una estrategia?</rdf:li>
+				<rdf:li>Los componentes de la estrategia </rdf:li>
+				<rdf:li>Jerarquía de las estrategias</rdf:li>
+				<rdf:li>Estrategia corporativa</rdf:li>
+				<rdf:li>Estrategia del ámbito de negocios</rdf:li>
+				<rdf:li>Estrategia de marketing</rdf:li>
+				<rdf:li>¿Qué papel desempeña el marketing en la formulación e implementación de las estrategias?</rdf:li>
+				<rdf:li>Administración orientada al mercado</rdf:li>
+				<rdf:li>¿Los clientes saben siempre qué es lo que quieren?</rdf:li>
+				<rdf:li>¿Da buenos resultados orientarse al mercado?</rdf:li>
+				<rdf:li>Factores que intervienen en la función estratégica del marketing</rdf:li>
+				<rdf:li>Acontecimientos recientes que afectan a la función estratégica del marketing</rdf:li>
+				<rdf:li>Función futura del marketing</rdf:li>
+				<rdf:li>Formulación y ejecución de la estrategia de marketing: panorama del proceso</rdf:li>
+				<rdf:li>Enfoque de toma de decisiones</rdf:li>
+				<rdf:li>El análisis ocupa el primer lugar </rdf:li>
+				<rdf:li>Integración de la estrategia de marketing con las demás estrategias y recursos de la empresa</rdf:li>
+				<rdf:li>Análisis de la oportunidad de mercado</rdf:li>
+				<rdf:li>Formulación de estrategias de marketing para situaciones específicas</rdf:li>
+				<rdf:li>Implantación y control de la estrategia de marketing</rdf:li>
+				<rdf:li>El plan de marketing: plan detallado para la acción</rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+	<rdf:Description rdf:about="Decisiones de estrategia corporativay sus implicaciones de marketing">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li>Retos estratégicos tratados en el capítulo</rdf:li>
+				<rdf:li>Esfera de acción corporativa: definición de la misión de la empresa</rdf:li>
+				<rdf:li>Influencias del mercado en la misión corporativa</rdf:li>
+				<rdf:li>Criterios para definir la misión corporativa</rdf:li>
+				<rdf:li>Valores sociales y principios éticos</rdf:li>
+				<rdf:li>¿Por qué es importante la ética? Implicaciones de marketing de las normas ética </rdf:li>
+				<rdf:li>Objetivos corporativos</rdf:li>
+				<rdf:li>Realce del valor para el accionista. El objetivo definitivo</rdf:li>
+				<rdf:li>Implicaciones de marketing de los objetivos corporativos</rdf:li>
+				<rdf:li>Estrategias de crecimiento corporativo</rdf:li>
+				<rdf:li>Expansión por aumento de la penetración de mercados de producto actuales</rdf:li>
+				<rdf:li>Expansión por desarrollo de nuevos productos </rdf:li>
+				<rdf:li>para clientes actuales</rdf:li>
+				<rdf:li>Expansión por venta de productos existentes a nuevos segmentos o países</rdf:li>
+				<rdf:li>Expansión por diversificación </rdf:li>
+				<rdf:li>Expansión por diversificación mediante relaciones o redes de organización</rdf:li>
+				<rdf:li>Asignación de recursos corporativos</rdf:li>
+				<rdf:li>Modelos de cartera</rdf:li>
+				<rdf:li>Planeación basada en el valor</rdf:li>
+				<rdf:li>Fuentes de sinergia</rdf:li>
+				<rdf:li>Sinergias basadas en el conocimiento</rdf:li>
+				<rdf:li>La identidad y la marca corporativas como fuente de sinergia</rdf:li>
+				<rdf:li>Estrategia de manejo de marca corporativa. </rdf:li>
+				<rdf:li>¿Cuándo tiene sentido una fuerte marca corporativa?</rdf:li>
+				<rdf:li>Sinergia de recursos compartidos</rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+	<rdf:Description rdf:about="Estrategias de negociosy sus implicaciones de marketing">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li>Retos estratégicos tratados en el capítulo</rdf:li>
+				<rdf:li>Decisiones estratégicas en el ámbito de la unidad de negocios</rdf:li>
+				<rdf:li>¿Cómo deben designarse las unidades estratégicas de negocios?</rdf:li>
+				<rdf:li>Objetivos de la unidad de negocios </rdf:li>
+				<rdf:li>Asignación de recursos dentrode la unidad de negocios</rdf:li>
+				<rdf:li>¿Cómo se compite en los negocios?</rdf:li>
+				<rdf:li>Estrategias competitivas de nivel genérico de negocios</rdf:li>
+				<rdf:li>¿Funcionan adecuadamente las mismas estrategias competitivas para empresas de servicio?</rdf:li>
+				<rdf:li>¿Funcionan adecuadamente las mismas estrategias competitivas para competidores globales?</rdf:li>
+				<rdf:li>¿Internet cambiará todo?</rdf:li>
+				<rdf:li>¿En qué forma difieren las estrategias </rdf:li>
+				<rdf:li>competitivas una de otra?</rdf:li>
+				<rdf:li>Diferencias en alcance o esfera de acción </rdf:li>
+				<rdf:li>Diferencias en metas y objetivos</rdf:li>
+				<rdf:li>¿Qué pasa si el mejor programa de marketing para un producto no se ajusta a la estrategia competitiva del negocio?</rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>
+	<rdf:Description rdf:about="Identificación de mercados atractivos">
+		<ct:subtema>
+			<rdf:Seq>
+				<rdf:li>Retos estratégicos tratados en el capítulo</rdf:li>
+				<rdf:li>Nadar en contra o a favor de la corriente</rdf:li>
+				<rdf:li>Una importante elección estratégica</rdf:li>
+				<rdf:li>Análisis de tendencias macro. Un marco para evaluar el atractivo del mercado </rdf:li>
+				<rdf:li>El ambiente demográfico</rdf:li>
+				<rdf:li>El ambiente sociocultural</rdf:li>
+				<rdf:li>El ambiente económico</rdf:li>
+				<rdf:li>El ambiente político y jurídico</rdf:li>
+				<rdf:li>El ambiente tecnológico</rdf:li>
+				<rdf:li>El ambiente físico</rdf:li>
+				<rdf:li>El análisis ambiental guía la toma de decisiones de marketing</rdf:li>
+				<rdf:li>Asignación de prioridades a las categorías de tendencia</rdf:li>
+				<rdf:li>Fuentes de información y resultados del análisis de tendencias macro</rdf:li>
+			</rdf:Seq>
+		</ct:subtema>
+	</rdf:Description>

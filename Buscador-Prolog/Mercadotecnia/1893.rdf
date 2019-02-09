@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Mercadotecnia/">
+	
+	<rdf:Description rdf:about="La definición del marketing para el siglo X X I">
+	  <ct:tema>
+		<rdf:Seq>
+		  <rdf:li>La importancia del marketing</rdf:li>
+		  <rdf:li>El alcance del marketing</rdf:li>
+		  <rdf:li>Conceptos fundamentales de marketing</rdf:li>
+		  <rdf:li>Las nuevas realidades del marketing</rdf:li>
+		  <rdf:li>Marketing en acción El marketing en la era de la turbulencia</rdf:li>
+		  <rdf:li>Orientación de la empresa hacia el mercado</rdf:li>
+		</rdf:Seq>
+	  </ct:tema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Desarrollo de estrategias y planes de marketing ">
+	  <ct:tema>
+		<rdf:Seq>
+		  <rdf:li>El marketing y el valor para el cliente</rdf:li>
+		  <rdf:li>Planificación estratégica corporativa y divisional</rdf:li>
+		  <rdf:li>Marketing en acción Creación de marketing innovador</rdf:li>
+		  <rdf:li>Apuntes de marketing Lista de verificación para llevar a cabo un análisis de fortalezas y debilidades </rdf:li>
+		</rdf:Seq>
+	  </ct:tema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Recopilación de información y pronósticos de la demanda">
+	  <ct:tema>
+		<rdf:Seq>
+		  <rdf:li>Los componentes de un sistema de información de marketing moderno</rdf:li>
+		  <rdf:li>El sistema de datos interno</rdf:li>
+		  <rdf:li>nteligencia de marketing</rdf:li>
+		  <rdf:li>Análisis del macroentorno </rdf:li>
+		  <rdf:li>Pronóstico y cálculo de la demanda</rdf:li>
+		</rdf:Seq>
+	  </ct:tema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Investigación de mercados">
+	  <ct:tema>
+		<rdf:Seq>
+		  <rdf:li>El sistema de investigación de mercados</rdf:li>
+		  <rdf:li>Apuntes de marketing Implementación de focus groups para recopilación de información  </rdf:li>
+		  <rdf:li>Apuntes de marketing Recomendaciones para elaborar cuestionarios </rdf:li>
+		  <rdf:li>Marketing en acción Cómo entrar en la mente de los consumidores  </rdf:li>
+		</rdf:Seq>
+	  </ct:tema>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="Creación de relaciones de lealtad de largo plazo ">
+	  <ct:tema>
+		<rdf:Seq>
+		  <rdf:li>Creación de valor, satisfacción y lealtad del cliente </rdf:li>
+		  <rdf:li>Cultivando las relaciones con los clientes </rdf:li>
+		  <rdf:li>Gestión de las relaciones con los clientes </rdf:li>
+		  <rdf:li>Bases de datos de clientes y marketing de base de datos</rdf:li>
+		</rdf:Seq>
+	  </ct:tema>
+	</rdf:Description>
+
+</rdf:RDF> 

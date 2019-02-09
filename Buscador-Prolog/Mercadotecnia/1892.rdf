@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Mercadotecnia/">
+
+	<rdf:Description rdf:about="COMO PREPARAR UN PLAN DE MARKETING">
+	  <ct:tema>
+		<rdf:Seq>
+		  <rdf:li>Figuras</rdf:li>
+		  <rdf:li>Agradecimiento</rdf:li>
+		  <rdf:li>Prefacio a la tercera edición inglesa</rdf:li>
+		  <rdf:li>Introducción</rdf:li>
+		  <rdf:li>1. Determinación de los objetivos</rdf:li>
+		  <rdf:li>2. Elaboración de la previsión de ventas</rdf:li>
+		  <rdf:li>3. Evaluación del perfil de los competidores</rdf:li>
+		  <rdf:li>4. Análisis de las cuotas de mercado</rdf:li>
+		  <rdf:li>5. Introducción de productos nuevos</rdf:li>
+		  <rdf:li>6. Gestión de los precios</rdf:li>
+		  <rdf:li>7. Control de la distribución</rdf:li>
+		  <rdf:li>8. Establecimiento del servicio al cliente</rdf:li>
+		  <rdf:li>9. Plan de publicidad</rdf:li>
+		  <rdf:li>10. Evaluación de los medios de comunicación</rdf:li>
+		  <rdf:li>11. Despliegue de las relaciones públicas</rdf:li>
+		  <rdf:li>12. Supervisión del márketing de incentivos</rdf:li>
+		  <rdf:li>13. Utilización del envasado</rdf:li>
+		  <rdf:li>14. Gestión de marcas</rdf:li>
+		  <rdf:li>15. Disposición del presupuesto</rdf:li>
+		  <rdf:li>16. Previsión de contingencias</rdf:li>
+		  <rdf:li>17. Gestión del control</rdf:li>
+		  <rdf:li>18. Organización del personal</rdf:li>
+		  <rdf:li>19. Realización de los planes</rdf:li>
+		  <rdf:li>Apéndice. Utilización de métodos estadísticos</rdf:li>
+		</rdf:Seq>
+	  </ct:tema>
+	</rdf:Description>
+	
+</rdf:RDF> 

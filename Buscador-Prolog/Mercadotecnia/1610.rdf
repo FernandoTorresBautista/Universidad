@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Mercadotecnia/">
+
+	<rdf:Description rdf:about="PROGRAMA DE DESARROLLO EMPRESARIAL. PAQUETE DE MERCADOTECNIA. MOTIVACIONES DEL CLIENTE AL COMPRAR">
+	  <ct:tema>
+		<rdf:Seq>
+		  <rdf:li>Instrucciones</rdf:li>
+		  <rdf:li>Evaluación previa</rdf:li>
+		  <rdf:li>Introducción</rdf:li>
+		  <rdf:li>Objetivo terminal</rdf:li>
+		  <rdf:li>¿Qué compran realmente los clientes?</rdf:li>
+		  <rdf:li>En realidad los clientes compran beneficios</rdf:li>
+		  <rdf:li>Qué clase de producto es el mío?</rdf:li>
+		  <rdf:li>Productos no duraderos</rdf:li>
+		  <rdf:li>Productos duraderos</rdf:li>
+		  <rdf:li>Servicios</rdf:li>
+		  <rdf:li>Productos de consumo</rdf:li>
+		  <rdf:li>Productos industriales</rdf:li>
+		</rdf:Seq>
+	  </ct:tema>
+	</rdf:Description>
+	
+</rdf:RDF> 
